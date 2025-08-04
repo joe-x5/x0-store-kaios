@@ -79,5 +79,5 @@ MIT License. Free to use, modify, and distribute. Attribution appreciated 🙏
 
 ## 🌟 Created By
 **X0 Store Community**  
-Maintained by: `@DiElahi`, `@X0-Team`, and contributors
+Maintained by: `@X0`, `@X0-Team`, and contributors
 
