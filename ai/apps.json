@@ -1,1 +1,32 @@
-
+[
+    {
+        "name": "ChatGPT",
+        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/chat-gpt-x\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=chat-gpt-x"
+    },
+    {
+        "name": "Cat Pic Genrator",
+        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/cats-pic-genrator\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=cats-pic-genrator"
+    },
+    {
+        "name": "Ai Image Generator",
+        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/ai-image-genrator\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=ai-image-genrator"
+    },
+    {
+        "name": "Ai Img",
+        "url": "https:\/\/x0.rf.gd\/a\/ai-img\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Ai+Img.png"
+    },
+    {
+        "name": "X0 GPT",
+        "url": "https:\/\/x0.rf.gd\/a\/x0-gpt\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=X0+GPT.png"
+    },
+    {
+        "name": "Invision X",
+        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Invision%20X\/",
+        "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Invision%20X\/icons\/icon112x112.png"
+    }
+]
