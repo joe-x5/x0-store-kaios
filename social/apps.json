@@ -1,1 +1,157 @@
-
+[
+    {
+        "name": "Facebook Chat",
+        "url": "https:\/\/www.facebook.com",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=facebook-icon.png"
+    },
+    {
+        "name": "Twitter Connect",
+        "url": "https:\/\/www.twitter.com",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=twitter-icon.png"
+    },
+    {
+        "name": "WhatsApp Web",
+        "url": "https:\/\/web.whatsapp.com",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=whatsapp-icon.png"
+    },
+    {
+        "name": "Telegram Web",
+        "url": "https:\/\/web.telegram.org",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=telegram-icon.png"
+    },
+    {
+        "name": "Chat MAX ALL",
+        "url": "http:\/\/x0.rf.gd\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=chat_max_all-20250719063409.png"
+    },
+    {
+        "name": "Chatwave (All)",
+        "url": "https:\/\/x00.yzz.me\/a\/chatwave-all\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=chatwave-all+icon.png"
+    },
+    {
+        "name": "Global Chat",
+        "url": "https:\/\/wxfire.yzz.me\/tools\/kaios\/apps\/global-chat\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=global-chat-icon"
+    },
+    {
+        "name": "Chat Batasa",
+        "url": "https:\/\/chat-max-all.blogspot.com\/2025\/04\/chat-batasa.html?m=1",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=chatbatasa-chat-app"
+    },
+    {
+        "name": "Chat Max (WXFIRE)",
+        "url": "https:\/\/wxfire.rf.gd\/tools\/kaios\/apps\/chat-max\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=chat-max-chatting-icon.png"
+    },
+    {
+        "name": "Chit Chat (All)",
+        "url": "https:\/\/x00.yzz.me\/a\/chit-chat-all\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=chit-chat-all-icon.png"
+    },
+    {
+        "name": "VCall",
+        "url": "https:\/\/vivekgyan7.rf.gd\/vcall\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=vcall-videocall-icon.png"
+    },
+    {
+        "name": "Chat Max All (Android)",
+        "url": "https:\/\/chat-max-all.blogspot.com",
+        "icon": "https:\/\/chat-max-all.blogspot.com\/favicon.ico"
+    },
+    {
+        "name": "T20 Cricket",
+        "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/t20cricket.jar&midlet=MBL_DEFAULT",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=T20+Cricket.png"
+    },
+    {
+        "name": "FTU",
+        "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/ftu.jar&midlet=BookReaderMidlet",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=FTU.png"
+    },
+    {
+        "name": "Discord",
+        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Discord4KaiOS\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Discord.png"
+    },
+    {
+        "name": "Threads",
+        "url": "https:\/\/www.threads.com",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Threads.png"
+    },
+    {
+        "name": "Meet Y99",
+        "url": "https:\/\/meet.y99.in\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Meet+Y99.png"
+    },
+    {
+        "name": "Teen Chat City",
+        "url": "https:\/\/teenchatcity.com",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Teen+Chat+City.png"
+    },
+    {
+        "name": "Super Teen Chat",
+        "url": "https:\/\/superteenchat.com\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Super+Teen+Chat.png"
+    },
+    {
+        "name": "Kids Chat Net",
+        "url": "https:\/\/www.kidschat.net\/kidschat\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Kids+Chat+Net.png"
+    },
+    {
+        "name": "Chatify",
+        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/chat\/chatify\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Chatify.png"
+    },
+    {
+        "name": "Private Chat",
+        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/chat\/private\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Private+Chat.png"
+    },
+    {
+        "name": "Chatwave",
+        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/chatwave\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Chatwave.png"
+    },
+    {
+        "name": "Cam Chat",
+        "url": "https:\/\/cams.chat-avenue.com\/register",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Cam+Chat.png"
+    },
+    {
+        "name": "Video Chat",
+        "url": "https:\/\/www.chat-avenue.com\/video\/chat.php",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Video+Chat.png"
+    },
+    {
+        "name": "Adult Chat",
+        "url": "https:\/\/adultmobile.chat-avenue.com\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Adult+Chat.png"
+    },
+    {
+        "name": "Live Chat",
+        "url": "https:\/\/www.chat-avenue.com\/live\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Live+Chat.png"
+    },
+    {
+        "name": "KaiCall",
+        "url": "https:\/\/kaios-call.blogspot.com\/2025\/08\/vcall.html",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=KaiCall.png"
+    },
+    {
+        "name": "KaiCall (VCall)",
+        "url": "https:\/\/chat-max-all.blogspot.com\/2025\/08\/vcall-kaios.html",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=KaiCall+%28VCall%29.png"
+    },
+    {
+        "name": "chitchat",
+        "url": "https:\/\/x0.rf.gd\/a\/chitchat\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=chitchat.png"
+    },
+    {
+        "name": "chatwave",
+        "url": "https:\/\/x0.rf.gd\/a\/chatwave\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=chatwave.png"
+    }
+]
