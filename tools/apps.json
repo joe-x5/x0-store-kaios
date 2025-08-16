@@ -1,1 +1,27 @@
-
+[
+    {
+        "name": "Draw It",
+        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Draw-IT\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=draw-it-drawing-app"
+    },
+    {
+        "name": "Google",
+        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/google-micro4\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=google-micro4-googlebrand"
+    },
+    {
+        "name": "Vibrator Max",
+        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/vibrator-max\/",
+        "icon": "host\/vibrator-max-20250719082855.png"
+    },
+    {
+        "name": "Cilia",
+        "url": "http:\/\/anas6284.wapkizs.com",
+        "icon": "host\/cilia-20250720133046.png"
+    },
+    {
+        "name": "Cloud Web",
+        "url": "https:\/\/x0.rf.gd\/a\/cloud-web\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Cloud+Web.png"
+    }
+]
