@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta http-equiv="refresh" content="60; url=https://x0allkaios.blogspot.com"/>
+
+
+<script src="/kaiads.v5.min.js"></script>
+
+
+
+
+    <title>Games - X0 All KaiOS</title>
+ <meta property="og:image" content="https://x0.rf.gd/a/ai-image-genrator/gen.php?prompt=X0-Store-games&width=600&height=300" />
+
+  <link rel="icon" href="https://x0.rf.gd/a/ai-image-genrator/gen.php?prompt=X0-Store-games&width=128&height=128" />
+
+
+<meta content='ca-pub-1786122365693674' name='google-adsense-account'/>
+  
+    
+
+  <meta content='yHxwPbEBzFfMooOWanGYYiIQyCu_4Ai9bGxLQ4SP07U' name='google-site-verification'/>
+  
+
+ 
+  <meta content='X0 All : Tools App | Alternatives of Chat Max All' property='og:title'/>
+  
+  <meta content='X0 All lets you connect with friends through our tools, chats, create group chats, and join global chats. ' property='og:description'/>
+
+  <meta content='KaiOS No.1 Tools App with 50K+ downloads and 50K+ users in just 3 months! X0 All lets you connect with friends through private chats, create group chats, and join global chats. No phone number required—just start chatting instantly! Send images and express yourself freely. Make new friends, share your feelings, and enjoy real-time conversations. Exciting new features, including **voice and video chat**, are coming soon. Stay connected and experience seamless chatting like never before!' name='description'/>
+
+
+
+
+<style>
+.cursor-enabled {
+    cursor: default; /* Enables mouse cursor */
+}
+</style>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-containerserif;
+            background: #f5f5f5;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+
+                 .container {
+            width: 100%; 
+            background-color: #fff;
+            border-radius: 12px;
+            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+            padding: 1px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        #liveTime {
+            font-size: 8px;
+            font-weight: bold;
+            color: #007aff;
+            margin-bottom: 5px;
+        }
+
+        #userIP {
+
+            font-size: 8px;
+            font-weight: bold;
+            color: #333;
+            text-align: center;
+            margin-bottom: 5px;
+        }
+
+        h1 {
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 15px;
+        }
+
+
+
+        .version-buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            padding: 2px;
+            margin: 2px;
+            background: white;
+            border-radius: 12px;
+            border: 1px solid black;
+        }
+
+                .version-buttons button {
+            width: 100%;
+            padding: 12px 14px;
+            font-size: 14px;
+            font-weight: bold;
+
+            background: transparent;
+            color: black;
+            border-radius: 8px;
+            cursor: pointer;
+            border: 1px solid black;
+            display: flex;
+            align-items: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+        }
+
+
+
+                .version-buttons button:hover,
+        .version-buttons button:focus {
+            background: #83EDF;
+            border: 2px solid red;
+            outline: none;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+        }
+         
+
+        .footer {
+            margin-top: 15px;
+            font-size: 14px;
+            color: #ccc;
+        }
+
+        .confirm-modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.7);
+            display: none;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .confirm-modal .modal-content {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        .confirm-modal button {
+            margin: 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            background-color: #007aff;
+            color: white;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+
+        .confirm-modal button:hover {
+            background-color: #0051a8;
+        }
+
+
+footer.softkey,
+#softkey-left,
+#softkey-center,
+#softkey-right {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+#softkey-left {
+    text-align: left;
+    font-size: 14px;
+    color: #fffdfd;
+    padding-left: 0.5rem;
+}
+
+#softkey-center {
+    text-align: center;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+#softkey-right {
+    text-align: right;
+    font-size: 14px;
+    padding-right: 5px;
+    color: #ffffff;
+}
+
+#softKeysContainer {
+    height: 0.8rem;
+    line-height: 0.8rem;
+    width: 100%;
+    background-color: rgb(8, 8, 8);
+    position: fixed;
+    bottom: 0;
+}
+
+img {
+      width: 24px;
+      height: 24px;
+      border-radius: 8px;
+
+
+
+    </style>
+</head>
+<body>
+
+
+   
+    <div class="container">
+   
+
+   
+        <h1> < Games > </h1>
+        <div class="version-buttons">
+<div id="apps-container"></div>
+
+<script>
+// URL of your JSON file
+const appsFile = 'https://x0.rf.gd/a/x0-all/games/apps.json';
+
+// Function to open app URL
+function openVersion(url) {
+    window.open(url, '_blank');
+}
+
+// Fetch the JSON and generate buttons
+fetch(appsFile)
+    .then(response => response.json())
+    .then(apps => {
+        const container = document.getElementById('apps-container');
+        apps.forEach(app => {
+            // Create button
+            const button = document.createElement('button');
+            button.onclick = () => openVersion(app.url);
+
+            // Create image
+            const img = document.createElement('img');
+            img.src = app.icon;
+            img.alt = app.name;
+            img.style.marginRight = '12px';
+            img.style.objectFit = 'contain';
+
+            // Add image and text to button
+            button.appendChild(img);
+            button.appendChild(document.createTextNode(' ' + app.name));
+
+            // Add button to container
+            container.appendChild(button);
+        });
+    })
+    .catch(err => console.error('Failed to load apps JSON:', err));
+</script>
+
+
+                </div>
+
+<script>
+  function openVersion(url) {
+    window.open(url, '_blank');
+  }
+</script>
+
+    <script>
+
+        // Navigation handlers
+        document.addEventListener('keydown', function(event) {
+            // SoftRight button - Main page
+            if (event.key === 'SoftRight') {
+                window.location.href = 'https://x0.rf.gd/a/x0-all/';
+            }
+            // Right arrow - Social page
+            else if (event.key === 'ArrowRight') {
+                window.location.href = 'https://x0.rf.gd/a/x0-all/social/';
+            }
+            // Left arrow - Games page
+            else if (event.key === 'ArrowLeft') {
+                window.location.href = 'https://x0.rf.gd/a/x0-all/tools/';
+            }
+        });
+    </script>
+
+
+<br>
+
+<div style="
+  margin-top: 5px;
+ font-weight: bold;
+  border: 2px solid brown;
+  border-radius: 20px;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+  padding: 2px;
+  background-color: white;
+" class="footer">© <span id="currentYear"></span> Tool Max Pro X
+
+            <div id="liveTime">Loading time...</div>
+    
+    <div id="userIP">Fetching IP Address...</div>
+
+
+</div>
+        
+    </div>
+
+    <div id="exitModal" class="confirm-modal">
+        <div class="modal-content">
+            <p>Are you sure you want to exit?</p>
+            <button onclick="exitApp(true)">Yes</button>
+            <button onclick="exitApp(false)">No</button>
+        </div>
+    
+
+</div>
+
+    <footer class="softkey">
+    <div id="softKeysContainer">
+      <div id="softkey-left">🔍</div>
+      <div id="softkey-center">Select</div>
+      <div id="softkey-right">Back</div>
+    </div>
+  </footer>
+
+    <script>
+        function openVersion(url) {
+            window.location.href = url;
+        }
+
+        document.getElementById("currentYear").innerText = new Date().getFullYear();
+
+        function updateTime() {
+            const now = new Date();
+            const hours = now.getHours().toString().padStart(2, '0');
+            const minutes = now.getMinutes().toString().padStart(2, '0');
+            const seconds = now.getSeconds().toString().padStart(2, '0');
+            document.getElementById("liveTime").innerText = `⏰ ${hours}:${minutes}:${seconds}`;
+        }
+        setInterval(updateTime, 1000);
+        updateTime();
+
+        document.addEventListener('keydown', function(event) {
+            let buttons = document.querySelectorAll(".version-buttons button");
+            let focusedElement = document.activeElement;
+
+            if (event.key === "ArrowDown") {
+                for (let i = 0; i < buttons.length; i++) {
+                    if (buttons[i] === focusedElement && i < buttons.length - 1) {
+                        buttons[i + 1].focus();
+                        break;
+                    }
+                }
+            } else if (event.key === "ArrowUp") {
+                for (let i = 0; i < buttons.length; i++) {
+                    if (buttons[i] === focusedElement && i > 0) {
+                        buttons[i - 1].focus();
+                        break;
+                    }
+                }
+            } else if (event.key === "Enter") {
+                focusedElement.click();
+            }
+
+            if (event.key === "SoftRight") {
+                showExitConfirmation();
+            }
+        });
+
+        window.onload = function() {
+            document.querySelector(".version-buttons button").focus();
+            fetchUserIP();
+        };
+
+        let backPressTimeout;
+        function showExitConfirmation() {
+            clearTimeout(backPressTimeout);
+            backPressTimeout = setTimeout(function() {
+                document.getElementById('exitModal').style.display = 'flex';
+            }, 1000);
+        }
+
+        function exitApp(confirmExit) {
+            if (confirmExit) {
+                window.close();
+            } else {
+                document.getElementById('exitModal').style.display = 'none';
+            }
+        }
+
+        function fetchUserIP() {
+            fetch("https://api64.ipify.org?format=json")
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById("userIP").innerText = `🌍 Your IP: ${data.ip}`;
+                })
+                .catch(() => {
+                    document.getElementById("userIP").innerText = "⚠️ Unable to fetch IP";
+                });
+        }
+   
+ 
+    </script>
+    
+  
+  
+  <script>
+document.addEventListener("keydown", function (event) {
+    if (event.repeat) return; // Avoid multiple triggers
+
+    // Track long press state
+    const longPressTimeout = 5000; // 5 seconds
+    let longPressTimer;
+
+    // Refresh Page (Long Press 1)
+    if (event.key === "1") {
+        longPressTimer = setTimeout(() => {
+            alert("🔄 Refreshing Page...");
+            location.reload(); // Refresh the page
+        }, longPressTimeout);
+    }
+
+    // Enable/Disable Mouse Cursor (Long Press 0)
+    if (event.key === "0") {
+        longPressTimer = setTimeout(() => {
+            const body = document.body;
+            if (body.style.cursor === "none") {
+                body.style.cursor = "default";
+                alert("🖱️ Mouse Cursor Enabled");
+            } else {
+                body.style.cursor = "none";
+                alert("🖱️ Mouse Cursor Disabled");
+            }
+        }, longPressTimeout);
+    }
+
+    // Toggle Fullscreen Mode (Long Press #)
+    if (event.key === "#") {
+        longPressTimer = setTimeout(() => {
+            if (!document.fullscreenElement) {
+                document.documentElement.requestFullscreen();
+                alert("📺 Fullscreen Mode Enabled");
+            } else {
+                document.exitFullscreen();
+                alert("📺 Fullscreen Mode Disabled");
+            }
+        }, longPressTimeout);
+    }
+
+    // Exit App (Long Press *)
+    if (event.key === "*") {
+        longPressTimer = setTimeout(() => {
+            alert("🚪 Exiting App...");
+            window.close(); // Attempts to close the app (may not work in some environments)
+        }, longPressTimeout);
+    }
+
+    // Cancel long press on key release
+    document.addEventListener("keyup", function () {
+        clearTimeout(longPressTimer);
+    });
+});
+</script>
+    
+   
+
+
+
+
+<script>
+document.addEventListener("visibilitychange", function () {
+    if (!document.hidden) {
+        document.activeElement.blur();
+        document.body.focus();
+    }
+});
+</script>
+
+<script>
+        getKaiAd({
+	publisher: '58d21092-87f8-47c3-883d-fcd67eb318d8',
+	app: '10',
+	onerror: err => console.error('Custom catch:', err),
+	onready: ad => {
+		// Ad is ready to be displayed
+		// calling 'display' will display the ad
+		ad.call('display')
+	}
+})
+    </script>
+
+
+<script>
+        getKaiAd({
+	publisher: '58d21092-87f8-47c3-883d-fcd67eb318d8',
+	app: '10',
+	onerror: err => console.error('Custom catch:', err),
+	onready: ad => {
+		// Ad is ready to be displayed
+		// calling 'display' will display the ad
+		ad.call('display')
+	}
+})
+    </script>
+
+
+
+
+</body>
+</html>
