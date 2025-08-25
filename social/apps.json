@@ -153,5 +153,35 @@
         "name": "chatwave",
         "url": "https:\/\/x0.rf.gd\/a\/chatwave\/",
         "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=chatwave.png"
+    },
+    {
+        "name": "X0 CHAT5",
+        "url": "https:\/\/x0.rf.gd\/a\/x0chat5\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=X0+CHAT5.png"
+    },
+    {
+        "name": "WX Gallery",
+        "url": "https:\/\/wxfire.rf.gd\/kai\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=WX+Gallery.png"
+    },
+    {
+        "name": "#1PixarGeek",
+        "url": "https:\/\/pixargeek.blogspot.com\/",
+        "icon": "https:\/\/pixargeek.blogspot.com\/favicon.ico"
+    },
+    {
+        "name": "A Girl And A Cat",
+        "url": "https:\/\/a-girl-and-a-cat.blogspot.com",
+        "icon": "https:\/\/a-girl-and-a-cat.blogspot.com\/favicon.ico"
+    },
+    {
+        "name": "Mad X0",
+        "url": "https:\/\/mad-x0.blogspot.com",
+        "icon": "https:\/\/mad-x0.blogspot.com\/favicon.ico"
+    },
+    {
+        "name": "Stupid TD",
+        "url": "https:\/\/stupidtd.blogspot.com",
+        "icon": "https:\/\/stupidtd.blogspot.com\/favicon.ico"
     }
 ]
