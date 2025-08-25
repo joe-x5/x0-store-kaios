@@ -28,5 +28,30 @@
         "name": "Invision X",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Invision%20X\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Invision%20X\/icons\/icon112x112.png"
+    },
+    {
+        "name": "X0 Flower",
+        "url": "https:\/\/x0.rf.gd\/a\/x0flower\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=X0+Flower.png"
+    },
+    {
+        "name": "X0 Car",
+        "url": "https:\/\/x0.rf.gd\/a\/x0car\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=X0+Car.png"
+    },
+    {
+        "name": "X0 Bike",
+        "url": "https:\/\/x0.rf.gd\/a\/x0bike\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=X0+Bike.png"
+    },
+    {
+        "name": "X0 Love",
+        "url": "https:\/\/x0.rf.gd\/a\/x0love\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=X0+Love.png"
+    },
+    {
+        "name": "X0 Heart",
+        "url": "https:\/\/x0.rf.gd\/a\/x0heart\/",
+        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=X0+Heart.png"
     }
 ]
