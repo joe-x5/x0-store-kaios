@@ -1,1 +1,21 @@
+{
+  "masterKey": "vx",
+  "locks": {
+    "deep0": {
+      "enabled": true,
+      "passwords": ["0000", "0987"],
+      "specialKey": "djjddhdhdhhd7ry"
+    },
+    "chatwave": {
+      "enabled": true,
+      "passwords": ["zrf", "darkp0p"],
+      "specialKey": "jdjdjdjdjdhd"
+    },
+    "x0store": {
+      "enabled": false,
+      "passwords": ["storex", "095"],
+      "specialKey": "sudhhehehwheh"
+    }
+  }
+}
 
