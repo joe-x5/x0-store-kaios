@@ -1,1 +1,23 @@
 
+[
+    {
+        "name": "Sms Bomber",
+        "url": "https:\/\/x0.rf.gd\/tools\/smsbomberbyshadow.php",
+        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Sms+Bomber.png"
+    },
+    {
+        "name": "Sim Details",
+        "url": "https:\/\/x0.rf.gd\/tools\/shadowsimdetails.php",
+        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Sim+Details.png"
+    },
+    {
+        "name": "Whatsapp Unban",
+        "url": "https:\/\/x0.rf.gd\/tools\/perma-unbanned.php",
+        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Whatsapp+Unban.png"
+    },
+    {
+        "name": "CDR Database",
+        "url": "https:\/\/x0.rf.gd\/tools\/cdr-database.html",
+        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=CDR+Database.png"
+    }
+]
