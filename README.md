@@ -86,15 +86,18 @@ Welcome to **X0 Store KaiOS**, a fully free web-based platform to host, create, 
 
 ## Other Links
 
-x0.ct.ws
+--------
+|http://x0.ct.ws |
 
-store.x0.rf.gd
+| http://store.x0.rf.gd |
 
-chat.x0.rf.gd
+| http://chat.x0.rf.gd |
 
-x0.rf.gd/a/
+| http://x0.rf.gd/a/ |
 
-x00.yzz.me
+| http://x00.yzz.me |
+
+--------
 
 
 ## 📦 License
