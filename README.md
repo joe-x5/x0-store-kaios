@@ -71,6 +71,32 @@ Welcome to **X0 Store KaiOS**, a fully free web-based platform to host, create, 
 
 ---
 
+## X0 Store KaiOS and X0 All KaiOS 
+--------
+| Categories | Url |
+|------------|-----|
+|Education :| https://x0.rf.gd/a/x0-all/education/ |
+|Social :| https://x0.rf.gd/a/x0-all/social/|
+|Games :| https://x0.rf.gd/a/x0-all/games/|
+|Utility :| https://x0.rf.gd/a/x0-all/utility/|
+|Ai :| https://x0.rf.gd/a/x0-all/ai/|
+|Multimedia :| https://x0.rf.gd/a/x0-all/multimedia/|
+
+----
+
+## Other Links
+
+x0.ct.ws
+
+store.x0.rf.gd
+
+chat.x0.rf.gd
+
+x0.rf.gd/a/
+
+x00.yzz.me
+
+
 ## 📦 License
 
 MIT License. Free to use, modify, and distribute. Attribution appreciated 🙏
