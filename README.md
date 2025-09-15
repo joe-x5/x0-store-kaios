@@ -113,8 +113,11 @@ Welcome to **X0 Store KaiOS**, a fully free web-based platform to host, create, 
 --------
 # html + js
 --------
-|         <h1> < Games > </h1>
+--------
+        
+        <h1> < Games > </h1>
         <div class="version-buttons">
+        
 <div id="apps-container"></div>
 
 <script>
@@ -156,22 +159,22 @@ fetch(appsFile)
 
 
                 </div>
-|
+
 
 --------
 
 --------
 #PHP + HTML
 --------
-
-|         <h1> < Games > </h1>
+--------
+       <h1> < Games > </h1>
         <div class="version-buttons">
 
 
             <?php
             // Comment marker for auto-generated buttons
             // Load apps from JSON
-            $appsFile = 'apps.json';
+            $appsFile = 'https://joe-x5.github.io/x0-store-kaios/games/apps.json';
             if (file_exists($appsFile)) {
                 $apps = json_decode(file_get_contents($appsFile), true);
                 foreach ($apps as $app) {
@@ -185,7 +188,7 @@ fetch(appsFile)
             ?>
 
                 </div>
-|
+
 -------
 
 
