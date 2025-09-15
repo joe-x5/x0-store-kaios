@@ -43,5 +43,35 @@
         "name": "Coolapk KaiOS",
         "url": "https:\/\/coolapk-kaios.vercel.app\/#\/",
         "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Coolapk+KaiOS.png"
+    },
+    {
+        "name": "PWA KaiOS",
+        "url": "https:\/\/wp-manager.blogspot.com\/",
+        "icon": "https:\/\/wp-manager.blogspot.com\/favicon.png"
+    },
+    {
+        "name": "Movie Downloader",
+        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Movie_Downloader\/",
+        "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Movie_Downloader\/icons\/ic-128.png"
+    },
+    {
+        "name": "Password Generator",
+        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Password_Generator\/",
+        "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Password_Generator\/icons\/icon112x112.png"
+    },
+    {
+        "name": "RoyalBrowser Lite",
+        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/RoyalBrowser_Lite\/",
+        "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/RoyalBrowser_Lite\/icons\/icon112.png"
+    },
+    {
+        "name": "Super Downloader",
+        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Super_Downloader\/",
+        "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Super_Downloader\/icons\/icon_128.png"
+    },
+    {
+        "name": "Video Downloader",
+        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Video_Downloader\/",
+        "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Video_Downloader\/icons\/128.png"
     }
 ]
