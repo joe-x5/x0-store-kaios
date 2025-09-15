@@ -98,6 +98,98 @@ Welcome to **X0 Store KaiOS**, a fully free web-based platform to host, create, 
 | http://x00.yzz.me |
 
 --------
+## X0 Store KaiOS - All Apps
+--------
+| https://joe-x5.github.io/x0storekaios/ |
+--------
+
+## X0 All KaiOS - All Apps
+---------
+| https://joe-x5.github.io/x0allkaios/ |
+--------
+
+## How to use App use api 
+
+--------
+# html + js
+--------
+|         <h1> < Games > </h1>
+        <div class="version-buttons">
+<div id="apps-container"></div>
+
+<script>
+// URL of your JSON file
+const appsFile = 'https://joe-x5.github.io/x0-store-kaios/games/apps.json';
+
+// Function to open app URL
+function openVersion(url) {
+    window.open(url, '_blank');
+}
+
+// Fetch the JSON and generate buttons
+fetch(appsFile)
+    .then(response => response.json())
+    .then(apps => {
+        const container = document.getElementById('apps-container');
+        apps.forEach(app => {
+            // Create button
+            const button = document.createElement('button');
+            button.onclick = () => openVersion(app.url);
+
+            // Create image
+            const img = document.createElement('img');
+            img.src = app.icon;
+            img.alt = app.name;
+            img.style.marginRight = '12px';
+            img.style.objectFit = 'contain';
+
+            // Add image and text to button
+            button.appendChild(img);
+            button.appendChild(document.createTextNode(' ' + app.name));
+
+            // Add button to container
+            container.appendChild(button);
+        });
+    })
+    .catch(err => console.error('Failed to load apps JSON:', err));
+</script>
+
+
+                </div>
+|
+
+--------
+
+--------
+#PHP + HTML
+--------
+
+|         <h1> < Games > </h1>
+        <div class="version-buttons">
+
+
+            <?php
+            // Comment marker for auto-generated buttons
+            // Load apps from JSON
+            $appsFile = 'apps.json';
+            if (file_exists($appsFile)) {
+                $apps = json_decode(file_get_contents($appsFile), true);
+                foreach ($apps as $app) {
+                    echo '<button onclick="openVersion(\'' . htmlspecialchars($app['url']) . '\')">';
+                    echo '<img src="' . htmlspecialchars($app['icon']) . '" alt="' . htmlspecialchars($app['name']) . '"';
+                    echo ' style="margin-right: 12px; object-fit: contain;"/>';
+                    echo ' ' . htmlspecialchars($app['name']);
+                    echo '</button>';
+                }
+            }
+            ?>
+
+                </div>
+|
+-------
+
+
+
 
 
 ## 📦 License
