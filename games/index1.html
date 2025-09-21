@@ -1,0 +1,131 @@
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1" />
+
+<title>Games - X0 Store KaiOS </title>
+
+
+<meta content='og.png' property='og:image'/>
+<meta content='og.png' name='twitter:card'/>
+
+<meta content='ca-pub-1786122365693674' name='google-adsense-account'/>
+<meta content='yHxwPbEBzFfMooOWanGYYiIQyCu_4Ai9bGxLQ4SP07U' name='google-site-verification'/>
+
+<link href='favicon.ico' rel='icon' type='image/x-icon'/>
+
+
+<style>
+/* Button Image Styles */
+button img {
+    height: 48px;
+    width: 48px;
+    border-radius: 8px;
+    border: 2px solid black;
+    transition: transform 0.3s ease; /* Smooth transition for scale */
+}
+
+/* Button Styles */
+button {
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 2px;
+    font-weight: bold;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    transition: all 0.3s ease; /* Smooth transition for all properties */
+    padding: 10px 20px;
+}
+
+/* Button Hover Effect */
+button:hover {
+    background-color: #f0f0f0; /* Slight background change */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Soft shadow on hover */
+}
+
+/* Button Focus Effect */
+button:focus {
+    border: 2px solid red;
+    border-radius: 20px;
+    margin: 5px;
+    font-weight: bold;
+    color: blue;
+    outline: none; /* Removes default outline */
+    box-shadow: 0px 0px 10px 2px rgba(255, 0, 0, 0.6); /* Red focus shadow */
+}
+
+/* Button Active Effect (click animation) */
+button:active {
+    transform: scale(0.95); /* Slight shrink on click */
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3); /* Stronger shadow when clicked */
+    transition: all 0.1s ease; /* Quick transition for active effect */
+}
+
+/* Image Click Effect (Scale on Click) */
+button:active img {
+    transform: scale(0.9); /* Slightly scale down the image on click */
+}
+  
+  /* Adding fallback for broken images using a default image */
+        button.failed-to-load {
+            background-image: url('favicon.ico'); /* Fallback image */
+        }
+  
+</style>
+
+
+<script>
+    const button = document.getElementById('button');
+
+    // Try loading the primary image
+    const img = new Image();
+    img.src = '/favicon.ico';
+    img.onload = function() {
+        // Image loaded successfully, nothing to do
+    };
+    img.onerror = function() {
+        // Image failed to load, add the fallback class
+        button.classList.add('failed-to-load');
+    };
+</script>
+
+
+
+<div style="background-color: #f9f9f9; border-radius: 10px; border:2px solid green; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 10px; padding: 20px;">
+
+
+<h1>Games 🎯🎮</h1>
+
+
+
+<div id="social" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));">
+  <script>
+    (() => {
+      const appsFile = 'https://joe-x5.github.io/x0-store-kaios/games/apps.json';
+      const openVersion = url => window.open(url, '_blank');
+      fetch(appsFile)
+        .then(r => r.json())
+        .then(apps => {
+          const container = document.getElementById('social');
+          apps.forEach(app => {
+            const button = document.createElement('button');
+            button.onclick = () => openVersion(app.url);
+
+            const img = document.createElement('img');
+            img.src = app.icon;
+            img.alt = app.name;
+            img.style.marginRight = '12px';
+            img.style.objectFit = 'contain';
+
+            button.appendChild(img);
+            button.appendChild(document.createTextNode(' ' + app.name));
+            container.appendChild(button);
+          });
+        })
+        .catch(err => console.error('Games load failed:', err));
+    })();
+  
+</script>
+</div>
+</div>
+ 
