@@ -1,0 +1,32 @@
+{
+    "chatwave": {
+        "version": 130,
+        "text": ""
+    },
+    "youtube": {
+        "version": 208,
+        "text": "",
+        "adType": "10"
+    },
+    "royal": {
+        "version": 2311,
+        "text": "",
+        "adType": "10"
+    },
+    "sokoban": {
+        "version": 122,
+        "text": ""
+    },
+    "dictionary": {
+        "version": 210,
+        "text": ""
+    },
+    "imgdown": {
+        "version": 210,
+        "text": ""
+    },
+    "radio": {
+        "version": 210,
+        "text": ""
+    }
+}
