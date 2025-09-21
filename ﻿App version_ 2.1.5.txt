@@ -1,0 +1,9 @@
+﻿App version: 2.1.5
+Android version: unknowns
+Device: @
+Manufacturer: #
+Device type: Phone
+Screen density: 288 dpi 
+Screen size: 1280 x 720
+Device language: English (United States)
+---------------------------------

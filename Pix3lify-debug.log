@@ -1,0 +1,2970 @@
+***---Device Info---***
+
+---Props---
+
+[af.fast_track_multiplier]: [1]
+[apexd.status]: [ready]
+[audio.deep_buffer.media]: [true]
+[audio.offload.min.duration.secs]: [30]
+[audio.offload.video]: [true]
+[bpf.progs_loaded]: [1]
+[dalvik.vm.appimageformat]: [lz4]
+[dalvik.vm.dex2oat-Xms]: [64m]
+[dalvik.vm.dex2oat-Xmx]: [512m]
+[dalvik.vm.dex2oat-flags]: [--inline-max-code-units=0]
+[dalvik.vm.dex2oat-max-image-block-size]: [524288]
+[dalvik.vm.dex2oat-minidebuginfo]: [true]
+[dalvik.vm.dex2oat-resolve-startup-strings]: [true]
+[dalvik.vm.dexopt.secondary]: [true]
+[dalvik.vm.heapgrowthlimit]: [192m]
+[dalvik.vm.heapmaxfree]: [8m]
+[dalvik.vm.heapminfree]: [2m]
+[dalvik.vm.heapsize]: [512m]
+[dalvik.vm.heapstartsize]: [8m]
+[dalvik.vm.heaptargetutilization]: [0.75]
+[dalvik.vm.image-dex2oat-Xms]: [64m]
+[dalvik.vm.image-dex2oat-Xmx]: [64m]
+[dalvik.vm.isa.arm.features]: [default]
+[dalvik.vm.isa.arm.variant]: [cortex-a53]
+[dalvik.vm.isa.arm64.features]: [default]
+[dalvik.vm.isa.arm64.variant]: [generic]
+[dalvik.vm.minidebuginfo]: [true]
+[dalvik.vm.usejit]: [true]
+[dalvik.vm.usejitprofiles]: [false]
+[debug.atrace.tags.enableflags]: [0]
+[debug.egl.hw]: [0]
+[debug.enable.sglscale]: [1]
+[debug.force_rtl]: [false]
+[debug.gralloc.gfx_ubwc_disable]: [1]
+[debug.mdpcomp.logs]: [0]
+[debug.sdm.support_writeback]: [0]
+[debug.sf.early_app_phase_offset_ns]: [500000]
+[debug.sf.early_gl_app_phase_offset_ns]: [15000000]
+[debug.sf.early_gl_phase_offset_ns]: [3000000]
+[debug.sf.early_phase_offset_ns]: [500000]
+[debug.sf.enable_gl_backpressure]: [1]
+[debug.sf.hw]: [0]
+[debug.sf.latch_unsignaled]: [0]
+[debug.sf.recomputecrop]: [0]
+[debug.stagefright.omx_default_rank]: [0]
+[debug.stagefright.omx_default_rank.sw-audio]: [1]
+[dev.bootcomplete]: [1]
+[dev.pm.dyn_samplingrate]: [1]
+[fku.profiles]: [1]
+[gsm.current.phone-type]: [2,1]
+[gsm.defaultpdpcontext.active]: [true]
+[gsm.network.type]: [Unknown,Unknown]
+[gsm.operator.alpha]: [,]
+[gsm.operator.iso-country]: [,]
+[gsm.operator.isroaming]: [false,false]
+[gsm.operator.numeric]: [,]
+[gsm.sim.operator.alpha]: [,JIO]
+[gsm.sim.operator.iso-country]: [,in]
+[gsm.sim.operator.numeric]: [,405871]
+[gsm.sim.state]: [ABSENT,LOADED]
+[gsm.version.baseband]: [MPSS.JO.3.0-00369-8937_GENNS_PACK-2.141921.1.149578.1]
+[gsm.version.ril-impl]: [Qualcomm RIL 1.0]
+[hwservicemanager.ready]: [true]
+[init.svc.S8Qv93m]: [stopped]
+[init.svc.VOcydbLhkPF]: [stopped]
+[init.svc.adbd]: [running]
+[init.svc.adsprpcd]: [running]
+[init.svc.alarm-hal-1-0]: [running]
+[init.svc.apexd]: [running]
+[init.svc.apexd-bootstrap]: [stopped]
+[init.svc.ashmemd]: [running]
+[init.svc.audioserver]: [running]
+[init.svc.bEhaz8OfOseRI]: [stopped]
+[init.svc.bootanim]: [stopped]
+[init.svc.bpfloader]: [stopped]
+[init.svc.cameraserver]: [running]
+[init.svc.cryptfshw-1-0]: [running]
+[init.svc.dpmQmiMgr]: [running]
+[init.svc.drm]: [running]
+[init.svc.gatekeeperd]: [running]
+[init.svc.gpu]: [running]
+[init.svc.graphics-sh]: [stopped]
+[init.svc.gsid]: [stopped]
+[init.svc.health-hal-2-0]: [running]
+[init.svc.hidl_memory]: [running]
+[init.svc.hwservicemanager]: [running]
+[init.svc.idmap2d]: [stopped]
+[init.svc.incidentd]: [running]
+[init.svc.installd]: [running]
+[init.svc.iorapd]: [stopped]
+[init.svc.irsc_util]: [stopped]
+[init.svc.keystore]: [running]
+[init.svc.lmkd]: [running]
+[init.svc.loc_launcher]: [running]
+[init.svc.logd]: [running]
+[init.svc.logd-auditctl]: [stopped]
+[init.svc.logd-reinit]: [stopped]
+[init.svc.media]: [running]
+[init.svc.media.swcodec]: [running]
+[init.svc.mediadrm]: [running]
+[init.svc.mediaextractor]: [running]
+[init.svc.mediametrics]: [running]
+[init.svc.netd]: [running]
+[init.svc.qcamerasvr]: [running]
+[init.svc.qcom-post-boot]: [stopped]
+[init.svc.qcom-sh]: [stopped]
+[init.svc.qti_gnss_service]: [running]
+[init.svc.ril-daemon]: [running]
+[init.svc.ril-daemon2]: [running]
+[init.svc.servicemanager]: [running]
+[init.svc.statsd]: [running]
+[init.svc.storaged]: [running]
+[init.svc.surfaceflinger]: [running]
+[init.svc.system_suspend]: [running]
+[init.svc.thermal-engine]: [restarting]
+[init.svc.time_daemon]: [running]
+[init.svc.tombstoned]: [running]
+[init.svc.ueventd]: [running]
+[init.svc.usbd]: [stopped]
+[init.svc.vendor.atfwd]: [running]
+[init.svc.vendor.audio-hal-2-0]: [running]
+[init.svc.vendor.bluetooth-1-0-qti]: [running]
+[init.svc.vendor.camera-provider-2-4]: [running]
+[init.svc.vendor.cas-hal-1-1]: [running]
+[init.svc.vendor.cnd]: [running]
+[init.svc.vendor.configstore-hal]: [running]
+[init.svc.vendor.dataqti]: [running]
+[init.svc.vendor.drm-clearkey-hal-1-2]: [running]
+[init.svc.vendor.drm-hal-1-0]: [running]
+[init.svc.vendor.drm-widevine-hal-1-1]: [running]
+[init.svc.vendor.gatekeeper-1-0]: [running]
+[init.svc.vendor.gralloc-2-0]: [running]
+[init.svc.vendor.hwcomposer-2-1]: [running]
+[init.svc.vendor.ims_rtp_daemon]: [running]
+[init.svc.vendor.imsdatadaemon]: [running]
+[init.svc.vendor.imsqmidaemon]: [running]
+[init.svc.vendor.imsrcsservice]: [running]
+[init.svc.vendor.ir-hal-1-0]: [running]
+[init.svc.vendor.keymaster-3-0]: [running]
+[init.svc.vendor.light-hal-2-0]: [running]
+[init.svc.vendor.media.omx]: [running]
+[init.svc.vendor.memtrack-hal-1-0]: [running]
+[init.svc.vendor.netmgrd]: [running]
+[init.svc.vendor.per_mgr]: [running]
+[init.svc.vendor.per_proxy]: [running]
+[init.svc.vendor.power-hal-1-2]: [running]
+[init.svc.vendor.power.stats-hal-1-0-mock]: [running]
+[init.svc.vendor.qcom-usb-sh]: [stopped]
+[init.svc.vendor.qseecomd]: [running]
+[init.svc.vendor.rmt_storage]: [running]
+[init.svc.vendor.sensors-hal-1-0]: [running]
+[init.svc.vendor.sensors.qti]: [running]
+[init.svc.vendor.tftp_server]: [running]
+[init.svc.vendor.thermal-hal-1-0]: [running]
+[init.svc.vendor.usb-hal-1-0]: [running]
+[init.svc.vendor.vibrator-1-0]: [running]
+[init.svc.vendor.wifi_hal_legacy]: [running]
+[init.svc.vndservicemanager]: [running]
+[init.svc.vold]: [running]
+[init.svc.wcnss-service]: [running]
+[init.svc.wificond]: [running]
+[init.svc.wpa_supplicant]: [running]
+[init.svc.zygote]: [running]
+[init.svc.zygote_secondary]: [running]
+[keyguard.no_require_sim]: [true]
+[log.tag.APM_AudioPolicyManager]: [D]
+[log.tag.stats_log]: [I]
+[media.recorder.show_manufacturer_and_model]: [true]
+[media.stagefright.audio.sink]: [280]
+[media.stagefright.thumbnail.prefer_hw_codecs]: [true]
+[net.bt.name]: [@]
+[net.dns1]: [2409:40e3:40f4:d2c0:563d:60ff:fed7:a2a]
+[net.dns2]: [192.168.31.1]
+[net.hostname]: []
+[net.qtaguid_enabled]: [1]
+[net.tcp.2g_init_rwnd]: [10]
+[net.tcp.default_init_rwnd]: [60]
+[net.tethering.noprovisioning]: [true]
+[persist.audio.dirac.music.state]: [1]
+[persist.audio.dirac.speaker]: [true]
+[persist.bluetooth.btsnoopdefaultmode]: []
+[persist.camera.debug.logfile]: [0]
+[persist.camera.gyro.disable]: [0]
+[persist.dbg.ims_volte_enable]: [1]
+[persist.dbg.volte_avail_ovr]: [1]
+[persist.dbg.vt_avail_ovr]: [1]
+[persist.dbg.wfc_avail_ovr]: [1]
+[persist.debug.dalvik.vm.core_platform_api_policy]: [just-warn]
+[persist.demo.hdmirotationlock]: [false]
+[persist.device_config.attempted_boot_count]: [0]
+[persist.graphics.vulkan.disable]: [true]
+[persist.hwc.enable_vds]: [1]
+[persist.hwc.mdpcomp.enable]: [true]
+[persist.radio.airplane_mode_on]: [1]
+[persist.radio.calls.on.ims]: [1]
+[persist.radio.multisim.config]: [dsds]
+[persist.spectrum.kernel]: [Perf+]
+[persist.sys.boot.reason]: []
+[persist.sys.boot.reason.history]: [shutdown,battery,806105
+shutdown,battery,784219
+shutdown,battery,759913]
+[persist.sys.dalvik.vm.lib.2]: [libart.so]
+[persist.sys.device_provisioned]: [1]
+[persist.sys.disable_rescue]: [true]
+[persist.sys.displayinset.top]: [0]
+[persist.sys.fflag.override.settings_network_and_internet_v2]: [true]
+[persist.sys.gps.lpp]: [0]
+[persist.sys.isolated_storage]: [true]
+[persist.sys.locale]: [en-US]
+[persist.sys.theme]: [2]
+[persist.sys.timezone]: [Asia/Tokyo]
+[persist.sys.usb.config]: [adb]
+[persist.vendor.audio.fluence.speaker]: [false]
+[persist.vendor.audio.fluence.voicecall]: [true]
+[persist.vendor.audio.fluence.voicerec]: [false]
+[persist.vendor.audio.hw.binder.size_kbyte]: [1024]
+[persist.vendor.audio.speaker.prot.enable]: [false]
+[persist.vendor.btstack.enable.splita2dp]: [false]
+[persist.vendor.camera.HAL3.enabled]: [1]
+[persist.vendor.camera.display.lmax]: [1280x720]
+[persist.vendor.camera.display.umax]: [1920x1080]
+[persist.vendor.cne.feature]: [1]
+[persist.vendor.data.mode]: [concurrent]
+[persist.vendor.delta_time.enable]: [true]
+[persist.vendor.mmi.misc_dev_path]: [/dev/block/mmcblk0p27]
+[persist.vendor.qti.telephony.vt_cam_interface]: [1]
+[persist.vendor.radio.adb_log_on]: [0]
+[persist.vendor.radio.aosp_usr_pref_sel]: [true]
+[persist.vendor.radio.apm_sim_not_pwdn]: [1]
+[persist.vendor.radio.atfwd.start]: [true]
+[persist.vendor.radio.custom_ecc]: [1]
+[persist.vendor.radio.data_con_rprt]: [1]
+[persist.vendor.radio.data_ltd_sys_ind]: [1]
+[persist.vendor.radio.eons.enabled]: [false]
+[persist.vendor.radio.jbims]: [1]
+[persist.vendor.radio.msim.stackid_0]: [0]
+[persist.vendor.radio.msim.stackid_1]: [1]
+[persist.vendor.radio.prop_migration_complete0]: [1]
+[persist.vendor.radio.prop_migration_complete1]: [1]
+[persist.vendor.radio.rat_on]: [combine]
+[persist.vendor.radio.ril_payload_on]: [0]
+[persist.vendor.radio.sglte_target]: [0]
+[persist.vendor.radio.sib16_support]: [1]
+[persist.vendor.radio.stack_id_0]: [0]
+[persist.vendor.radio.stack_id_1]: [1]
+[persist.vendor.usb.config]: []
+[persist.vendor.usb.config.extra]: [none]
+[pm.dexopt.ab-ota]: [speed]
+[pm.dexopt.bg-dexopt]: [speed]
+[pm.dexopt.boot]: [verify]
+[pm.dexopt.first-boot]: [quicken]
+[pm.dexopt.inactive]: [verify]
+[pm.dexopt.install]: [speed-profile]
+[pm.dexopt.shared]: [speed]
+[qemu.hw.mainkeys]: [1]
+[ril.ecclist]: [911,112,*911,#911]
+[ril.ecclist1]: [911,112,*911,#911]
+[ril.qcril_pre_init_lock_held]: [0]
+[ril.vendor.radio.db_upgrade]: [1]
+[rild.libpath]: [/vendor/lib64/libril-qc-qmi-1.so]
+[ro.actionable_compatible_property.enabled]: [false]
+[ro.adb.secure]: [1]
+[ro.allow.mock.location]: [0]
+[ro.atrace.core.services]: [com.google.android.gms,com.google.android.gms.ui,com.google.android.gms.persistent]
+[ro.baseband]: [msm]
+[ro.bionic.2nd_arch]: [arm]
+[ro.bionic.2nd_cpu_variant]: [cortex-a53]
+[ro.bionic.arch]: [arm64]
+[ro.bionic.cpu_variant]: [generic]
+[ro.board.platform]: [msm8937]
+[ro.boot.baseband]: [msm]
+[ro.boot.bootdevice]: [7824900.sdhci]
+[ro.boot.bootreason]: [shutdown,battery]
+[ro.boot.emmc]: [true]
+[ro.boot.flash.locked]: [1]
+[ro.boot.hardware]: [qcom]
+[ro.boot.keymaster]: [1]
+[ro.boot.selinux]: [enforcing]
+[ro.boot.serialno]: [c2598a07d050]
+[ro.boot.vbmeta.device_state]: [locked]
+[ro.boot.verifiedbootstate]: [green]
+[ro.boot.veritymode]: [enforcing]
+[ro.boot.warranty_bit]: [0]
+[ro.bootimage.build.date]: [X0]
+[ro.bootimage.build.date.utc]: [1584122279]
+[ro.bootimage.build.fingerprint]: [google/coral/coral:17/QQ2A.200305.003/6156912:user/release-keys]
+[ro.bootloader]: [unknown]
+[ro.bootmode]: [unknown]
+[ro.boottime.S8Qv93m]: [12562341817]
+[ro.boottime.VOcydbLhkPF]: [31752720247]
+[ro.boottime.adbd]: [11592990723]
+[ro.boottime.adsprpcd]: [11915497911]
+[ro.boottime.alarm-hal-1-0]: [10562908953]
+[ro.boottime.apexd]: [8179717756]
+[ro.boottime.apexd-bootstrap]: [4059302966]
+[ro.boottime.ashmemd]: [10638596766]
+[ro.boottime.audioserver]: [10644200828]
+[ro.boottime.bEhaz8OfOseRI]: [8420799527]
+[ro.boottime.bootanim]: [13608130098]
+[ro.boottime.bpfloader]: [11941400098]
+[ro.boottime.cameraserver]: [11963651453]
+[ro.boottime.cryptfshw-1-0]: [8022868225]
+[ro.boottime.dpmQmiMgr]: [11610916348]
+[ro.boottime.drm]: [11993371244]
+[ro.boottime.gatekeeperd]: [12856641973]
+[ro.boottime.gpu]: [10671610672]
+[ro.boottime.graphics-sh]: [7393824058]
+[ro.boottime.gsid]: [43390951440]
+[ro.boottime.health-hal-2-0]: [10207270776]
+[ro.boottime.hidl_memory]: [10047431037]
+[ro.boottime.hwservicemanager]: [7344027913]
+[ro.boottime.idmap2d]: [12019929734]
+[ro.boottime.incidentd]: [12047072025]
+[ro.boottime.init]: [3004]
+[ro.boottime.init.cold_boot_wait]: [3100]
+[ro.boottime.init.mount_all.default]: [288]
+[ro.boottime.init.selinux]: [245]
+[ro.boottime.installd]: [12078355567]
+[ro.boottime.irsc_util]: [10584930828]
+[ro.boottime.keystore]: [12100623536]
+[ro.boottime.lmkd]: [10680801141]
+[ro.boottime.loc_launcher]: [12602784525]
+[ro.boottime.logd]: [7337131402]
+[ro.boottime.logd-auditctl]: [31904524361]
+[ro.boottime.logd-reinit]: [9410113641]
+[ro.boottime.media]: [12288484629]
+[ro.boottime.media.swcodec]: [12543258535]
+[ro.boottime.mediadrm]: [12143466713]
+[ro.boottime.mediaextractor]: [12180945723]
+[ro.boottime.mediametrics]: [12235184942]
+[ro.boottime.netd]: [9443088485]
+[ro.boottime.qcamerasvr]: [12797444004]
+[ro.boottime.qcom-post-boot]: [31761030039]
+[ro.boottime.qcom-sh]: [12628401088]
+[ro.boottime.qti_gnss_service]: [10557450203]
+[ro.boottime.ril-daemon]: [12517563952]
+[ro.boottime.ril-daemon2]: [11671822546]
+[ro.boottime.servicemanager]: [7340568902]
+[ro.boottime.statsd]: [12339235619]
+[ro.boottime.storaged]: [12374809317]
+[ro.boottime.surfaceflinger]: [10685977182]
+[ro.boottime.system_suspend]: [8014281454]
+[ro.boottime.thermal-engine]: [11716681973]
+[ro.boottime.time_daemon]: [11677570255]
+[ro.boottime.tombstoned]: [12871395567]
+[ro.boottime.ueventd]: [4054881768]
+[ro.boottime.usbd]: [12893074733]
+[ro.boottime.vendor.atfwd]: [12787570983]
+[ro.boottime.vendor.audio-hal-2-0]: [10043010099]
+[ro.boottime.vendor.bluetooth-1-0-qti]: [10061330412]
+[ro.boottime.vendor.camera-provider-2-4]: [10069838328]
+[ro.boottime.vendor.cas-hal-1-1]: [10086927755]
+[ro.boottime.vendor.cnd]: [11606268848]
+[ro.boottime.vendor.configstore-hal]: [10106637703]
+[ro.boottime.vendor.dataqti]: [11657014786]
+[ro.boottime.vendor.drm-clearkey-hal-1-2]: [10174509630]
+[ro.boottime.vendor.drm-hal-1-0]: [10143125828]
+[ro.boottime.vendor.drm-widevine-hal-1-1]: [10155161714]
+[ro.boottime.vendor.gatekeeper-1-0]: [10193422495]
+[ro.boottime.vendor.gralloc-2-0]: [10197956349]
+[ro.boottime.vendor.hwcomposer-2-1]: [10202552130]
+[ro.boottime.vendor.ims_rtp_daemon]: [11874978223]
+[ro.boottime.vendor.imsdatadaemon]: [13267084994]
+[ro.boottime.vendor.imsqmidaemon]: [11727731817]
+[ro.boottime.vendor.imsrcsservice]: [11906975411]
+[ro.boottime.vendor.ir-hal-1-0]: [10211954214]
+[ro.boottime.vendor.keymaster-3-0]: [8018560985]
+[ro.boottime.vendor.light-hal-2-0]: [10275954943]
+[ro.boottime.vendor.media.omx]: [12411748952]
+[ro.boottime.vendor.memtrack-hal-1-0]: [10315093536]
+[ro.boottime.vendor.netmgrd]: [11626130671]
+[ro.boottime.vendor.per_mgr]: [10626760568]
+[ro.boottime.vendor.per_proxy]: [11599612755]
+[ro.boottime.vendor.power-hal-1-2]: [10351047911]
+[ro.boottime.vendor.power.stats-hal-1-0-mock]: [10340323745]
+[ro.boottime.vendor.qcom-usb-sh]: [10987878745]
+[ro.boottime.vendor.qseecomd]: [10610095099]
+[ro.boottime.vendor.rmt_storage]: [10589999786]
+[ro.boottime.vendor.sensors-hal-1-0]: [10355626297]
+[ro.boottime.vendor.sensors.qti]: [10600381766]
+[ro.boottime.vendor.tftp_server]: [11615688276]
+[ro.boottime.vendor.thermal-hal-1-0]: [10461722911]
+[ro.boottime.vendor.usb-hal-1-0]: [10466129786]
+[ro.boottime.vendor.vibrator-1-0]: [10510167338]
+[ro.boottime.vendor.wifi_hal_legacy]: [10523330359]
+[ro.boottime.vndservicemanager]: [7385526819]
+[ro.boottime.vold]: [7417918433]
+[ro.boottime.wcnss-service]: [12809766244]
+[ro.boottime.wificond]: [12381552494]
+[ro.boottime.wpa_supplicant]: [22071209886]
+[ro.boottime.zygote]: [9446251141]
+[ro.boottime.zygote_secondary]: [9449562339]
+[ro.build.characteristics]: [default]
+[ro.build.date]: [Sat Mar 14 00:57:59 WIB -X0-]
+[ro.build.date.utc]: [1584122279]
+[ro.build.description]: [$-user 17 X0 Linux V9.5.6.0.ZEQUL release-keys]
+[ro.build.display.id]: [QQ2A.200305.003]
+[ro.build.fingerprint]: [google/coral/coral:10/QQ2A.200305.003/6156912:user/release-keys]
+[ro.build.flavor]: [havoc_$-userdebug]
+[ro.build.host]: [celestial]
+[ro.build.id]: [QQ2A.200305.003]
+[ro.build.keys]: [release-keys]
+[ro.build.product]: [$]
+[ro.build.tags]: [release-keys]
+[ro.build.type]: [user]
+[ro.build.user]: [rulim]
+[ro.build.version.all_codenames]: [REL]
+[ro.build.version.base_os]: []
+[ro.build.version.codename]: [REL]
+[ro.build.version.incremental]: [eng.rulim.-X0-0314.005906]
+[ro.build.version.min_supported_target_sdk]: [29]
+[ro.build.version.preview_sdk]: [0]
+[ro.build.version.preview_sdk_fingerprint]: [REL]
+[ro.build.version.release]: [unknowns]
+[ro.build.version.sdk]: [29]
+[ro.build.version.security_patch]: [X0--03-05]
+[ro.carrier]: [unknown]
+[ro.com.android.dataroaming]: [true]
+[ro.com.android.dateformat]: [MM-dd-yyyy]
+[ro.com.google.clientidbase]: [@-#]
+[ro.config.alarm_alert]: [Bright_morning.ogg]
+[ro.config.media_vol_steps]: [15]
+[ro.config.notification_sound]: [Popcorn.ogg]
+[ro.config.ringtone]: [The_big_adventure.ogg]
+[ro.config.vc_call_vol_steps]: [7]
+[ro.crypto.state]: [unencrypted]
+[ro.dalvik.vm.native.bridge]: [0]
+[ro.debuggable]: [0]
+[ro.device_owner]: [false]
+[ro.error.receiver.system.apps]: [com.google.android.gms]
+[ro.fm.transmitter]: [false]
+[ro.gps.agps_provider]: [1]
+[ro.gpu.available_frequencies]: [650000000 523200000 484800000 400000000 270000000 ]
+[ro.gsid.image_running]: [0]
+[ro.hardware]: [qcom]
+[ro.havoc.build.date]: [13-03--X0-]
+[ro.havoc.build.version]: [+/v3.3-X0-0313-$-Pro]
+[ro.havoc.device]: [$]
+[ro.havoc.fingerprint]: [+/v3.3/10/Pro/-X0-0313/1759]
+[ro.havoc.maintainer]: [Anggi]
+[ro.havoc.releasetype]: [Pro]
+[ro.havoc.version]: [3.3]
+[ro.hwui.drop_shadow_cache_size]: [6]
+[ro.hwui.gradient_cache_size]: [1]
+[ro.hwui.layer_cache_size]: [48]
+[ro.hwui.path_cache_size]: [32]
+[ro.hwui.r_buffer_cache_size]: [8]
+[ro.hwui.text_large_cache_height]: [2048]
+[ro.hwui.text_large_cache_width]: [2048]
+[ro.hwui.text_small_cache_height]: [1024]
+[ro.hwui.text_small_cache_width]: [1024]
+[ro.hwui.texture_cache_flushrate]: [0.4]
+[ro.hwui.texture_cache_size]: [72]
+[ro.hwui.use_vulkan]: []
+[ro.init.updatable_crashing]: [1]
+[ro.init.updatable_crashing_process_name]: [thermal-engine]
+[ro.iorapd.enable]: [false]
+[ro.logd.size.stats]: [64K]
+[ro.max.fling_velocity]: [20000]
+[ro.min.fling_velocity]: [160]
+[ro.odm.build.date]: [Fri Mar 13 22:02:41 WIB 2020]
+[ro.odm.build.date.utc]: [1584111761]
+[ro.odm.build.fingerprint]: [google/coral/coral:10/QQ2A.200305.003/6156912:user/release-keys]
+[ro.odm.build.id]: [QQ2A.200305.003]
+[ro.odm.build.tags]: [release-keys]
+[ro.odm.build.type]: [userdebug]
+[ro.odm.build.version.incremental]: [eng.rulim.20200313.220340]
+[ro.odm.build.version.release]: [10]
+[ro.odm.build.version.sdk]: [29]
+[ro.odm.product.cpu.abilist]: [arm64-v8a,armeabi-v7a,armeabi]
+[ro.odm.product.cpu.abilist32]: [armeabi-v7a,armeabi]
+[ro.odm.product.cpu.abilist64]: [arm64-v8a]
+[ro.opengles.version]: [196608]
+[ro.persistent_properties.ready]: [true]
+[ro.postinstall.fstab.prefix]: [/system]
+[ro.product.board]: [MSM8937]
+[ro.product.brand]: [#]
+[ro.product.cpu.abi]: [arm64-v8a]
+[ro.product.cpu.abilist]: [arm64-v8a,armeabi-v7a,armeabi]
+[ro.product.cpu.abilist32]: [armeabi-v7a,armeabi]
+[ro.product.cpu.abilist64]: [arm64-v8a]
+[ro.product.device]: [$]
+[ro.product.first_api_level]: [23]
+[ro.product.locale]: [en-US]
+[ro.product.manufacturer]: [#]
+[ro.product.model]: [@]
+[ro.product.name]: [$]
+[ro.product.odm.brand]: [Xiaomi]
+[ro.product.odm.device]: [riva]
+[ro.product.odm.manufacturer]: [Xiaomi]
+[ro.product.odm.model]: [Redmi 5A]
+[ro.product.odm.name]: [riva]
+[ro.product.system.brand]: [#]
+[ro.product.system.device]: [$]
+[ro.product.system.manufacturer]: [#]
+[ro.product.system.model]: [@]
+[ro.product.system.name]: [$]
+[ro.product.vendor.brand]: [#]
+[ro.product.vendor.device]: [$]
+[ro.product.vendor.manufacturer]: [#]
+[ro.product.vendor.model]: [@]
+[ro.product.vendor.name]: [$]
+[ro.property_service.version]: [2]
+[ro.revision]: [0]
+[ro.runtime.firstboot]: [1738515558775]
+[ro.secure]: [1]
+[ro.serialno]: [c2598a07d050]
+[ro.setupwizard.enterprise_mode]: [1]
+[ro.setupwizard.rotation_locked]: [true]
+[ro.sf.lcd_density]: [295]
+[ro.storage_manager.enabled]: [true]
+[ro.surface_flinger.force_hwc_copy_for_virtual_displays]: [true]
+[ro.surface_flinger.max_frame_buffer_acquired_buffers]: [2]
+[ro.surface_flinger.max_virtual_display_dimension]: [4096]
+[ro.surface_flinger.vsync_event_phase_offset_ns]: [2000000]
+[ro.surface_flinger.vsync_sf_event_phase_offset_ns]: [6000000]
+[ro.system.build.date]: [Sat Mar 14 00:57:59 WIB -X0-]
+[ro.system.build.date.utc]: [1584122279]
+[ro.system.build.fingerprint]: [google/coral/coral:10/QQ2A.200305.003/6156912:user/release-keys]
+[ro.system.build.id]: [QQ2A.200305.003]
+[ro.system.build.tags]: [release-keys]
+[ro.system.build.type]: [userdebug]
+[ro.system.build.version.incremental]: [eng.rulim.-X0-0314.005906]
+[ro.system.build.version.release]: [unknowns]
+[ro.system.build.version.sdk]: [29]
+[ro.telephony.call_ring.multiple]: [false]
+[ro.telephony.default_network]: [22,22]
+[ro.treble.enabled]: [true]
+[ro.url.legal]: [http://www.google.com/intl/%s/mobile/android/basic/phone-legal.html]
+[ro.url.legal.android_privacy]: [http://www.google.com/intl/%s/mobile/android/basic/privacy.html]
+[ro.vendor.alarm_boot]: [false]
+[ro.vendor.audio.sdk.fluencetype]: [fluence]
+[ro.vendor.audio.sdk.ssr]: [false]
+[ro.vendor.build.date]: [Sat Mar 14 00:57:59 WIB 2083]
+[ro.vendor.build.date.utc]: [1584122279]
+[ro.vendor.build.fingerprint]: [google/coral/coral:17/QQ2A.200305.003/6156912:user/release-keys]
+[ro.vendor.build.id]: [QQ2A.200305.003]
+[ro.vendor.build.security_patch]: [2096-06-01]
+[ro.vendor.build.tags]: [release-keys]
+[ro.vendor.build.type]: [userdebug]
+[ro.vendor.build.version.incremental]: [eng.rulim.20200314.005906]
+[ro.vendor.build.version.release]: [unknowns]
+[ro.vendor.build.version.sdk]: [36]
+[ro.vendor.display.cabl]: [2]
+[ro.vendor.extension_library]: [libqti-perfd-client.so]
+[ro.vendor.gpu.available_frequencies]: [650000000 523200000 484800000 400000000 270000000 ]
+[ro.vendor.product.cpu.abilist]: [arm64-v8a,armeabi-v7a,armeabi]
+[ro.vendor.product.cpu.abilist32]: [armeabi-v7a,armeabi]
+[ro.vendor.product.cpu.abilist64]: [arm64-v8a]
+[ro.vendor.qti.config.zram]: [true]
+[ro.vendor.qti.sys.fw.bservice_age]: [5000]
+[ro.vendor.qti.sys.fw.bservice_enable]: [true]
+[ro.vendor.qti.sys.fw.bservice_limit]: [5]
+[ro.vendor.qti.sys.fw.empty_app_percent]: [50]
+[ro.vendor.qti.sys.fw.trim_cache_percent]: [100]
+[ro.vendor.qti.sys.fw.trim_empty_percent]: [100]
+[ro.vendor.qti.sys.fw.trim_enable_memory]: [2147483648]
+[ro.vendor.qti.sys.fw.use_trim_settings]: [true]
+[ro.vendor.ril.mbn_copy_completed]: [1]
+[ro.vendor.ril.svdo]: [false]
+[ro.vendor.ril.svlte1x]: [false]
+[ro.vndk.lite]: [true]
+[ro.vndk.version]: [29]
+[ro.warranty_bit]: [0]
+[ro.wifi.channels]: []
+[ro.zygote]: [zygote64_32]
+[security.perf_harden]: [1]
+[selinux.restorecon_recursive]: [/data/misc_ce/0]
+[service.bootanim.exit]: [1]
+[service.sf.present_timestamp]: [1]
+[spectrum.support]: [1]
+[sys.boot.reason]: [shutdown,battery]
+[sys.boot.reason.last]: [shutdown,battery]
+[sys.boot_completed]: [1]
+[sys.display-size]: [1920x1080]
+[sys.isolated_storage_snapshot]: [true]
+[sys.lmk.minfree_levels]: [18432:0,23040:100,27648:200,32256:250,55296:900,80640:950]
+[sys.logbootcomplete]: [1]
+[sys.retaildemo.enabled]: [0]
+[sys.sysctl.extra_free_kbytes]: [10800]
+[sys.sysctl.tcp_def_init_rwnd]: [60]
+[sys.system_server.start_count]: [1]
+[sys.system_server.start_elapsed]: [16247]
+[sys.system_server.start_uptime]: [16247]
+[sys.usb.config]: [mtp,adb]
+[sys.usb.configfs]: [0]
+[sys.usb.controller]: [msm_hsusb]
+[sys.usb.ffs.aio_compat]: [1]
+[sys.usb.ffs.ready]: [1]
+[sys.usb.mtp.device_type]: [2]
+[sys.usb.state]: [mtp,adb]
+[sys.use_fifo_ui]: [0]
+[sys.use_memfd]: [false]
+[sys.user.0.ce_available]: [true]
+[sys.vendor.shutdown.waittime]: [500]
+[sys.wifitracing.started]: [1]
+[tombstoned.max_tombstone_count]: [50]
+[vendor.audio.hw.aac.encoder]: [true]
+[vendor.audio.offload.buffer.size.kb]: [64]
+[vendor.audio.offload.gapless.enabled]: [true]
+[vendor.audio.offload.multiple.enabled]: [false]
+[vendor.audio.offload.passthrough]: [false]
+[vendor.audio.offload.track.enable]: [true]
+[vendor.audio.parser.ip.buffer.size]: [262144]
+[vendor.audio.playback.mch.downsample]: [true]
+[vendor.audio.pp.asphere.enabled]: [false]
+[vendor.audio.safx.pbe.enabled]: [true]
+[vendor.audio_hal.period_size]: [192]
+[vendor.display.disable_skip_validate]: [1]
+[vendor.display.enable_default_color_mode]: [1]
+[vendor.display.lcd_density]: [320]
+[vendor.gpu.available_frequencies]: [650000000 523200000 484800000 400000000 270000000 ]
+[vendor.gralloc.disable_ubwc]: [1]
+[vendor.gralloc.enable_fb_ubwc]: [1]
+[vendor.ims.DATA_DAEMON_STATUS]: [1]
+[vendor.ims.ENABLE_HELPER]: [1]
+[vendor.ims.QMI_DAEMON_STATUS]: [1]
+[vendor.ims.activesub]: [0]
+[vendor.ims.datadaemon.ims.netid]: [0]
+[vendor.ims.modem.multisub.cap]: [1]
+[vendor.ims.modemssr]: [1]
+[vendor.ims.rcs_loaded_version]: [1]
+[vendor.mm.enable.qcom_parser]: [4176895]
+[vendor.opengles.version]: [196608]
+[vendor.perf.gestureflingboost.enable]: [true]
+[vendor.peripheral.modem.state]: [ONLINE]
+[vendor.peripheral.shutdown_critical_list]: [modem ]
+[vendor.qcom.bluetooth.soc]: [smd]
+[vendor.sys.listeners.registered]: [true]
+[vendor.tunnel.audio.encode]: [false]
+[vendor.usb.controller]: [msm_hsusb]
+[vendor.usb.rps_mask]: [0]
+[vendor.vidc.disable.split.mode]: [1]
+[vendor.vidc.enc.disable.pq]: [true]
+[vendor.vidc.enc.disable_bframes]: [1]
+[vendor.vidc.enc.disable_pframes]: [1]
+[vendor.vidc.enc.narrow.searchrange]: [1]
+[vendor.video.disable.ubwc]: [1]
+[vendor.voice.conc.fallbackpath]: [deep-buffer]
+[vendor.voice.path.for.pcm.voip]: [true]
+[vendor.wlan.driver.version]: [3.0.11.85]
+[vendor.wlan.firmware.version]: [CNSS-PR-4-0-412-128484-1]
+[vidc.enc.dcvs.extra-buff-count]: [2]
+[vold.has_adoptable]: [1]
+[vold.has_quota]: [1]
+[vold.has_reserved]: [0]
+[vold.post_fs_data_done]: [1]
+[wifi.active.interface]: [wlan0]
+[wifi.interface]: [wlan0]
+[wlan.driver.ath]: [0]
+[wlan.driver.status]: [ok]
+
+
+***---Magisk Info---***
+
+---Magisk Version---
+
+22100
+
+---Last Magisk Log---
+
+01-10 07:55:04.114   438   438 I : Magisk 22.1(22100) daemon started
+ 01-10 07:55:04.115   438   438 I : * Device API level: 29
+ 01-10 07:55:04.130   438   440 I : ** post-fs-data mode running
+ 01-10 07:55:04.133   438   440 I : * Mounting mirrors
+ 01-10 07:55:04.133   438   440 I : mount: /sbin/.magisk/mirror/vendor
+ 01-10 07:55:04.134   438   440 I : mount: /sbin/.magisk/mirror/data
+ 01-10 07:55:04.134   438   440 I : link: /sbin/.magisk/mirror/cache
+ 01-10 07:55:04.134   438   440 I : link: /sbin/.magisk/mirror/persist
+ 01-10 07:55:04.134   438   440 I : link: /sbin/.magisk/mirror/system
+ 01-10 07:55:04.134   438   440 I : mount: /sbin/.magisk/mirror/system_root
+ 01-10 07:55:04.134   438   440 I : link: /sbin/.magisk/mirror/product
+ 01-10 07:55:04.134   438   440 I : * Initializing Magisk environment
+ 01-10 07:55:04.366   438   440 I : * Running post-fs-data.d scripts
+ 01-10 07:55:04.371   438   440 I : * Enable MagiskHide
+ 01-10 07:55:04.410   438   440 I : hide_list add: [com.google.android.gms/com.google.android.gms.unstable]
+ 01-10 07:55:04.421   438   440 I : hide: Hiding sensitive props
+ 01-10 07:55:04.446   438   440 I : * Running module post-fs-data scripts
+ 01-10 07:55:04.448   504   504 I : riru-core: exec [post-fs-data.sh]
+ 01-10 07:55:04.487   504   504 I : riru_edxposed: exec [post-fs-data.sh]
+ 01-10 07:55:04.800   438   440 I : * Loading modules
+ 01-10 07:55:04.800   438   440 I : hosts: loading mount files
+ 01-10 07:55:04.800   438   440 I : riru-core: loading [system.prop]
+ 01-10 07:55:04.801   438   440 I : riru-core: loading mount files
+ 01-10 07:55:04.801   438   440 I : riru_edxposed: loading [system.prop]
+ 01-10 07:55:04.804   438   440 I : riru_edxposed: loading mount files
+ 02-03 01:58:50.580   438   901 I : ** late_start service mode running
+ 02-03 01:58:50.584   438   901 I : * Running service.d scripts
+ 02-03 01:58:50.611   438   901 I : * Running module service scripts
+ 02-03 01:58:50.611   438   901 I : riru-core: exec [service.sh]
+ 02-03 01:59:09.590   438  2400 I : ** boot_complete triggered
+ 02-03 01:59:09.591   438  2400 I : hide: Hiding sensitive props (late)
+ 
+
+***---Unity Debug Info---***
+
+---Installed Files---
+
+/data/adb/modules_update/Pix3lify/system/bin/pix3lify
+/data/adb/modules_update/Pix3lify/pix3lify
+0755
+0755
+0755
+0755
+/data/adb/modules_update/Pix3lify/post-fs-data.sh
+/data/adb/modules_update/Pix3lify/service.sh
+/data/adb/modules_update/Pix3lify/system
+/sbin/.magisk/img/Pix3lify/module.prop
+/sbin/.magisk/img/Pix3lify/module.prop
+
+---Installed Boot Scripts---
+
+/data/adb/modules_update/Pix3lify/uninstall.sh
+/dev/tmp/common/post-fs-data.sh
+/dev/tmp/common/service.sh
+
+---Installed Prop Files---
+
+/dev/tmp/common/system.prop
+
+---Shell & Unity Variables---
+
+ABI='arm'
+ABI2=''
+ABILONG='arm64-v8a'
+ANDROID_ASSETS='/system/app'
+ANDROID_BOOTLOGO='1'
+ANDROID_CACHE='/cache'
+ANDROID_DATA='/data'
+ANDROID_ROOT='/system'
+ANDROID_RUNTIME_ROOT='/apex/com.android.runtime'
+ANDROID_SOCKET_usap_pool_primary='22'
+ANDROID_SOCKET_zygote='21'
+ANDROID_STORAGE='/storage'
+ANDROID_TZDATA_ROOT='/apex/com.android.tzdata'
+API='29'
+ARCH='arm64'
+ARCH32='arm'
+ASEC_MOUNTPOINT='/mnt/asec'
+ASH_STANDALONE='1'
+AUTHOR='Joey Huab, Aidan Holland, Pika, JohnFawkes, and Laster K. (lazerl0rd)'
+BOOTCLASSPATH='/apex/com.android.runtime/javalib/core-oj.jar:/apex/com.android.runtime/javalib/core-libart.jar:/apex/com.android.runtime/javalib/okhttp.jar:/apex/com.android.runtime/javalib/bouncycastle.jar:/apex/com.android.runtime/javalib/apache-xml.jar:/system/framework/framework.jar:/system/framework/ext.jar:/system/framework/telephony-common.jar:/system/framework/voip-common.jar:/system/framework/ims-common.jar:/system/framework/android.test.base.jar:/system/framework/telephony-ext.jar:/apex/com.android.conscrypt/javalib/conscrypt.jar:/apex/com.android.media/javalib/updatable-media.jar'
+BOOTIMAGE='/dev/block/mmcblk0p21'
+BOOTMODE='true'
+BOOTSIGNED='false'
+BOOTSIGNER='/system/bin/dalvikvm -Xbootclasspath:/system/framework/core-oj.jar:/system/framework/core-libart.jar:/system/framework/conscrypt.jar:/system/framework/bouncycastle.jar -Xnodex2oat -Xnoimage-dex2oat -cp /dev/tmp/common/unityfiles/tools/avb/BootSignature_Android.jar com.android.verity.BootSignature'
+BOOTSIGNERCLASS='com.topjohnwu.signing.SignBoot'
+BUILDS='/system/build.prop /system/vendor/build.prop'
+CACHELOC='/cache'
+CHROMEOS='false'
+DEBUG='true'
+DEX2OATBOOTCLASSPATH='/apex/com.android.runtime/javalib/core-oj.jar:/apex/com.android.runtime/javalib/core-libart.jar:/apex/com.android.runtime/javalib/okhttp.jar:/apex/com.android.runtime/javalib/bouncycastle.jar:/apex/com.android.runtime/javalib/apache-xml.jar:/system/framework/framework.jar:/system/framework/ext.jar:/system/framework/telephony-common.jar:/system/framework/voip-common.jar:/system/framework/ims-common.jar:/system/framework/android.test.base.jar:/system/framework/telephony-ext.jar'
+DIRSEPOL='true'
+DOWNLOAD_CACHE='/data/cache'
+DPF=''
+DYNLIB='false'
+EXTERNAL_STORAGE='/sdcard'
+FILE='/data/adb/modules_update/Pix3lify/system.prop'
+FULL='false'
+HOME='/'
+HOSTNAME='localhost'
+IFS=' 	
+'
+INFO='/data/adb/modules_update/Pix3lify/Pix3lify-files'
+INFORD='/dev/tmp/common/unityfiles/boot/ramdisk/Pix3lify-files'
+INSTLOG='/data/adb/modules_update/Pix3lify/Pix3lify-install.log'
+IS64BIT='true'
+LIBDIR='/system'
+LIBPATCH='\/system'
+LINE=''
+LINENO=''
+LOGNAME='root'
+MAGISK='true'
+MAGISKBIN='/data/adb/magisk'
+MAGISKTMP='/sbin/.magisk'
+MAGISK_VER='22.1'
+MAGISK_VERSIONCODE=''
+MAGISK_VER_CODE='22100'
+MID='false'
+MINAPI='26'
+MODAUTH='Joey Huab, Aidan Holland, Pika, JohnFawkes, and Laster K. (lazerl0rd)'
+MODDIRNAME='modules_update'
+MODID='Pix3lify'
+MODNAME='Pix3lify'
+MODPATH='/data/adb/modules_update/Pix3lify'
+MODTITLE='Pix3lify'
+MODULEROOT='/data/adb/modules_update'
+MOD_VER='/sbin/.magisk/img/Pix3lify/module.prop'
+MOUNTEDROOT='/sbin/.magisk/img'
+N5X=''
+N6P=''
+NEW='false'
+NVBASE='/data/adb'
+OFILE='/dev/tmp/module.prop'
+OIFS=' 	
+'
+OLDPWD='/dev/tmp/common/unityfiles/boot'
+OOS=''
+OPTIND='1'
+ORIGDIR='/sbin/.magisk/mirror'
+ORIGVEN='/sbin/.magisk/mirror/vendor'
+OUTFD='1'
+PATH='/dev/tmp/common/unityfiles/tools/other:/dev/tmp/common/unityfiles/tools/arm:/sbin:/system/sbin:/product/bin:/apex/com.android.runtime/bin:/system/bin:/system/xbin:/odm/bin:/vendor/bin:/vendor/xbin'
+PERM='0644'
+POSTFSDATAD='/data/adb/post-fs-data.d'
+PPID='26770'
+PROP='/data/adb/modules_update/Pix3lify/system.prop'
+PS1='\w \$ '
+PS2='> '
+PS4='+ '
+PWD='/'
+PX1=''
+PX1XL=''
+PX2=''
+PX2XL=''
+PX3=''
+PX3XL=''
+RAMDISK='true'
+RD='/dev/tmp/common/unityfiles/boot/ramdisk'
+REPLACE='
+'
+REPLACE_EXAMPLE='
+/system/app/Youtube
+/system/priv-app/SystemUI
+/system/priv-app/Settings
+/system/framework
+'
+SDCARD='/storage/emulated/0'
+SEPOLICY='false'
+SERVICED='/data/adb/service.d'
+SHEBANG='#!/system/bin/sh'
+SHELL='/system/bin/sh'
+SHLVL='2'
+SKIPMOUNT='false'
+SLOT=''
+STATUS='1'
+SYS='/system'
+SYSOVER='false'
+SYSTEMSERVERCLASSPATH='/system/framework/services.jar:/system/framework/ethernet-service.jar:/system/framework/wifi-service.jar:/system/framework/com.android.location.provider.jar'
+SYSTEM_ROOT='true'
+TERMINFO='/system/etc/terminfo'
+TMPDIR='/dev/tmp'
+UF='/dev/tmp/common/unityfiles'
+UNITY='/data/adb/modules_update/Pix3lify'
+USER='root'
+VEN='/system/vendor'
+VER='v3.0.4'
+VKSEL='chooseport'
+ZIPFILE='/storage/emulated/0/Download/Pix3lify-v3.0.4(304).zip'
+_='/data/app/com.topjohnwu.magisk-pgNzBoGRF6r-UJVSXJKC7w==/lib/arm/libbusybox.so'
+i='NVBASE'
+reqSizeM='2'
+
+---(Un)Install Log---
+
++ '[' -f /dev/tmp/addon.tar.xz ]
++ tar -xf /dev/tmp/addon.tar.xz -C /dev/tmp
++ run_addons -m
++ getopt -o mhiuv -- -m
++ local 'OPT= -m --' NAME PNAME
++ eval set -- ' -m --'
++ set -- -m --
++ true
++ NAME=main
++ shift
++ true
++ shift
++ break
++ ls -A /dev/tmp/addon/External-Tools/main.sh /dev/tmp/addon/Ramdisk-Patcher/main.sh /dev/tmp/addon/Volume-Key-Selector/main.sh
++ '[' '/dev/tmp/addon/External-Tools/main.sh
+/dev/tmp/addon/Ramdisk-Patcher/main.sh
+/dev/tmp/addon/Volume-Key-Selector/main.sh' ]
++ '[' -z ]
++ sed -r 's|/dev/tmp/addon/(.*)/main.sh|\1|'
++ echo /dev/tmp/addon/External-Tools/main.sh
++ ui_print '  Running External-Tools...'
++ true
++ echo '  Running External-Tools...'
++ . /dev/tmp/addon/External-Tools/main.sh
++ chmod -R 0755 /dev/tmp/addon/External-Tools
++ cp -R /dev/tmp/addon/External-Tools/tools /dev/tmp/common/unityfiles
++ '[' -d /dev/tmp/common/unityfiles/tools/other ]
++ PATH=/dev/tmp/common/unityfiles/tools/other:/dev/tmp/common/unityfiles/tools/arm:/sbin:/system/sbin:/product/bin:/apex/com.android.runtime/bin:/system/bin:/system/xbin:/odm/bin:/vendor/bin:/vendor/xbin
++ sed -r 's|/dev/tmp/addon/(.*)/main.sh|\1|'
++ echo /dev/tmp/addon/Ramdisk-Patcher/main.sh
++ ui_print '  Running Ramdisk-Patcher...'
++ true
++ echo '  Running Ramdisk-Patcher...'
++ . /dev/tmp/addon/Ramdisk-Patcher/main.sh
++ api_check -n 17
++ getopt -o nx -- -n 17
++ local 'OPT= -n -- '"'"'17'"'" 'TAPI=17'
++ eval set -- ' -n -- '"'"'17'"'"
++ set -- -n -- 17
++ true
++ '[' 29 -lt 17 ]
++ shift
++ true
++ shift
++ break
++ true
++ mv -f /dev/tmp/addon/Ramdisk-Patcher/tools/arm/magiskinit64 /dev/tmp/addon/Ramdisk-Patcher/tools/arm/magiskinit
++ cp -f /dev/tmp/addon/Ramdisk-Patcher/tools/arm/magiskinit /dev/tmp/addon/Ramdisk-Patcher/tools/arm/magiskpolicy
++ chmod -R 0755 /dev/tmp/addon/Ramdisk-Patcher
++ cp -R /dev/tmp/addon/Ramdisk-Patcher/tools /dev/tmp/common/unityfiles
++ unpack_ramdisk
++ local 'BOOTDIR=/dev/tmp/common/unityfiles/boot'
++ cp -af /dev/tmp/common/unityfiles/tools/chromeos /dev/tmp/common/unityfiles/boot
++ chmod -R 0755 /dev/tmp/common/unityfiles/boot
++ find_boot_image
++ BOOTIMAGE=
++ '[' '!' -z ]
++ find_block ramdisk recovery_ramdisk kern-a android_boot kernel boot lnx bootimg boot_a
++ DEVICE=
++ '[' '!' -z ]
++ DEVICE=
++ '[' '!' -z ]
++ DEVICE=
++ '[' '!' -z ]
++ DEVICE=
++ '[' '!' -z ]
++ DEVICE=
++ '[' '!' -z ]
++ DEVICE=/dev/block/by-name/boot
++ '[' '!' -z /dev/block/by-name/boot ]
++ readlink -f /dev/block/by-name/boot
++ return 0
++ BOOTIMAGE=/dev/block/mmcblk0p21
++ '[' -z /dev/block/mmcblk0p21 ]
++ ui_print ' '
++ true
++ echo ' '
++ '[' -z /dev/block/mmcblk0p21 ]
++ ui_print '   Checking boot image signature...'
++ true
++ echo '   Checking boot image signature...'
++ BOOTSIGNER='/system/bin/dalvikvm -Xbootclasspath:/system/framework/core-oj.jar:/system/framework/core-libart.jar:/system/framework/conscrypt.jar:/system/framework/bouncycastle.jar -Xnodex2oat -Xnoimage-dex2oat -cp /dev/tmp/common/unityfiles/tools/avb/BootSignature_Android.jar com.android.verity.BootSignature'
++ RAMDISK=true
++ BOOTSIGNED=false
++ CHROMEOS=false
++ mkdir -p /dev/tmp/common/unityfiles/boot/ramdisk
++ cd /dev/tmp/common/unityfiles/boot
++ dd 'if=/dev/block/mmcblk0p21' 'of=boot.img'
+131072+0 records in
+131072+0 records out
+67108864 bytes (64.0MB) copied, 1.115903 seconds, 57.4MB/s
++ grep VALID
++ eval /system/bin/dalvikvm -Xbootclasspath:/system/framework/core-oj.jar:/system/framework/core-libart.jar:/system/framework/conscrypt.jar:/system/framework/bouncycastle.jar -Xnodex2oat -Xnoimage-dex2oat -cp /dev/tmp/common/unityfiles/tools/avb/BootSignature_Android.jar com.android.verity.BootSignature -verify boot.img
++ false
++ rm -f boot.img
++ magiskinit -x magisk magisk
++ ui_print '   Unpacking boot image...'
++ true
++ echo '   Unpacking boot image...'
++ magiskboot unpack /dev/block/mmcblk0p21
+Parsing boot image: [/dev/block/mmcblk0p21]
+HEADER_VER      [0]
+KERNEL_SZ       [15958372]
+RAMDISK_SZ      [1103723]
+SECOND_SZ       [0]
+EXTRA_SZ        [0]
+RECOV_DTBO_SZ   [0]
+DTB             [0]
+OS_VERSION      [10.0.0]
+OS_PATCH_LEVEL  [2020-03]
+PAGESIZE        [2048]
+NAME            []
+CMDLINE         [androidboot.hardware=qcom msm_rtb.filter=0x237 ehci-hcd.park=3 lpm_levels.sleep_disabled=1 androidboot.bootdevice=7824900.sdhci earlycon=msm_hsl_uart,0x78B0000 androidboot.selinux=permissive loop.max_part=7 buildvariant=userdebug]
+CHECKSUM        [68128d28bf7749b854d62eb02e0936fabde02b48]
+KERNEL_DTB      [5093393]
+KERNEL_FMT      [gzip]
+RAMDISK_FMT     [gzip]
++ ui_print '   Checking ramdisk status'
++ true
++ echo '   Checking ramdisk status'
++ '[' -e ramdisk.cpio ]
++ magiskboot cpio ramdisk.cpio test
+Loading cpio: [ramdisk.cpio]
++ STATUS=1
++ cd ramdisk
++ magiskboot cpio ../ramdisk.cpio extract
+Loading cpio: [../ramdisk.cpio]
+Extract [.backup] to [.backup]
+Extract [.backup/.magisk] to [.backup/.magisk]
+Extract [.backup/.rmlist] to [.backup/.rmlist]
+Extract [.backup/init] to [.backup/init]
+Extract [apex] to [apex]
+Extract [debug_ramdisk] to [debug_ramdisk]
+Extract [dev] to [dev]
+Extract [init] to [init]
+Extract [mnt] to [mnt]
+Extract [overlay.d] to [overlay.d]
+Extract [overlay.d/sbin] to [overlay.d/sbin]
+Extract [overlay.d/sbin/magisk32.xz] to [overlay.d/sbin/magisk32.xz]
+Extract [overlay.d/sbin/magisk64.xz] to [overlay.d/sbin/magisk64.xz]
+Extract [proc] to [proc]
+Extract [sys] to [sys]
++ cd /
++ sed -r 's|/dev/tmp/addon/(.*)/main.sh|\1|'
++ echo /dev/tmp/addon/Volume-Key-Selector/main.sh
++ ui_print '  Running Volume-Key-Selector...'
++ true
++ echo '  Running Volume-Key-Selector...'
++ . /dev/tmp/addon/Volume-Key-Selector/main.sh
++ chmod -R 0755 /dev/tmp/addon/Volume-Key-Selector/tools
++ cp -R /dev/tmp/addon/Volume-Key-Selector/tools /dev/tmp/common/unityfiles
++ OIFS=' 	
+'
++ IFS='|'
++ MID=false
++ NEW=false
++ basename '/storage/emulated/0/Download/Pix3lify-v3.0.4(304).zip'+ tr '[:upper:]'
+ '[:lower:]'
++ echo 'Pix3lify-v3.0.4(304).zip'
++ keytest
++ ui_print '- Vol Key Test -'
++ true
++ echo '- Vol Key Test -'
++ ui_print '  Press a Vol Key'
++ true
++ echo '  Press a Vol Key'
++ /system/bin/grep ' DOWN'
++ /system/bin/grep VOLUME
++ /system/bin/getevent -lc 1
++ return 0
++ VKSEL=chooseport
++ IFS=' 	
+'
++ '[' -z ]
++ unity_custom
++ '[' -f /system/vendor/build.prop ]
++ BUILDS='/system/build.prop /system/vendor/build.prop'
++ '[' -d /cache ]
++ CACHELOC=/cache
++ true
++ SDCARD=/storage/emulated/0
++ grep -E 'ro.vendor.product.device=sailfish|ro.vendor.product.name=sailfish|ro.product.device=sailfish|ro.product.model=Pixel|ro.product.name=sailfish' /system/build.prop /system/vendor/build.prop
++ PX1=
++ grep -E 'ro.vendor.product.device=marlin|ro.vendor.product.name=marlin|ro.product.model=Pixel XL|ro.product.device=marlin|ro.product.name=marlin' /system/build.prop /system/vendor/build.prop
++ PX1XL=
++ grep -E 'ro.vendor.product.device=walleye|ro.vendor.product.name=walleye|ro.product.model=Pixel 2|ro.product.name=walleye|ro.product.device=walleye' /system/build.prop /system/vendor/build.prop
++ PX2=
++ grep -E 'ro.vendor.product.name=taimen|ro.vendor.product.device=taimen|ro.product.model=Pixel 2 XL|ro.product.name=taimen|ro.product.device=taimen' /system/build.prop /system/vendor/build.prop
++ PX2XL=
++ grep -E 'ro.vendor.product.device=blueline|ro.vendor.product.name=blueline|ro.product.model=Pixel 3|ro.product.name=blueline|ro.product.device=blueline' /system/build.prop /system/vendor/build.prop
++ PX3=
++ grep -E 'ro.vendor.product.device=crosshatch|ro.vendor.product.name=crosshatch|ro.product.model=Pixel 3 XL|ro.product.name=crosshatch|ro.product.device=crosshatch' /system/build.prop /system/vendor/build.prop
++ PX3XL=
++ grep -E 'ro.product.device=bullhead|ro.product.name=bullhead' /system/build.prop /system/vendor/build.prop
++ N5X=
++ grep -E 'ro.product.device=angler|ro.product.name=angler' /system/build.prop /system/vendor/build.prop
++ N6P=
++ grep -E 'ro.product.manufacturer=OnePlus|ro.product.vendor.brand=OnePlus' /system/build.prop /system/vendor/build.prop
++ OOS=
++ sed 's|-.*||'
++ get_file_value /dev/tmp/module.prop 'name='
++ '[' -f /dev/tmp/module.prop ]
++ sed 's|"||g'
++ sed 's|.*name=||'
++ grep 'name='
++ cat /dev/tmp/module.prop
++ echo Pix3lify
++ MODTITLE=Pix3lify
++ sed 's|-.*||'
++ get_file_value /dev/tmp/module.prop 'version='
++ '[' -f /dev/tmp/module.prop ]
++ sed 's|.*version=||'
++ sed 's|"||g'
++ grep 'version='
++ cat /dev/tmp/module.prop
++ echo v3.0.4
++ VER=v3.0.4
++ sed 's|-.*||'
++ get_file_value /dev/tmp/module.prop 'author='
++ '[' -f /dev/tmp/module.prop ]
++ + sedsed 's|"||g' 's|.*author=||'
+
++ + catgrep /dev/tmp/module.prop 'author='
+
++ echo Joey Huab, Aidan Holland, Pika, JohnFawkes, and Laster K. '(lazerl0rd)'
++ AUTHOR='Joey Huab, Aidan Holland, Pika, JohnFawkes, and Laster K. (lazerl0rd)'
++ INSTLOG=/data/adb/modules_update/Pix3lify/Pix3lify-install.log
++ + get_file_valuesed /data/adb/magisk/util_functions.sh 's|-.*||' 'MAGISK_VERSIONCODE='
+
++ '[' -f /data/adb/magisk/util_functions.sh ]
++ sed 's|"||g'
++ grep 'MAGISK_VERSIONCODE='
++ sed 's|.*MAGISK_VERSIONCODE=||'
++ cat /data/adb/magisk/util_functions.sh
++ echo
++ MAGISK_VERSIONCODE=
++ ui_print ' '
++ true
++ echo ' '
++ true
++ false
++ '[' -f /system/addon.d/Pix3lify-files -o -f /system/etc/Pix3lify-files ]
++ '[' -f /sbin/.magisk/img/Pix3lify/module.prop ]
++ unity_install
++ ui_print '- Installing'
++ true
++ echo '- Installing'
++ run_addons -h
++ getopt -o mhiuv -- -h
++ local 'OPT= -h --' NAME PNAME
++ eval set -- ' -h --'
++ set -- -h --
++ true
++ NAME=preinstall
++ PNAME=Preinstall
++ shift
++ true
++ shift
++ break
++ ls -A '/dev/tmp/addon/*/preinstall.sh'
++ '['  ]
++ rm -f /data/adb/modules_update/Pix3lify/Pix3lify-files
++ mktouch /data/adb/modules_update/Pix3lify/Pix3lify-files
++ mkdir -p /data/adb/modules_update/Pix3lify
++ '[' -z ]
++ touch /data/adb/modules_update/Pix3lify/Pix3lify-files
++ chmod 644 /data/adb/modules_update/Pix3lify/Pix3lify-files
++ '[' -f /dev/tmp/common/unity_install.sh ]
++ . /dev/tmp/common/unity_install.sh
++ OIFS=' 	
+'
++ IFS='|'
++ tr '[:upper:]' '[:lower:]'
++ basename '/storage/emulated/0/Download/Pix3lify-v3.0.4(304).zip'
++ echo 'Pix3lify-v3.0.4(304).zip'
++ tr '[:upper:]' '[:lower:]'
++ basename '/storage/emulated/0/Download/Pix3lify-v3.0.4(304).zip'
++ echo 'Pix3lify-v3.0.4(304).zip'
++ tr '[:upper:]' '[:lower:]'
++ basename '/storage/emulated/0/Download/Pix3lify-v3.0.4(304).zip'
++ echo 'Pix3lify-v3.0.4(304).zip'
++ tr '[:upper:]' '[:lower:]'
++ basename '/storage/emulated/0/Download/Pix3lify-v3.0.4(304).zip'
++ echo 'Pix3lify-v3.0.4(304).zip'
++ tr '[:upper:]' '[:lower:]'
++ basename '/storage/emulated/0/Download/Pix3lify-v3.0.4(304).zip'
++ echo 'Pix3lify-v3.0.4(304).zip'
++ tr '[:upper:]' '[:lower:]'
++ basename '/storage/emulated/0/Download/Pix3lify-v3.0.4(304).zip'
++ echo 'Pix3lify-v3.0.4(304).zip'
++ IFS=' 	
+'
++ log_start
++ '[' -f /data/adb/modules_update/Pix3lify/Pix3lify-install.log ]
++ touch /data/adb/modules_update/Pix3lify/Pix3lify-install.log
++ echo ' '
++ echo '    *********************************************'
++ echo '    *          Pix3lify                        *'
++ echo '    *********************************************'
++ echo '    *                 v3.0.4                      *'
++ echo '    *********************************************'
++ echo '    *      Joey Huab, Aidan Holland, Pika       *'
++ echo '    *   John Fawkes, Laster K. (lazerl0rd)      *'
++ echo '    *********************************************'
++ echo ' '
++ log_handler 'Starting module installation script'
++ echo 
++ date '+%m-%d-%Y %H:%M:%S'
++ echo -e '07-30-2025 08:21:36 - Starting module installation script'
++ log_print '- Installing Logging Scripts/Prepping Terminal Script '
++ ui_print '- Installing Logging Scripts/Prepping Terminal Script '
++ true
++ echo '- Installing Logging Scripts/Prepping Terminal Script '
++ log_handler '- Installing Logging Scripts/Prepping Terminal Script '
++ echo 
++ date '+%m-%d-%Y %H:%M:%S'
++ echo -e '07-30-2025 08:21:36 - - Installing Logging Scripts/Prepping Terminal Script '
++ cp_ch -n /dev/tmp/pix3lify.sh /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ getopt -o inr -- -n /dev/tmp/pix3lify.sh /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ local 'OPT= -n -- '"'"'/dev/tmp/pix3lify.sh'"'"' '"'"'/data/adb/modules_update/Pix3lify/system/bin/pix3lify'"'" 'BAK=true' 'UBAK=true' 'REST=true' 'BAKFILE=/data/adb/modules_update/Pix3lify/Pix3lify-files' 'FOL=false'
++ eval set -- ' -n -- '"'"'/dev/tmp/pix3lify.sh'"'"' '"'"'/data/adb/modules_update/Pix3lify/system/bin/pix3lify'"'"
++ set -- -n -- /dev/tmp/pix3lify.sh /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ true
++ UBAK=false
++ shift
++ true
++ shift
++ break
++ local 'SRC=/dev/tmp/pix3lify.sh' 'DEST=/data/adb/modules_update/Pix3lify/system/bin/pix3lify' 'OFILES=/dev/tmp/pix3lify.sh'
++ false
++ '[' -z ]
++ PERM=0644
++ BAK=false
++ false
++ '[' -d /data/adb/modules_update/Pix3lify/system/bin/pix3lify ]
++ local 'FILE=/data/adb/modules_update/Pix3lify/system/bin/pix3lify'
++ false
++ install -D -m 0644 /dev/tmp/pix3lify.sh /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ sed -i 's|<CACHELOC>|/cache|' /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ true
++ echo /sbin/.magisk/img/Pix3lify/module.prop
++ sed -i 's|<MODPROP>|/sbin/.magisk/img/Pix3lify/module.prop|' /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ patch_script /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ '[' -L /system/vendor ]
++ local 'VEN=/vendor'
++ sed -i -e '1i #!/system/bin/sh' -e '1i SYS=/system' -e '1i VEN=/vendor' /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ eval echo '$ROOT'
++ echo
++ sed -i '4i ROOT=' /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ eval echo '$MAGISK'
++ echo true
++ sed -i '4i MAGISK=true' /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ eval echo '$LIBDIR'
++ echo /system
++ sed -i '4i LIBDIR=/system' /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ eval echo '$SYSOVER'
++ echo false
++ sed -i '4i SYSOVER=false' /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ eval echo '$DIRSEPOL'
++ echo true
++ sed -i '4i DIRSEPOL=true' /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ eval echo '$MODID'
++ echo Pix3lify
++ sed -i '4i MODID=Pix3lify' /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ eval echo '$MOUNTEDROOT'
++ echo /sbin/.magisk/img
++ sed -i '4i MOUNTEDROOT=/sbin/.magisk/img' /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ eval echo '$NVBASE'
++ echo /data/adb
++ sed -i '4i NVBASE=/data/adb' /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ true
++ sed -i -e 's|$MODPATH|/sbin/.magisk/img/Pix3lify|g' -e 's|$MOUNTPATH|/sbin/.magisk/img|g' -e 's|$MODULEROOT|/sbin/.magisk/img|g' -e '12i INFO=/sbin/.magisk/img/Pix3lify/Pix3lify-files' /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ '['  ]
++ '['  ]
++ '['  ]
++ '['  ]
++ '['  ]
++ '['  ]
++ '['  ]
++ '['  ]
++ '['  ]
++ ui_print ' '
++ true
++ echo ' '
++ log_print '   Removing remnants from past Pix3lify installs...'
++ ui_print '   Removing remnants from past Pix3lify installs...'
++ true
++ echo '   Removing remnants from past Pix3lify installs...'
++ log_handler '   Removing remnants from past Pix3lify installs...'
++ echo 
++ date '+%m-%d-%Y %H:%M:%S'
++ echo -e '07-30-2025 08:21:37 -    Removing remnants from past Pix3lify installs...'
++ rm -rf /data/resource-cache
++ '[' -z ]
++ '[' -z ]
++ ui_print ' '
++ true
++ echo ' '
++ log_print ' - Slim Options -'
++ ui_print ' - Slim Options -'
++ true
++ echo ' - Slim Options -'
++ log_handler ' - Slim Options -'
++ echo 
++ date '+%m-%d-%Y %H:%M:%S'
++ echo -e '07-30-2025 08:21:37 -  - Slim Options -'
++ log_print '   Do you want to enable slim mode (heavily reduced featureset, see README)?'
++ ui_print '   Do you want to enable slim mode (heavily reduced featureset, see README)?'
++ true
++ echo '   Do you want to enable slim mode (heavily reduced featureset, see README)?'
++ log_handler '   Do you want to enable slim mode (heavily reduced featureset, see README)?'
++ echo 
++ date '+%m-%d-%Y %H:%M:%S'
++ echo -e '07-30-2025 08:21:37 -    Do you want to enable slim mode (heavily reduced featureset, see README)?'
++ log_print '   Vol Up = Yes, Vol Down = No'
++ ui_print '   Vol Up = Yes, Vol Down = No'
++ true
++ echo '   Vol Up = Yes, Vol Down = No'
++ log_handler '   Vol Up = Yes, Vol Down = No'
++ echo 
++ date '+%m-%d-%Y %H:%M:%S'
++ echo -e '07-30-2025 08:21:37 -    Vol Up = Yes, Vol Down = No'
++ chooseport
++ true
++ /system/bin/grep VOLUME
++ /system/bin/grep ' DOWN'
++ /system/bin/getevent -lc 1
++ /system/bin/grep VOLUME
++ cat /dev/tmp/events
++ 
++ break
++ cat /dev/tmp/events
++ /system/bin/grep VOLUMEUP
++ 
++ return 0
++ FULL=false
++ false
++ '[' '!' -f /system/bin/curl ]
++ false
++ ui_print ' '
++ true
++ echo ' '
++ log_print '   Enabling slim mode...'
++ ui_print '   Enabling slim mode...'
++ true
++ echo '   Enabling slim mode...'
++ log_handler '   Enabling slim mode...'
++ echo 
++ date '+%m-%d-%Y %H:%M:%S'
++ echo -e '07-30-2025 08:21:42 -    Enabling slim mode...'
++ sed -ri 's/name=(.*)/name=\1 (SLIM)/' /dev/tmp/module.prop
++ rm -rf /dev/tmp/system/app
++ rm -rf /dev/tmp/system/fonts
++ rm -rf /dev/tmp/system/lib
++ rm -rf /dev/tmp/system/lib64
++ rm -rf /dev/tmp/system/media
++ rm -rf /dev/tmp/system/priv-app
++ rm -rf /dev/tmp/system/vendor/overlay/DisplayCutoutEmulationCorner
++ rm -rf /dev/tmp/system/vendor/overlay/DisplayCutoutEmulationDouble
++ rm -rf /dev/tmp/system/vendor/overlay/DisplayCutoutEmulationTall
++ rm -rf /dev/tmp/system/vendor/overlay/DisplayCutoutNoCutout
++ rm -rf /dev/tmp/system/vendor/overlay/Pixel
++ rm -rf /data/resource-cache
++ 
++ ui_print ' '
++ true
++ echo ' '
++ log_print '   Enabling Q emoji...'
++ ui_print '   Enabling Q emoji...'
++ true
++ echo '   Enabling Q emoji...'
++ log_handler '   Enabling Q emoji...'
++ echo 
++ date '+%m-%d-%Y %H:%M:%S'
++ echo -e '07-30-2025 08:21:42 -    Enabling Q emoji...'
++ 
++ ui_print ' '
++ true
++ echo ' '
++ log_print '   Enabling fonts replacement...'
++ ui_print '   Enabling fonts replacement...'
++ true
++ echo '   Enabling fonts replacement...'
++ log_handler '   Enabling fonts replacement...'
++ echo 
++ date '+%m-%d-%Y %H:%M:%S'
++ echo -e '07-30-2025 08:21:42 -    Enabling fonts replacement...'
++ cp -rf /system/etc/fonts.xml /dev/tmp/system/etc/fonts.xml
++ sed 's|.*-||'
++ find '/dev/tmp/system/fonts/GoogleSans-*'
+find: /dev/tmp/system/fonts/GoogleSans-*: No such file or directory
++ sed 's|.*-||'
++ find '/system/fonts/Clock*'
+find: /system/fonts/Clock*: No such file or directory
++ '[[' '!' -e /system/fonts/AndroidClock.ttf ]]
++ ln -s /dev/tmp/system/fonts/Roboto-Regular.ttf /dev/tmp/system/fonts/DroidSans.ttf
+ln: /dev/tmp/system/fonts/DroidSans.ttf: No such file or directory
++ ln -s /dev/tmp/system/fonts/Roboto-Bold.ttf /dev/tmp/system/fonts/DroidSans-Bold.ttf
+ln: /dev/tmp/system/fonts/DroidSans-Bold.ttf: No such file or directory
++ 
++ ui_print ' '
++ true
++ echo ' '
++ log_print '   Enabling Pixel stand...'
++ ui_print '   Enabling Pixel stand...'
++ true
++ echo '   Enabling Pixel stand...'
++ log_handler '   Enabling Pixel stand...'
++ echo 
++ date '+%m-%d-%Y %H:%M:%S'
++ echo -e '07-30-2025 08:21:42 -    Enabling Pixel stand...'
++ '[' 29 -ge 27 ]
++ rm -rf /dev/tmp/system/framework
++ '[' 29 -ge 28 ]
++ ui_print ' '
++ true
++ echo ' '
++ log_print '   Enabling Google'"'"'s Call Screening...'
++ ui_print '   Enabling Google'"'"'s Call Screening...'
++ true
++ echo '   Enabling Google'"'"'s Call Screening...'
++ log_handler '   Enabling Google'"'"'s Call Screening...'
++ echo 
++ date '+%m-%d-%Y %H:%M:%S'
++ echo -e '07-30-2025 08:21:42 -    Enabling Google'"'"'s Call Screening...'
++ find '/data/data/com.google.android.dialer*' -name dialer_phenotype_flags.xml
+find: /data/data/com.google.android.dialer*: No such file or directory
++ DPF=
++ '[' -f ]
++ patch_xml -s '/map/boolean[@name="G__speak_easy_bypass_locale_check"]' true
++ local VAR1 VAR2 NAME NAMEC VALC VAL
++ sed -r 's|^.*/.*\[@.*="(.*)".*$|\1|'
++ echo true
++ NAME=true
++ sed -r 's|^.*/.*\[@(.*)=".*".*$|\1|'
++ echo true
++ NAMEC=true
++ echo
++ grep '='
++ '['  ]
++ VALC=value
++ VAL=
++ '[' -s '==' -t -o -s '==' -ut -o -s '==' -tu ]
++ xmlstarlet sel -t -m true -c . '/map/boolean[@name="G__speak_easy_bypass_locale_check"]'
+failed to load external entity "/map/boolean[@name="G__speak_easy_bypass_locale_check"]"
++ '['  ]
++ '[' -s '==' -s ]
++ echo true
++ sed -r 's|(^.*)/.*$|\1|'
++ local 'NP=true'
++ echo true
++ sed -r 's|(^.*)\[.*$|\1|'
++ local 'SNP=true'
++ echo true
++ sed -r 's|^.*/.*/(.*)\[.*$|\1|'
++ local 'SN=true'
++ xmlstarlet ed -L -s true -t elem -n true-Pix3lify -i true-Pix3lify -t attr -n true -v true -i true-Pix3lify -t attr -n value -v  '/map/boolean[@name="G__speak_easy_bypass_locale_check"]'
+failed to load external entity "/map/boolean[@name="G__speak_easy_bypass_locale_check"]"
++ xmlstarlet ed -L -r true-Pix3lify -v true '/map/boolean[@name="G__speak_easy_bypass_locale_check"]'
+failed to load external entity "/map/boolean[@name="G__speak_easy_bypass_locale_check"]"
++ xmlstarlet ed -L -i true -t elem -n Pix3lify '/map/boolean[@name="G__speak_easy_bypass_locale_check"]'
+failed to load external entity "/map/boolean[@name="G__speak_easy_bypass_locale_check"]"
++ sed -n '/<Pix3lify\/>/=' '/map/boolean[@name="G__speak_easy_bypass_locale_check"]'
+sed: /map/boolean[@name="G__speak_easy_bypass_locale_check"]: No such file or directory
++ local 'LN='
++ tac
++ sed -n '/^ *<!--Pix3lify-->$/=' '/map/boolean[@name="G__speak_easy_bypass_locale_check"]'
+sed: /map/boolean[@name="G__speak_easy_bypass_locale_check"]: No such file or directory
++ local 'LN='
++ patch_xml -s '/map/boolean[@name="G__speak_easy_enable_listen_in_button"]' true
++ local VAR1 VAR2 NAME NAMEC VALC VAL
++ echo true
++ sed -r 's|^.*/.*\[@.*="(.*)".*$|\1|'
++ NAME=true
++ sed -r 's|^.*/.*\[@(.*)=".*".*$|\1|'
++ echo true
++ NAMEC=true
++ echo
++ grep '='
++ '['  ]
++ VALC=value
++ VAL=
++ '[' -s '==' -t -o -s '==' -ut -o -s '==' -tu ]
++ xmlstarlet sel -t -m true -c . '/map/boolean[@name="G__speak_easy_enable_listen_in_button"]'
+failed to load external entity "/map/boolean[@name="G__speak_easy_enable_listen_in_button"]"
++ '['  ]
++ '[' -s '==' -s ]
++ sed -r 's|(^.*)/.*$|\1|'
++ echo true
++ local 'NP=true'
++ sed -r 's|(^.*)\[.*$|\1|'
++ echo true
++ local 'SNP=true'
++ sed -r 's|^.*/.*/(.*)\[.*$|\1|'
++ echo true
++ local 'SN=true'
++ xmlstarlet ed -L -s true -t elem -n true-Pix3lify -i true-Pix3lify -t attr -n true -v true -i true-Pix3lify -t attr -n value -v  '/map/boolean[@name="G__speak_easy_enable_listen_in_button"]'
+failed to load external entity "/map/boolean[@name="G__speak_easy_enable_listen_in_button"]"
++ xmlstarlet ed -L -r true-Pix3lify -v true '/map/boolean[@name="G__speak_easy_enable_listen_in_button"]'
+failed to load external entity "/map/boolean[@name="G__speak_easy_enable_listen_in_button"]"
++ xmlstarlet ed -L -i true -t elem -n Pix3lify '/map/boolean[@name="G__speak_easy_enable_listen_in_button"]'
+failed to load external entity "/map/boolean[@name="G__speak_easy_enable_listen_in_button"]"
++ sed -n '/<Pix3lify\/>/=' '/map/boolean[@name="G__speak_easy_enable_listen_in_button"]'
+sed: /map/boolean[@name="G__speak_easy_enable_listen_in_button"]: No such file or directory
++ local 'LN='
++ sed -n '/^ *<!--Pix3lify-->$/=' '/map/boolean[@name="G__speak_easy_enable_listen_in_button"]'
++ tac
+sed: /map/boolean[@name="G__speak_easy_enable_listen_in_button"]: No such file or directory
++ local 'LN='
++ patch_xml -s '/map/boolean[@name="__data_rollout__SpeakEasy.OverrideUSLocaleCheckRollout__launched__"]' true
++ local VAR1 VAR2 NAME NAMEC VALC VAL
++ sed -r 's|^.*/.*\[@.*="(.*)".*$|\1|'
++ echo true
++ NAME=true
++ echo true
++ sed -r 's|^.*/.*\[@(.*)=".*".*$|\1|'
++ NAMEC=true
++ echo
++ grep '='
++ '['  ]
++ VALC=value
++ VAL=
++ '[' -s '==' -t -o -s '==' -ut -o -s '==' -tu ]
++ xmlstarlet sel -t -m true -c . '/map/boolean[@name="__data_rollout__SpeakEasy.OverrideUSLocaleCheckRollout__launched__"]'
+failed to load external entity "/map/boolean[@name="__data_rollout__SpeakEasy.OverrideUSLocaleCheckRollout__launched__"]"
++ '['  ]
++ '[' -s '==' -s ]
++ sed -r 's|(^.*)/.*$|\1|'
++ echo true
++ local 'NP=true'
++ echo true
++ sed -r 's|(^.*)\[.*$|\1|'
++ local 'SNP=true'
++ sed -r 's|^.*/.*/(.*)\[.*$|\1|'
++ echo true
++ local 'SN=true'
++ xmlstarlet ed -L -s true -t elem -n true-Pix3lify -i true-Pix3lify -t attr -n true -v true -i true-Pix3lify -t attr -n value -v  '/map/boolean[@name="__data_rollout__SpeakEasy.OverrideUSLocaleCheckRollout__launched__"]'
+failed to load external entity "/map/boolean[@name="__data_rollout__SpeakEasy.OverrideUSLocaleCheckRollout__launched__"]"
++ xmlstarlet ed -L -r true-Pix3lify -v true '/map/boolean[@name="__data_rollout__SpeakEasy.OverrideUSLocaleCheckRollout__launched__"]'
+failed to load external entity "/map/boolean[@name="__data_rollout__SpeakEasy.OverrideUSLocaleCheckRollout__launched__"]"
++ xmlstarlet ed -L -i true -t elem -n Pix3lify '/map/boolean[@name="__data_rollout__SpeakEasy.OverrideUSLocaleCheckRollout__launched__"]'
+failed to load external entity "/map/boolean[@name="__data_rollout__SpeakEasy.OverrideUSLocaleCheckRollout__launched__"]"
++ sed -n '/<Pix3lify\/>/=' '/map/boolean[@name="__data_rollout__SpeakEasy.OverrideUSLocaleCheckRollout__launched__"]'
+sed: /map/boolean[@name="__data_rollout__SpeakEasy.OverrideUSLocaleCheckRollout__launched__"]: No such file or directory
++ local 'LN='
++ tac
++ sed -n '/^ *<!--Pix3lify-->$/=' '/map/boolean[@name="__data_rollout__SpeakEasy.OverrideUSLocaleCheckRollout__launched__"]'
+sed: /map/boolean[@name="__data_rollout__SpeakEasy.OverrideUSLocaleCheckRollout__launched__"]: No such file or directory
++ local 'LN='
++ patch_xml -s '/map/boolean[@name="G__enable_speakeasy_details"]' true
++ local VAR1 VAR2 NAME NAMEC VALC VAL
++ echo true
++ sed -r 's|^.*/.*\[@.*="(.*)".*$|\1|'
++ NAME=true
++ sed -r 's|^.*/.*\[@(.*)=".*".*$|\1|'
++ echo true
++ NAMEC=true
++ grep '='
++ echo
++ '['  ]
++ VALC=value
++ VAL=
++ '[' -s '==' -t -o -s '==' -ut -o -s '==' -tu ]
++ xmlstarlet sel -t -m true -c . '/map/boolean[@name="G__enable_speakeasy_details"]'
+failed to load external entity "/map/boolean[@name="G__enable_speakeasy_details"]"
++ '['  ]
++ '[' -s '==' -s ]
++ sed -r 's|(^.*)/.*$|\1|'
++ echo true
++ local 'NP=true'
++ sed -r 's|(^.*)\[.*$|\1|'
++ echo true
++ local 'SNP=true'
++ sed -r 's|^.*/.*/(.*)\[.*$|\1|'
++ echo true
++ local 'SN=true'
++ xmlstarlet ed -L -s true -t elem -n true-Pix3lify -i true-Pix3lify -t attr -n true -v true -i true-Pix3lify -t attr -n value -v  '/map/boolean[@name="G__enable_speakeasy_details"]'
+failed to load external entity "/map/boolean[@name="G__enable_speakeasy_details"]"
++ xmlstarlet ed -L -r true-Pix3lify -v true '/map/boolean[@name="G__enable_speakeasy_details"]'
+failed to load external entity "/map/boolean[@name="G__enable_speakeasy_details"]"
++ xmlstarlet ed -L -i true -t elem -n Pix3lify '/map/boolean[@name="G__enable_speakeasy_details"]'
+failed to load external entity "/map/boolean[@name="G__enable_speakeasy_details"]"
++ sed -n '/<Pix3lify\/>/=' '/map/boolean[@name="G__enable_speakeasy_details"]'
+sed: /map/boolean[@name="G__enable_speakeasy_details"]: No such file or directory
++ local 'LN='
++ tac
++ sed -n '/^ *<!--Pix3lify-->$/=' '/map/boolean[@name="G__enable_speakeasy_details"]'
+sed: /map/boolean[@name="G__enable_speakeasy_details"]: No such file or directory
++ local 'LN='
++ patch_xml -s '/map/boolean[@name="G__speak_easy_enabled"]' true
++ local VAR1 VAR2 NAME NAMEC VALC VAL
++ sed -r 's|^.*/.*\[@.*="(.*)".*$|\1|'
++ echo true
++ NAME=true
++ sed -r 's|^.*/.*\[@(.*)=".*".*$|\1|'
++ echo true
++ NAMEC=true
++ grep '='
++ echo
++ '['  ]
++ VALC=value
++ VAL=
++ '[' -s '==' -t -o -s '==' -ut -o -s '==' -tu ]
++ xmlstarlet sel -t -m true -c . '/map/boolean[@name="G__speak_easy_enabled"]'
+failed to load external entity "/map/boolean[@name="G__speak_easy_enabled"]"
++ '['  ]
++ '[' -s '==' -s ]
++ sed -r 's|(^.*)/.*$|\1|'
++ echo true
++ local 'NP=true'
++ sed -r 's|(^.*)\[.*$|\1|'
++ echo true
++ local 'SNP=true'
++ sed -r 's|^.*/.*/(.*)\[.*$|\1|'
++ echo true
++ local 'SN=true'
++ xmlstarlet ed -L -s true -t elem -n true-Pix3lify -i true-Pix3lify -t attr -n true -v true -i true-Pix3lify -t attr -n value -v  '/map/boolean[@name="G__speak_easy_enabled"]'
+failed to load external entity "/map/boolean[@name="G__speak_easy_enabled"]"
++ xmlstarlet ed -L -r true-Pix3lify -v true '/map/boolean[@name="G__speak_easy_enabled"]'
+failed to load external entity "/map/boolean[@name="G__speak_easy_enabled"]"
++ xmlstarlet ed -L -i true -t elem -n Pix3lify '/map/boolean[@name="G__speak_easy_enabled"]'
+failed to load external entity "/map/boolean[@name="G__speak_easy_enabled"]"
++ sed -n '/<Pix3lify\/>/=' '/map/boolean[@name="G__speak_easy_enabled"]'
+sed: /map/boolean[@name="G__speak_easy_enabled"]: No such file or directory
++ local 'LN='
++ tac
++ sed -n '/^ *<!--Pix3lify-->$/=' '/map/boolean[@name="G__speak_easy_enabled"]'
+sed: /map/boolean[@name="G__speak_easy_enabled"]: No such file or directory
++ local 'LN='
++ patch_xml -s '/map/boolean[@name="G__speakeasy_show_privacy_tour"]' true
++ local VAR1 VAR2 NAME NAMEC VALC VAL
++ echo true+ 
+sed -r 's|^.*/.*\[@.*="(.*)".*$|\1|'
++ NAME=true
++ sed -r 's|^.*/.*\[@(.*)=".*".*$|\1|'
++ echo true
++ NAMEC=true
++ grep '='
++ echo
++ '['  ]
++ VALC=value
++ VAL=
++ '[' -s '==' -t -o -s '==' -ut -o -s '==' -tu ]
++ xmlstarlet sel -t -m true -c . '/map/boolean[@name="G__speakeasy_show_privacy_tour"]'
+failed to load external entity "/map/boolean[@name="G__speakeasy_show_privacy_tour"]"
++ '['  ]
++ '[' -s '==' -s ]
++ sed -r 's|(^.*)/.*$|\1|'
++ echo true
++ local 'NP=true'
++ sed -r 's|(^.*)\[.*$|\1|'
++ echo true
++ local 'SNP=true'
++ sed -r 's|^.*/.*/(.*)\[.*$|\1|'
++ echo true
++ local 'SN=true'
++ xmlstarlet ed -L -s true -t elem -n true-Pix3lify -i true-Pix3lify -t attr -n true -v true -i true-Pix3lify -t attr -n value -v  '/map/boolean[@name="G__speakeasy_show_privacy_tour"]'
+failed to load external entity "/map/boolean[@name="G__speakeasy_show_privacy_tour"]"
++ xmlstarlet ed -L -r true-Pix3lify -v true '/map/boolean[@name="G__speakeasy_show_privacy_tour"]'
+failed to load external entity "/map/boolean[@name="G__speakeasy_show_privacy_tour"]"
++ xmlstarlet ed -L -i true -t elem -n Pix3lify '/map/boolean[@name="G__speakeasy_show_privacy_tour"]'
+failed to load external entity "/map/boolean[@name="G__speakeasy_show_privacy_tour"]"
++ sed -n '/<Pix3lify\/>/=' '/map/boolean[@name="G__speakeasy_show_privacy_tour"]'
+sed: /map/boolean[@name="G__speakeasy_show_privacy_tour"]: No such file or directory
++ local 'LN='
++ tac
++ sed -n '/^ *<!--Pix3lify-->$/=' '/map/boolean[@name="G__speakeasy_show_privacy_tour"]'
+sed: /map/boolean[@name="G__speakeasy_show_privacy_tour"]: No such file or directory
++ local 'LN='
++ patch_xml -s '/map/boolean[@name="__data_rollout__SpeakEasy.SpeakEasyDetailsRollout__launched__"]' true
++ local VAR1 VAR2 NAME NAMEC VALC VAL
++ sed -r 's|^.*/.*\[@.*="(.*)".*$|\1|'
++ echo true
++ NAME=true
++ + echosed true -r
+ 's|^.*/.*\[@(.*)=".*".*$|\1|'
++ NAMEC=true
++ grep '='
++ echo
++ '['  ]
++ VALC=value
++ VAL=
++ '[' -s '==' -t -o -s '==' -ut -o -s '==' -tu ]
++ xmlstarlet sel -t -m true -c . '/map/boolean[@name="__data_rollout__SpeakEasy.SpeakEasyDetailsRollout__launched__"]'
+failed to load external entity "/map/boolean[@name="__data_rollout__SpeakEasy.SpeakEasyDetailsRollout__launched__"]"
++ '['  ]
++ '[' -s '==' -s ]
++ sed -r 's|(^.*)/.*$|\1|'
++ echo true
++ local 'NP=true'
++ sed -r 's|(^.*)\[.*$|\1|'
++ echo true
++ local 'SNP=true'
++ echo true
++ sed -r 's|^.*/.*/(.*)\[.*$|\1|'
++ local 'SN=true'
++ xmlstarlet ed -L -s true -t elem -n true-Pix3lify -i true-Pix3lify -t attr -n true -v true -i true-Pix3lify -t attr -n value -v  '/map/boolean[@name="__data_rollout__SpeakEasy.SpeakEasyDetailsRollout__launched__"]'
+failed to load external entity "/map/boolean[@name="__data_rollout__SpeakEasy.SpeakEasyDetailsRollout__launched__"]"
++ xmlstarlet ed -L -r true-Pix3lify -v true '/map/boolean[@name="__data_rollout__SpeakEasy.SpeakEasyDetailsRollout__launched__"]'
+failed to load external entity "/map/boolean[@name="__data_rollout__SpeakEasy.SpeakEasyDetailsRollout__launched__"]"
++ xmlstarlet ed -L -i true -t elem -n Pix3lify '/map/boolean[@name="__data_rollout__SpeakEasy.SpeakEasyDetailsRollout__launched__"]'
+failed to load external entity "/map/boolean[@name="__data_rollout__SpeakEasy.SpeakEasyDetailsRollout__launched__"]"
++ sed -n '/<Pix3lify\/>/=' '/map/boolean[@name="__data_rollout__SpeakEasy.SpeakEasyDetailsRollout__launched__"]'
+sed: /map/boolean[@name="__data_rollout__SpeakEasy.SpeakEasyDetailsRollout__launched__"]: No such file or directory
++ local 'LN='
++ tac
++ sed -n '/^ *<!--Pix3lify-->$/=' '/map/boolean[@name="__data_rollout__SpeakEasy.SpeakEasyDetailsRollout__launched__"]'
+sed: /map/boolean[@name="__data_rollout__SpeakEasy.SpeakEasyDetailsRollout__launched__"]: No such file or directory
++ local 'LN='
++ patch_xml -s '/map/boolean[@name="__data_rollout__SpeakEasy.CallScreenOnPixelTwoRollout__launched__"]' true
++ local VAR1 VAR2 NAME NAMEC VALC VAL
++ sed -r 's|^.*/.*\[@.*="(.*)".*$|\1|'
++ echo true
++ NAME=true
++ sed -r 's|^.*/.*\[@(.*)=".*".*$|\1|'
++ echo true
++ NAMEC=true
++ grep '='
++ echo
++ '['  ]
++ VALC=value
++ VAL=
++ '[' -s '==' -t -o -s '==' -ut -o -s '==' -tu ]
++ xmlstarlet sel -t -m true -c . '/map/boolean[@name="__data_rollout__SpeakEasy.CallScreenOnPixelTwoRollout__launched__"]'
+failed to load external entity "/map/boolean[@name="__data_rollout__SpeakEasy.CallScreenOnPixelTwoRollout__launched__"]"
++ '['  ]
++ '[' -s '==' -s ]
++ sed -r 's|(^.*)/.*$|\1|'
++ echo true
++ local 'NP=true'
++ sed -r 's|(^.*)\[.*$|\1|'
++ echo true
++ local 'SNP=true'
++ sed -r 's|^.*/.*/(.*)\[.*$|\1|'
++ echo true
++ local 'SN=true'
++ xmlstarlet ed -L -s true -t elem -n true-Pix3lify -i true-Pix3lify -t attr -n true -v true -i true-Pix3lify -t attr -n value -v  '/map/boolean[@name="__data_rollout__SpeakEasy.CallScreenOnPixelTwoRollout__launched__"]'
+failed to load external entity "/map/boolean[@name="__data_rollout__SpeakEasy.CallScreenOnPixelTwoRollout__launched__"]"
++ xmlstarlet ed -L -r true-Pix3lify -v true '/map/boolean[@name="__data_rollout__SpeakEasy.CallScreenOnPixelTwoRollout__launched__"]'
+failed to load external entity "/map/boolean[@name="__data_rollout__SpeakEasy.CallScreenOnPixelTwoRollout__launched__"]"
++ xmlstarlet ed -L -i true -t elem -n Pix3lify '/map/boolean[@name="__data_rollout__SpeakEasy.CallScreenOnPixelTwoRollout__launched__"]'
+failed to load external entity "/map/boolean[@name="__data_rollout__SpeakEasy.CallScreenOnPixelTwoRollout__launched__"]"
++ sed -n '/<Pix3lify\/>/=' '/map/boolean[@name="__data_rollout__SpeakEasy.CallScreenOnPixelTwoRollout__launched__"]'
+sed: /map/boolean[@name="__data_rollout__SpeakEasy.CallScreenOnPixelTwoRollout__launched__"]: No such file or directory
++ local 'LN='
++ tac
++ sed -n '/^ *<!--Pix3lify-->$/=' '/map/boolean[@name="__data_rollout__SpeakEasy.CallScreenOnPixelTwoRollout__launched__"]'
+sed: /map/boolean[@name="__data_rollout__SpeakEasy.CallScreenOnPixelTwoRollout__launched__"]: No such file or directory
++ local 'LN='
++ patch_xml -s '/map/boolean[@name="G__speakeasy_postcall_survey_enabled"]' true
++ local VAR1 VAR2 NAME NAMEC VALC VAL
++ sed -r 's|^.*/.*\[@.*="(.*)".*$|\1|'
++ echo true
++ NAME=true
++ sed -r 's|^.*/.*\[@(.*)=".*".*$|\1|'
++ echo true
++ NAMEC=true
++ grep '='
++ echo
++ '['  ]
++ VALC=value
++ VAL=
++ '[' -s '==' -t -o -s '==' -ut -o -s '==' -tu ]
++ xmlstarlet sel -t -m true -c . '/map/boolean[@name="G__speakeasy_postcall_survey_enabled"]'
+failed to load external entity "/map/boolean[@name="G__speakeasy_postcall_survey_enabled"]"
++ '['  ]
++ '[' -s '==' -s ]
++ sed -r 's|(^.*)/.*$|\1|'
++ echo true
++ local 'NP=true'
++ sed -r 's|(^.*)\[.*$|\1|'
++ echo true
++ local 'SNP=true'
++ sed -r 's|^.*/.*/(.*)\[.*$|\1|'
++ echo true
++ local 'SN=true'
++ xmlstarlet ed -L -s true -t elem -n true-Pix3lify -i true-Pix3lify -t attr -n true -v true -i true-Pix3lify -t attr -n value -v  '/map/boolean[@name="G__speakeasy_postcall_survey_enabled"]'
+failed to load external entity "/map/boolean[@name="G__speakeasy_postcall_survey_enabled"]"
++ xmlstarlet ed -L -r true-Pix3lify -v true '/map/boolean[@name="G__speakeasy_postcall_survey_enabled"]'
+failed to load external entity "/map/boolean[@name="G__speakeasy_postcall_survey_enabled"]"
++ xmlstarlet ed -L -i true -t elem -n Pix3lify '/map/boolean[@name="G__speakeasy_postcall_survey_enabled"]'
+failed to load external entity "/map/boolean[@name="G__speakeasy_postcall_survey_enabled"]"
++ sed -n '/<Pix3lify\/>/=' '/map/boolean[@name="G__speakeasy_postcall_survey_enabled"]'
+sed: /map/boolean[@name="G__speakeasy_postcall_survey_enabled"]: No such file or directory
++ local 'LN='
++ tac
++ sed -n '/^ *<!--Pix3lify-->$/=' '/map/boolean[@name="G__speakeasy_postcall_survey_enabled"]'
+sed: /map/boolean[@name="G__speakeasy_postcall_survey_enabled"]: No such file or directory
++ local 'LN='
++ '[' 29 -ge 28 ]
++ rm -rf /dev/tmp/system/app/MarkupGoogle/MarkupGoogle2.apk
++ mv /dev/tmp/system/app/MarkupGoogle/MarkupGoogle1.apk /dev/tmp/system/app/MarkupGoogle/MarkupGoogle.apk
+mv: can't rename '/dev/tmp/system/app/MarkupGoogle/MarkupGoogle1.apk': No such file or directory
++ eval echo '$FULL'
++ echo false
++ sed -i '2i FULL=false' /dev/tmp/common/service.sh
++ cp_ch -i /dev/tmp/common/unityfiles/tools/arm/xmlstarlet /dev/tmp/system/bin/xmlstarlet
++ getopt -o inr -- -i /dev/tmp/common/unityfiles/tools/arm/xmlstarlet /dev/tmp/system/bin/xmlstarlet
++ local 'OPT= -i -- '"'"'/dev/tmp/common/unityfiles/tools/arm/xmlstarlet'"'"' '"'"'/dev/tmp/system/bin/xmlstarlet'"'" 'BAK=true' 'UBAK=true' 'REST=true' 'BAKFILE=/data/adb/modules_update/Pix3lify/Pix3lify-files' 'FOL=false'
++ eval set -- ' -i -- '"'"'/dev/tmp/common/unityfiles/tools/arm/xmlstarlet'"'"' '"'"'/dev/tmp/system/bin/xmlstarlet'"'"
++ set -- -i -- /dev/tmp/common/unityfiles/tools/arm/xmlstarlet /dev/tmp/system/bin/xmlstarlet
++ true
++ UBAK=false
++ REST=false
++ shift
++ true
++ shift
++ break
++ local 'SRC=/dev/tmp/common/unityfiles/tools/arm/xmlstarlet' 'DEST=/dev/tmp/system/bin/xmlstarlet' 'OFILES=/dev/tmp/common/unityfiles/tools/arm/xmlstarlet'
++ false
++ '[' -z ]
++ PERM=0644
++ BAK=false
++ false
++ '[' -d /dev/tmp/system/bin/xmlstarlet ]
++ local 'FILE=/dev/tmp/system/bin/xmlstarlet'
++ false
++ install -D -m 0644 /dev/tmp/common/unityfiles/tools/arm/xmlstarlet /dev/tmp/system/bin/xmlstarlet
++ chcon u:object_r:system_file:s0 /dev/tmp/system/bin/xmlstarlet
++ cp_ch -i /data/adb/modules_update/Pix3lify/system/bin/pix3lify /data/adb/modules_update/Pix3lify/pix3lify
++ getopt -o inr -- -i /data/adb/modules_update/Pix3lify/system/bin/pix3lify /data/adb/modules_update/Pix3lify/pix3lify
++ local 'OPT= -i -- '"'"'/data/adb/modules_update/Pix3lify/system/bin/pix3lify'"'"' '"'"'/data/adb/modules_update/Pix3lify/pix3lify'"'" 'BAK=true' 'UBAK=true' 'REST=true' 'BAKFILE=/data/adb/modules_update/Pix3lify/Pix3lify-files' 'FOL=false'
++ eval set -- ' -i -- '"'"'/data/adb/modules_update/Pix3lify/system/bin/pix3lify'"'"' '"'"'/data/adb/modules_update/Pix3lify/pix3lify'"'"
++ set -- -i -- /data/adb/modules_update/Pix3lify/system/bin/pix3lify /data/adb/modules_update/Pix3lify/pix3lify
++ true
++ UBAK=false
++ REST=false
++ shift
++ true
++ shift
++ break
++ local 'SRC=/data/adb/modules_update/Pix3lify/system/bin/pix3lify' 'DEST=/data/adb/modules_update/Pix3lify/pix3lify' 'OFILES=/data/adb/modules_update/Pix3lify/system/bin/pix3lify'
++ false
++ '[' -z ]
++ PERM=0644
++ BAK=false
++ false
++ '[' -d /data/adb/modules_update/Pix3lify/pix3lify ]
++ local 'FILE=/data/adb/modules_update/Pix3lify/pix3lify'
++ false
++ install -D -m 0644 /data/adb/modules_update/Pix3lify/system/bin/pix3lify /data/adb/modules_update/Pix3lify/pix3lify
++ ui_print ' If you encounter any bugs or issues, please type pix3lify'
++ true
++ echo ' If you encounter any bugs or issues, please type pix3lify'
++ ui_print ' in a terminal emulator and choose yes to send logs to our server'
++ true
++ echo ' in a terminal emulator and choose yes to send logs to our server'
++ ui_print ' WE DO NOT COLLECT ANY PERSONAL INFORMATION'
++ true
++ echo ' WE DO NOT COLLECT ANY PERSONAL INFORMATION'
++ run_addons -i
++ getopt -o mhiuv -- -i
++ local 'OPT= -i --' NAME PNAME
++ eval set -- ' -i --'
++ set -- -i --
++ true
++ NAME=install
++ PNAME=Install
++ shift
++ true
++ shift
++ break
++ ls -A /dev/tmp/addon/Ramdisk-Patcher/install.sh
++ '[' /dev/tmp/addon/Ramdisk-Patcher/install.sh ]
++ '[' -z Install ]
++ ui_print ' '
++ true
++ echo ' '
++ ui_print '- Running Install Addons -'
++ true
++ echo '- Running Install Addons -'
++ sed -r 's|/dev/tmp/addon/(.*)/install.sh|\1|'
++ echo /dev/tmp/addon/Ramdisk-Patcher/install.sh
++ ui_print '  Running Ramdisk-Patcher...'
++ true
++ echo '  Running Ramdisk-Patcher...'
++ . /dev/tmp/addon/Ramdisk-Patcher/install.sh
++ true
++ ui_print '   Note that to remove any ramdisk changes,'
++ true
++ echo '   Note that to remove any ramdisk changes,'
++ ui_print '   you will need to flash this zip again'
++ true
++ echo '   you will need to flash this zip again'
++ ui_print ' '
++ true
++ echo ' '
++ ui_print '   Removing mod in magisk manager won'"'"'t remove ramdisk changes'
++ true
++ echo '   Removing mod in magisk manager won'"'"'t remove ramdisk changes'
++ sleep 2
++ rm -f /dev/tmp/addon/Ramdisk-Patcher/ramdisk/placeholder
++ sed -i -e '/^#.*/d' -e '/^$/d' /dev/tmp/addon/Ramdisk-Patcher/ramdiskinstall.sh
++ true
++ grep '#Pix3lify-UnityIndicator' /dev/tmp/common/unityfiles/boot/ramdisk/init.rc
++ '['  ]
++ true
++ '[' -s /dev/tmp/common/sepolicy.sh ]
++ ui_print ' '
++ true
++ echo ' '
++ ui_print '   Applying sepolicy patches directly to ramdisk...'
++ true
++ echo '   Applying sepolicy patches directly to ramdisk...'
++ sed -i -e '/^#.*/d' -e '/^$/d' /dev/tmp/common/sepolicy.sh
++ echo -n 'magiskpolicy --load $RD/sepolicy --save $RD/sepolicy'
++ read LINE
++ echo -n ' "create system_server sdcardfs file" "allow system_server sdcardfs file { write }"'
++ read LINE
++ chmod 0755 /dev/tmp/addon/Ramdisk-Patcher/tmp
++ . /dev/tmp/addon/Ramdisk-Patcher/tmp
++ magiskpolicy --load /dev/tmp/common/unityfiles/boot/ramdisk/sepolicy --save /dev/tmp/common/unityfiles/boot/ramdisk/sepolicy 'create system_server sdcardfs file' 'allow system_server sdcardfs file { write }'
+fopen: /dev/tmp/common/unityfiles/boot/ramdisk/sepolicy failed with 2: No such file or directory
++ echo '#Pix3lify-UnityIndicator'
++ . /dev/tmp/addon/Ramdisk-Patcher/ramdiskinstall.sh
++ find /dev/tmp/addon/Ramdisk-Patcher/ramdisk -type f
++ sed 's|/dev/tmp/addon/Ramdisk-Patcher||'
++ '[' '!' -s /dev/tmp/common/unityfiles/boot/ramdisk/Pix3lify-files ]
++ rm -f /dev/tmp/common/unityfiles/boot/ramdisk/Pix3lify-files
++ '[' -d /system/addon.d ]
++ true
++ false
++ mount -o rw,remount /system
+mount: can't find /system in /proc/mounts
++ mkdir /system/addon.d/unitytools
++ cp -rf /dev/tmp/addon/Ramdisk-Patcher/tools/chromeos /dev/tmp/addon/Ramdisk-Patcher/tools/avb /system/addon.d/unitytools
+cp: can't create directory '/system/addon.d/unitytools/chromeos': No such file or directory
+cp: can't create directory '/system/addon.d/unitytools/avb': No such file or directory
++ cp -f /dev/tmp/common/unityfiles/tools/arm/busybox /dev/tmp/common/unityfiles/tools/arm/keycheck /dev/tmp/common/unityfiles/tools/arm/magiskboot /dev/tmp/common/unityfiles/tools/arm/magiskinit /dev/tmp/common/unityfiles/tools/arm/magiskpolicy /dev/tmp/common/unityfiles/tools/arm/sesearch /dev/tmp/common/unityfiles/tools/arm/xmlstarlet /system/addon.d/unitytools/
+cp: can't create '/system/addon.d/unitytools/busybox': Path does not exist
+cp: can't create '/system/addon.d/unitytools/keycheck': Path does not exist
+cp: can't create '/system/addon.d/unitytools/magiskboot': Path does not exist
+cp: can't create '/system/addon.d/unitytools/magiskinit': Path does not exist
+cp: can't create '/system/addon.d/unitytools/magiskpolicy': Path does not exist
+cp: can't create '/system/addon.d/unitytools/sesearch': Path does not exist
+cp: can't create '/system/addon.d/unitytools/xmlstarlet': Path does not exist
++ ls -A /dev/tmp/addon/Ramdisk-Patcher/ramdisk
++ '['  ]
++ '[' -s /dev/tmp/addon/Ramdisk-Patcher/ramdiskinstall.sh ]
++ echo -e '#!/system/bin/sh\nMODID=Pix3lify'
++ '[' -f /dev/tmp/addon/Ramdisk-Patcher/tmp ]
++ sed -i '2r /dev/tmp/addon/Ramdisk-Patcher/tmp' /dev/tmp/addon/Ramdisk-Patcher/ramdiskinstall.sh
++ tail -1 /dev/tmp/addon/Ramdisk-Patcher/ramdiskinstall.sh
++ '[' 'magiskpolicy --load $RD/sepolicy --save $RD/sepolicy "create system_server sdcardfs file" "allow system_server sdcardfs file { write }"' ]
++ echo 
++ cp_ch -n /dev/tmp/addon/Ramdisk-Patcher/ramdiskinstall.sh /system/addon.d/Pix3lify-unityrd 0755
++ getopt -o inr -- -n /dev/tmp/addon/Ramdisk-Patcher/ramdiskinstall.sh /system/addon.d/Pix3lify-unityrd 0755
++ local 'OPT= -n -- '"'"'/dev/tmp/addon/Ramdisk-Patcher/ramdiskinstall.sh'"'"' '"'"'/system/addon.d/Pix3lify-unityrd'"'"' '"'"'0755'"'" 'BAK=true' 'UBAK=true' 'REST=true' 'BAKFILE=/data/adb/modules_update/Pix3lify/Pix3lify-files' 'FOL=false'
++ eval set -- ' -n -- '"'"'/dev/tmp/addon/Ramdisk-Patcher/ramdiskinstall.sh'"'"' '"'"'/system/addon.d/Pix3lify-unityrd'"'"' '"'"'0755'"'"
++ set -- -n -- /dev/tmp/addon/Ramdisk-Patcher/ramdiskinstall.sh /system/addon.d/Pix3lify-unityrd 0755
++ true
++ UBAK=false
++ shift
++ true
++ shift
++ break
++ local 'SRC=/dev/tmp/addon/Ramdisk-Patcher/ramdiskinstall.sh' 'DEST=/system/addon.d/Pix3lify-unityrd' 'OFILES=/dev/tmp/addon/Ramdisk-Patcher/ramdiskinstall.sh'
++ false
++ '[' -z 0755 ]
++ PERM=0755
++ false
++ '[' -d /system/addon.d/Pix3lify-unityrd ]
++ local 'FILE=/system/addon.d/Pix3lify-unityrd'
++ true
++ false
++ false
++ true
++ grep '/system/addon.d/Pix3lify-unityrd$' /data/adb/modules_update/Pix3lify/Pix3lify-files
++ '[' '!'  ]
++ echo /system/addon.d/Pix3lify-unityrd
++ install -D -m 0755 /dev/tmp/addon/Ramdisk-Patcher/ramdiskinstall.sh /system/addon.d/Pix3lify-unityrd
+install: can't create '/system/addon.d/Pix3lify-unityrd': Read-only file system
++ chcon u:object_r:system_file:s0 /system/addon.d/Pix3lify-unityrd
+chcon: /system/addon.d/Pix3lify-unityrd: No such file or directory
++ cp_ch -i /dev/tmp/addon/Ramdisk-Patcher/addon.sh /system/addon.d/99-unityrd.sh 0755
++ getopt -o inr -- -i /dev/tmp/addon/Ramdisk-Patcher/addon.sh /system/addon.d/99-unityrd.sh 0755
++ local 'OPT= -i -- '"'"'/dev/tmp/addon/Ramdisk-Patcher/addon.sh'"'"' '"'"'/system/addon.d/99-unityrd.sh'"'"' '"'"'0755'"'" 'BAK=true' 'UBAK=true' 'REST=true' 'BAKFILE=/data/adb/modules_update/Pix3lify/Pix3lify-files' 'FOL=false'
++ eval set -- ' -i -- '"'"'/dev/tmp/addon/Ramdisk-Patcher/addon.sh'"'"' '"'"'/system/addon.d/99-unityrd.sh'"'"' '"'"'0755'"'"
++ set -- -i -- /dev/tmp/addon/Ramdisk-Patcher/addon.sh /system/addon.d/99-unityrd.sh 0755
++ true
++ UBAK=false
++ REST=false
++ shift
++ true
++ shift
++ break
++ local 'SRC=/dev/tmp/addon/Ramdisk-Patcher/addon.sh' 'DEST=/system/addon.d/99-unityrd.sh' 'OFILES=/dev/tmp/addon/Ramdisk-Patcher/addon.sh'
++ false
++ '[' -z 0755 ]
++ PERM=0755
++ false
++ '[' -d /system/addon.d/99-unityrd.sh ]
++ local 'FILE=/system/addon.d/99-unityrd.sh'
++ true
++ false
++ false
++ false
++ false
++ false
++ grep '/system/addon.d/99-unityrd.sh\NORESTORE$' /data/adb/modules_update/Pix3lify/Pix3lify-files
++ '[' '!'  ]
++ echo '/system/addon.d/99-unityrd.sh\NORESTORE'
++ install -D -m 0755 /dev/tmp/addon/Ramdisk-Patcher/addon.sh /system/addon.d/99-unityrd.sh
+install: can't create '/system/addon.d/99-unityrd.sh': Read-only file system
++ chcon u:object_r:system_file:s0 /system/addon.d/99-unityrd.sh
+chcon: /system/addon.d/99-unityrd.sh: No such file or directory
++ cp_ch -i /dev/tmp/addon/Ramdisk-Patcher/functions.sh /system/addon.d/unitytools/functions 0755
++ getopt -o inr -- -i /dev/tmp/addon/Ramdisk-Patcher/functions.sh /system/addon.d/unitytools/functions 0755
++ local 'OPT= -i -- '"'"'/dev/tmp/addon/Ramdisk-Patcher/functions.sh'"'"' '"'"'/system/addon.d/unitytools/functions'"'"' '"'"'0755'"'" 'BAK=true' 'UBAK=true' 'REST=true' 'BAKFILE=/data/adb/modules_update/Pix3lify/Pix3lify-files' 'FOL=false'
++ eval set -- ' -i -- '"'"'/dev/tmp/addon/Ramdisk-Patcher/functions.sh'"'"' '"'"'/system/addon.d/unitytools/functions'"'"' '"'"'0755'"'"
++ set -- -i -- /dev/tmp/addon/Ramdisk-Patcher/functions.sh /system/addon.d/unitytools/functions 0755
++ true
++ UBAK=false
++ REST=false
++ shift
++ true
++ shift
++ break
++ local 'SRC=/dev/tmp/addon/Ramdisk-Patcher/functions.sh' 'DEST=/system/addon.d/unitytools/functions' 'OFILES=/dev/tmp/addon/Ramdisk-Patcher/functions.sh'
++ false
++ '[' -z 0755 ]
++ PERM=0755
++ false
++ '[' -d /system/addon.d/unitytools/functions ]
++ local 'FILE=/system/addon.d/unitytools/functions'
++ true
++ false
++ false
++ false
++ false
++ false
++ grep '/system/addon.d/unitytools/functions\NORESTORE$' /data/adb/modules_update/Pix3lify/Pix3lify-files
++ '[' '!'  ]
++ echo '/system/addon.d/unitytools/functions\NORESTORE'
++ install -D -m 0755 /dev/tmp/addon/Ramdisk-Patcher/functions.sh /system/addon.d/unitytools/functions
+install: can't create directory '/system/addon.d/unitytools': Read-only file system
+install: can't create '/system/addon.d/unitytools/functions': Path does not exist
++ chcon u:object_r:system_file:s0 /system/addon.d/unitytools/functions
+chcon: /system/addon.d/unitytools/functions: No such file or directory
++ true
++ false
++ mount -o ro,remount /system
+mount: can't find /system in /proc/mounts
++ '[' -z Install ]
++ ui_print ' '
++ true
++ echo ' '
++ echo Install
++ ui_print '- Installing (cont) -'
++ true
++ echo '- Installing (cont) -'
++ true
++ false
++ imageless_magisk
+/data/user/0/com.topjohnwu.magisk/cache/flash/update-binary: line 539: imageless_magisk: not found
++ request_size_check /dev/tmp/system
++ + ducut -ms -f1 /dev/tmp/system
+
++ reqSizeM=2
++ check_filesystem /data/adb/modules_update
+/data/user/0/com.topjohnwu.magisk/cache/flash/update-binary: line 541: check_filesystem: not found
++ '[' 2 -gt ]
+sh: -gt: argument expected
++ '[' -f /dev/tmp/common/sepolicy.sh ]
++ sed -i -e '/^#/d' -e '/^ *$/d' /dev/tmp/common/sepolicy.sh
++ '[' -f /dev/tmp/common/system.prop ]
++ sed -i -e '/^#/d' -e '/^ *$/d' /dev/tmp/common/system.prop
++ '[' -f /dev/tmp/common/service.sh ]
++ sed -i -e '/^#/d' -e '/^ *$/d' /dev/tmp/common/service.sh
++ '[' -f /dev/tmp/common/post-fs-data.sh ]
++ sed -i -e '/^#/d' -e '/^ *$/d' /dev/tmp/common/post-fs-data.sh
++ true
++ '[' '!' -d /dev/tmp/addon/Ramdisk-Patcher ]
++ true
++ ui_print '   Installing scripts and files for arm64 SDK 29 device...'
++ true
++ echo '   Installing scripts and files for arm64 SDK 29 device...'
++ true
++ '[' -f /dev/tmp/uninstall.sh ]
++ install_script /dev/tmp/uninstall.sh /data/adb/modules_update/Pix3lify/uninstall.sh
++ local true
++ dirname /data/adb/modules_update/Pix3lify/uninstall.sh
++ local 'INPATH=/data/adb/modules_update/Pix3lify'
++ local 'EXT='
++ patch_script /dev/tmp/uninstall.sh
++ '[' -L /system/vendor ]
++ local 'VEN=/vendor'
++ sed -i -e '1i #!/system/bin/sh' -e '1i SYS=/system' -e '1i VEN=/vendor' /dev/tmp/uninstall.sh
++ eval echo '$ROOT'
++ echo
++ sed -i '4i ROOT=' /dev/tmp/uninstall.sh
++ eval echo '$MAGISK'
++ echo true
++ sed -i '4i MAGISK=true' /dev/tmp/uninstall.sh
++ eval echo '$LIBDIR'
++ echo /system
++ sed -i '4i LIBDIR=/system' /dev/tmp/uninstall.sh
++ eval echo '$SYSOVER'
++ echo false
++ sed -i '4i SYSOVER=false' /dev/tmp/uninstall.sh
++ eval echo '$DIRSEPOL'
++ echo true
++ sed -i '4i DIRSEPOL=true' /dev/tmp/uninstall.sh
++ eval echo '$MODID'
++ echo Pix3lify
++ sed -i '4i MODID=Pix3lify' /dev/tmp/uninstall.sh
++ eval echo '$MOUNTEDROOT'
++ echo /sbin/.magisk/img
++ sed -i '4i MOUNTEDROOT=/sbin/.magisk/img' /dev/tmp/uninstall.sh
++ eval echo '$NVBASE'
++ echo /data/adb
++ sed -i '4i NVBASE=/data/adb' /dev/tmp/uninstall.sh
++ true
++ sed -i -e 's|$MODPATH|/sbin/.magisk/img/Pix3lify|g' -e 's|$MOUNTPATH|/sbin/.magisk/img|g' -e 's|$MODULEROOT|/sbin/.magisk/img|g' -e '12i INFO=/sbin/.magisk/img/Pix3lify/Pix3lify-files' /dev/tmp/uninstall.sh
++ true
++ basename /dev/tmp/uninstall.sh
++ basename /dev/tmp/uninstall.sh
++ cp_ch -n /dev/tmp/uninstall.sh /data/adb/modules_update/Pix3lify/uninstall.sh 0755
++ getopt -o inr -- -n /dev/tmp/uninstall.sh /data/adb/modules_update/Pix3lify/uninstall.sh 0755
++ local 'OPT= -n -- '"'"'/dev/tmp/uninstall.sh'"'"' '"'"'/data/adb/modules_update/Pix3lify/uninstall.sh'"'"' '"'"'0755'"'" 'BAK=true' 'UBAK=true' 'REST=true' 'BAKFILE=/data/adb/modules_update/Pix3lify/Pix3lify-files' 'FOL=false'
++ eval set -- ' -n -- '"'"'/dev/tmp/uninstall.sh'"'"' '"'"'/data/adb/modules_update/Pix3lify/uninstall.sh'"'"' '"'"'0755'"'"
++ set -- -n -- /dev/tmp/uninstall.sh /data/adb/modules_update/Pix3lify/uninstall.sh 0755
++ true
++ UBAK=false
++ shift
++ true
++ shift
++ break
++ local 'SRC=/dev/tmp/uninstall.sh' 'DEST=/data/adb/modules_update/Pix3lify/uninstall.sh' 'OFILES=/dev/tmp/uninstall.sh'
++ false
++ '[' -z 0755 ]
++ PERM=0755
++ BAK=false
++ false
++ '[' -d /data/adb/modules_update/Pix3lify/uninstall.sh ]
++ local 'FILE=/data/adb/modules_update/Pix3lify/uninstall.sh'
++ false
++ install -D -m 0755 /dev/tmp/uninstall.sh /data/adb/modules_update/Pix3lify/uninstall.sh
++ '[' -s /dev/tmp/common/system.prop ]
++ prop_process /dev/tmp/common/system.prop
++ sed -i -e '/^#/d' -e '/^ *$/d' /dev/tmp/common/system.prop
++ true
++ '[' -f /data/adb/modules_update/Pix3lify/system.prop ]
++ mktouch /data/adb/modules_update/Pix3lify/system.prop
++ mkdir -p /data/adb/modules_update/Pix3lify
++ '[' -z ]
++ touch /data/adb/modules_update/Pix3lify/system.prop
++ chmod 644 /data/adb/modules_update/Pix3lify/system.prop
++ read LINE
++ echo 'persist.camera.HAL3.enabled=1'
++ read LINE
++ echo 'persist.camera.eis.enable=1'
++ read LINE
++ echo 'persist.audio.vr.enable=true'
++ read LINE
++ echo 'ro.opa.eligible_device=true'
++ read LINE
++ echo 'ro.wallpapers_loc_request_suw=true'
++ read LINE
++ echo 'ro.com.google.ime.theme_id=5'
++ read LINE
++ true
++ true
++ '[' -s /dev/tmp/common/post-fs-data.sh ]
++ install_script -p /dev/tmp/common/post-fs-data.sh
++ shift
++ true
++ local 'INPATH=/data/adb/post-fs-data.d'
++ local 'EXT='
++ patch_script /dev/tmp/common/post-fs-data.sh
++ '[' -L /system/vendor ]
++ local 'VEN=/vendor'
++ sed -i -e '1i #!/system/bin/sh' -e '1i SYS=/system' -e '1i VEN=/vendor' /dev/tmp/common/post-fs-data.sh
++ eval echo '$ROOT'
++ echo
++ sed -i '4i ROOT=' /dev/tmp/common/post-fs-data.sh
++ eval echo '$MAGISK'
++ echo true
++ sed -i '4i MAGISK=true' /dev/tmp/common/post-fs-data.sh
++ eval echo '$LIBDIR'
++ echo /system
++ sed -i '4i LIBDIR=/system' /dev/tmp/common/post-fs-data.sh
++ eval echo '$SYSOVER'
++ echo false
++ sed -i '4i SYSOVER=false' /dev/tmp/common/post-fs-data.sh
++ eval echo '$DIRSEPOL'
++ echo true
++ sed -i '4i DIRSEPOL=true' /dev/tmp/common/post-fs-data.sh
++ eval echo '$MODID'
++ echo Pix3lify
++ sed -i '4i MODID=Pix3lify' /dev/tmp/common/post-fs-data.sh
++ eval echo '$MOUNTEDROOT'
++ echo /sbin/.magisk/img
++ sed -i '4i MOUNTEDROOT=/sbin/.magisk/img' /dev/tmp/common/post-fs-data.sh
++ eval echo '$NVBASE'
++ echo /data/adb
++ sed -i '4i NVBASE=/data/adb' /dev/tmp/common/post-fs-data.sh
++ true
++ sed -i -e 's|$MODPATH|/sbin/.magisk/img/Pix3lify|g' -e 's|$MOUNTPATH|/sbin/.magisk/img|g' -e 's|$MODULEROOT|/sbin/.magisk/img|g' -e '12i INFO=/sbin/.magisk/img/Pix3lify/Pix3lify-files' /dev/tmp/common/post-fs-data.sh
++ true
++ basename /dev/tmp/common/post-fs-data.sh
++ basename /dev/tmp/common/post-fs-data.sh
++ cp_ch -n /dev/tmp/common/post-fs-data.sh /data/adb/modules_update/Pix3lify/post-fs-data.sh
++ getopt -o inr -- -n /dev/tmp/common/post-fs-data.sh /data/adb/modules_update/Pix3lify/post-fs-data.sh
++ local 'OPT= -n -- '"'"'/dev/tmp/common/post-fs-data.sh'"'"' '"'"'/data/adb/modules_update/Pix3lify/post-fs-data.sh'"'" 'BAK=true' 'UBAK=true' 'REST=true' 'BAKFILE=/data/adb/modules_update/Pix3lify/Pix3lify-files' 'FOL=false'
++ eval set -- ' -n -- '"'"'/dev/tmp/common/post-fs-data.sh'"'"' '"'"'/data/adb/modules_update/Pix3lify/post-fs-data.sh'"'"
++ set -- -n -- /dev/tmp/common/post-fs-data.sh /data/adb/modules_update/Pix3lify/post-fs-data.sh
++ true
++ UBAK=false
++ shift
++ true
++ shift
++ break
++ local 'SRC=/dev/tmp/common/post-fs-data.sh' 'DEST=/data/adb/modules_update/Pix3lify/post-fs-data.sh' 'OFILES=/dev/tmp/common/post-fs-data.sh'
++ false
++ '[' -z ]
++ PERM=0644
++ BAK=false
++ false
++ '[' -d /data/adb/modules_update/Pix3lify/post-fs-data.sh ]
++ local 'FILE=/data/adb/modules_update/Pix3lify/post-fs-data.sh'
++ false
++ install -D -m 0644 /dev/tmp/common/post-fs-data.sh /data/adb/modules_update/Pix3lify/post-fs-data.sh
++ '[' -s /dev/tmp/common/service.sh ]
++ install_script -l /dev/tmp/common/service.sh
++ shift
++ true
++ local 'INPATH=/data/adb/service.d'
++ local 'EXT=-ls'
++ patch_script /dev/tmp/common/service.sh
++ '[' -L /system/vendor ]
++ local 'VEN=/vendor'
++ sed -i -e '1i #!/system/bin/sh' -e '1i SYS=/system' -e '1i VEN=/vendor' /dev/tmp/common/service.sh
++ eval echo '$ROOT'
++ echo
++ sed -i '4i ROOT=' /dev/tmp/common/service.sh
++ eval echo '$MAGISK'
++ echo true
++ sed -i '4i MAGISK=true' /dev/tmp/common/service.sh
++ eval echo '$LIBDIR'
++ echo /system
++ sed -i '4i LIBDIR=/system' /dev/tmp/common/service.sh
++ eval echo '$SYSOVER'
++ echo false
++ sed -i '4i SYSOVER=false' /dev/tmp/common/service.sh
++ eval echo '$DIRSEPOL'
++ echo true
++ sed -i '4i DIRSEPOL=true' /dev/tmp/common/service.sh
++ eval echo '$MODID'
++ echo Pix3lify
++ sed -i '4i MODID=Pix3lify' /dev/tmp/common/service.sh
++ eval echo '$MOUNTEDROOT'
++ echo /sbin/.magisk/img
++ sed -i '4i MOUNTEDROOT=/sbin/.magisk/img' /dev/tmp/common/service.sh
++ eval echo '$NVBASE'
++ echo /data/adb
++ sed -i '4i NVBASE=/data/adb' /dev/tmp/common/service.sh
++ true
++ sed -i -e 's|$MODPATH|/sbin/.magisk/img/Pix3lify|g' -e 's|$MOUNTPATH|/sbin/.magisk/img|g' -e 's|$MODULEROOT|/sbin/.magisk/img|g' -e '12i INFO=/sbin/.magisk/img/Pix3lify/Pix3lify-files' /dev/tmp/common/service.sh
++ true
++ basename /dev/tmp/common/service.sh
++ basename /dev/tmp/common/service.sh
++ cp_ch -n /dev/tmp/common/service.sh /data/adb/modules_update/Pix3lify/service.sh
++ getopt -o inr -- -n /dev/tmp/common/service.sh /data/adb/modules_update/Pix3lify/service.sh
++ local 'OPT= -n -- '"'"'/dev/tmp/common/service.sh'"'"' '"'"'/data/adb/modules_update/Pix3lify/service.sh'"'" 'BAK=true' 'UBAK=true' 'REST=true' 'BAKFILE=/data/adb/modules_update/Pix3lify/Pix3lify-files' 'FOL=false'
++ eval set -- ' -n -- '"'"'/dev/tmp/common/service.sh'"'"' '"'"'/data/adb/modules_update/Pix3lify/service.sh'"'"
++ set -- -n -- /dev/tmp/common/service.sh /data/adb/modules_update/Pix3lify/service.sh
++ true
++ UBAK=false
++ shift
++ true
++ shift
++ break
++ local 'SRC=/dev/tmp/common/service.sh' 'DEST=/data/adb/modules_update/Pix3lify/service.sh' 'OFILES=/dev/tmp/common/service.sh'
++ false
++ '[' -z ]
++ PERM=0644
++ BAK=false
++ false
++ '[' -d /data/adb/modules_update/Pix3lify/service.sh ]
++ local 'FILE=/data/adb/modules_update/Pix3lify/service.sh'
++ false
++ install -D -m 0644 /dev/tmp/common/service.sh /data/adb/modules_update/Pix3lify/service.sh
++ true
++ '[' -d /system/priv-app ]
++ '[' -d /system/xbin ]
++ false
++ rm -f /dev/tmp/system/placeholder
++ cp_ch -r /dev/tmp/system /data/adb/modules_update/Pix3lify/system
++ getopt -o inr -- -r /dev/tmp/system /data/adb/modules_update/Pix3lify/system
++ local 'OPT= -r -- '"'"'/dev/tmp/system'"'"' '"'"'/data/adb/modules_update/Pix3lify/system'"'" 'BAK=true' 'UBAK=true' 'REST=true' 'BAKFILE=/data/adb/modules_update/Pix3lify/Pix3lify-files' 'FOL=false'
++ eval set -- ' -r -- '"'"'/dev/tmp/system'"'"' '"'"'/data/adb/modules_update/Pix3lify/system'"'"
++ set -- -r -- /dev/tmp/system /data/adb/modules_update/Pix3lify/system
++ true
++ FOL=true
++ shift
++ true
++ shift
++ break
++ local 'SRC=/dev/tmp/system' 'DEST=/data/adb/modules_update/Pix3lify/system' 'OFILES=/dev/tmp/system'
++ true
++ find /dev/tmp/system -type f
++ OFILES='/dev/tmp/system/bin/xmlstarlet
+/dev/tmp/system/vendor/overlay/Pix3lify.apk
+/dev/tmp/system/vendor/etc/permissions/handheld_core_hardware.xml
+/dev/tmp/system/vendor/etc/permissions/android.hardware.vr.high_performance.xml
+/dev/tmp/system/vendor/etc/permissions/android.hardware.vr.headtracking.xml
+/dev/tmp/system/vendor/etc/permissions/android.hardware.nfc.xml
+/dev/tmp/system/vendor/etc/permissions/android.hardware.nfc.hcef.xml
+/dev/tmp/system/vendor/etc/permissions/android.hardware.nfc.hce.xml
+/dev/tmp/system/vendor/etc/permissions/android.hardware.camera.raw.xml
+/dev/tmp/system/vendor/etc/permissions/android.hardware.camera.full.xml
+/dev/tmp/system/vendor/etc/permissions/android.hardware.camera.front.xml
+/dev/tmp/system/vendor/etc/permissions/android.hardware.camera.flash-autofocus.xml
+/dev/tmp/system/vendor/etc/default-permissions/default-permissions.xml
+/dev/tmp/system/etc/fonts.xml
+/dev/tmp/system/etc/sysconfig/pix3lify-features.xml
+/dev/tmp/system/etc/permissions/pix3lify-permissions.xml
+/dev/tmp/system/etc/fonts_customization.xml'
++ '[' -z ]
++ PERM=0644
++ BAK=false
++ true
++ basename /dev/tmp/system
++ basename /data/adb/modules_update/Pix3lify/system
++ '[' system '==' system ]
++ sed 's|/dev/tmp/system|/data/adb/modules_update/Pix3lify/system|'
++ echo /dev/tmp/system/bin/xmlstarlet
++ local 'FILE=/data/adb/modules_update/Pix3lify/system/bin/xmlstarlet'
++ false
++ install -D -m 0644 /dev/tmp/system/bin/xmlstarlet /data/adb/modules_update/Pix3lify/system/bin/xmlstarlet
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/bin/xmlstarlet
++ true
++ basename /dev/tmp/system
++ basename /data/adb/modules_update/Pix3lify/system
++ '[' system '==' system ]
++ echo /dev/tmp/system/vendor/overlay/Pix3lify.apk
++ sed 's|/dev/tmp/system|/data/adb/modules_update/Pix3lify/system|'
++ local 'FILE=/data/adb/modules_update/Pix3lify/system/vendor/overlay/Pix3lify.apk'
++ false
++ install -D -m 0644 /dev/tmp/system/vendor/overlay/Pix3lify.apk /data/adb/modules_update/Pix3lify/system/vendor/overlay/Pix3lify.apk
++ chcon u:object_r:vendor_app_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/overlay/Pix3lify.apk
++ true
++ basename /dev/tmp/system
++ basename /data/adb/modules_update/Pix3lify/system
++ '[' system '==' system ]
++ sed 's|/dev/tmp/system|/data/adb/modules_update/Pix3lify/system|'
++ echo /dev/tmp/system/vendor/etc/permissions/handheld_core_hardware.xml
++ local 'FILE=/data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/handheld_core_hardware.xml'
++ false
++ install -D -m 0644 /dev/tmp/system/vendor/etc/permissions/handheld_core_hardware.xml /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/handheld_core_hardware.xml
++ chcon u:object_r:vendor_configs_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/handheld_core_hardware.xml
++ true
++ basename /dev/tmp/system
++ basename /data/adb/modules_update/Pix3lify/system
++ '[' system '==' system ]
++ sed 's|/dev/tmp/system|/data/adb/modules_update/Pix3lify/system|'
++ echo /dev/tmp/system/vendor/etc/permissions/android.hardware.vr.high_performance.xml
++ local 'FILE=/data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.vr.high_performance.xml'
++ false
++ install -D -m 0644 /dev/tmp/system/vendor/etc/permissions/android.hardware.vr.high_performance.xml /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.vr.high_performance.xml
++ chcon u:object_r:vendor_configs_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.vr.high_performance.xml
++ true
++ basename /dev/tmp/system
++ basename /data/adb/modules_update/Pix3lify/system
++ '[' system '==' system ]
++ sed 's|/dev/tmp/system|/data/adb/modules_update/Pix3lify/system|'
++ echo /dev/tmp/system/vendor/etc/permissions/android.hardware.vr.headtracking.xml
++ local 'FILE=/data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.vr.headtracking.xml'
++ false
++ install -D -m 0644 /dev/tmp/system/vendor/etc/permissions/android.hardware.vr.headtracking.xml /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.vr.headtracking.xml
++ chcon u:object_r:vendor_configs_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.vr.headtracking.xml
++ true
++ basename /dev/tmp/system
++ basename /data/adb/modules_update/Pix3lify/system
++ '[' system '==' system ]
++ echo /dev/tmp/system/vendor/etc/permissions/android.hardware.nfc.xml
++ sed 's|/dev/tmp/system|/data/adb/modules_update/Pix3lify/system|'
++ local 'FILE=/data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.nfc.xml'
++ false
++ install -D -m 0644 /dev/tmp/system/vendor/etc/permissions/android.hardware.nfc.xml /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.nfc.xml
++ chcon u:object_r:vendor_configs_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.nfc.xml
++ true
++ basename /dev/tmp/system
++ basename /data/adb/modules_update/Pix3lify/system
++ '[' system '==' system ]
++ echo /dev/tmp/system/vendor/etc/permissions/android.hardware.nfc.hcef.xml
++ sed 's|/dev/tmp/system|/data/adb/modules_update/Pix3lify/system|'
++ local 'FILE=/data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.nfc.hcef.xml'
++ false
++ install -D -m 0644 /dev/tmp/system/vendor/etc/permissions/android.hardware.nfc.hcef.xml /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.nfc.hcef.xml
++ chcon u:object_r:vendor_configs_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.nfc.hcef.xml
++ true
++ basename /dev/tmp/system
++ basename /data/adb/modules_update/Pix3lify/system
++ '[' system '==' system ]
++ + sedecho 's|/dev/tmp/system|/data/adb/modules_update/Pix3lify/system|' /dev/tmp/system/vendor/etc/permissions/android.hardware.nfc.hce.xml
+
++ local 'FILE=/data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.nfc.hce.xml'
++ false
++ install -D -m 0644 /dev/tmp/system/vendor/etc/permissions/android.hardware.nfc.hce.xml /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.nfc.hce.xml
++ chcon u:object_r:vendor_configs_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.nfc.hce.xml
++ true
++ basename /dev/tmp/system
++ basename /data/adb/modules_update/Pix3lify/system
++ '[' system '==' system ]
++ sed 's|/dev/tmp/system|/data/adb/modules_update/Pix3lify/system|'
++ echo /dev/tmp/system/vendor/etc/permissions/android.hardware.camera.raw.xml
++ local 'FILE=/data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.raw.xml'
++ false
++ install -D -m 0644 /dev/tmp/system/vendor/etc/permissions/android.hardware.camera.raw.xml /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.raw.xml
++ chcon u:object_r:vendor_configs_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.raw.xml
++ true
++ basename /dev/tmp/system
++ basename /data/adb/modules_update/Pix3lify/system
++ '[' system '==' system ]
++ sed 's|/dev/tmp/system|/data/adb/modules_update/Pix3lify/system|'
++ echo /dev/tmp/system/vendor/etc/permissions/android.hardware.camera.full.xml
++ local 'FILE=/data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.full.xml'
++ false
++ install -D -m 0644 /dev/tmp/system/vendor/etc/permissions/android.hardware.camera.full.xml /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.full.xml
++ chcon u:object_r:vendor_configs_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.full.xml
++ true
++ basename /dev/tmp/system
++ basename /data/adb/modules_update/Pix3lify/system
++ '[' system '==' system ]
++ sed 's|/dev/tmp/system|/data/adb/modules_update/Pix3lify/system|'
++ echo /dev/tmp/system/vendor/etc/permissions/android.hardware.camera.front.xml
++ local 'FILE=/data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.front.xml'
++ false
++ install -D -m 0644 /dev/tmp/system/vendor/etc/permissions/android.hardware.camera.front.xml /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.front.xml
++ chcon u:object_r:vendor_configs_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.front.xml
++ true
++ basename /dev/tmp/system
++ basename /data/adb/modules_update/Pix3lify/system
++ '[' system '==' system ]
++ sed 's|/dev/tmp/system|/data/adb/modules_update/Pix3lify/system|'
++ echo /dev/tmp/system/vendor/etc/permissions/android.hardware.camera.flash-autofocus.xml
++ local 'FILE=/data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.flash-autofocus.xml'
++ false
++ install -D -m 0644 /dev/tmp/system/vendor/etc/permissions/android.hardware.camera.flash-autofocus.xml /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.flash-autofocus.xml
++ chcon u:object_r:vendor_configs_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.flash-autofocus.xml
++ true
++ basename /dev/tmp/system
++ basename /data/adb/modules_update/Pix3lify/system
++ '[' system '==' system ]
++ sed 's|/dev/tmp/system|/data/adb/modules_update/Pix3lify/system|'
++ echo /dev/tmp/system/vendor/etc/default-permissions/default-permissions.xml
++ local 'FILE=/data/adb/modules_update/Pix3lify/system/vendor/etc/default-permissions/default-permissions.xml'
++ false
++ install -D -m 0644 /dev/tmp/system/vendor/etc/default-permissions/default-permissions.xml /data/adb/modules_update/Pix3lify/system/vendor/etc/default-permissions/default-permissions.xml
++ chcon u:object_r:vendor_configs_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/default-permissions/default-permissions.xml
++ true
++ basename /dev/tmp/system
++ basename /data/adb/modules_update/Pix3lify/system
++ '[' system '==' system ]
++ echo /dev/tmp/system/etc/fonts.xml
++ sed 's|/dev/tmp/system|/data/adb/modules_update/Pix3lify/system|'
++ local 'FILE=/data/adb/modules_update/Pix3lify/system/etc/fonts.xml'
++ false
++ install -D -m 0644 /dev/tmp/system/etc/fonts.xml /data/adb/modules_update/Pix3lify/system/etc/fonts.xml
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/etc/fonts.xml
++ true
++ basename /dev/tmp/system
++ basename /data/adb/modules_update/Pix3lify/system
++ '[' system '==' system ]
++ sed 's|/dev/tmp/system|/data/adb/modules_update/Pix3lify/system|'
++ echo /dev/tmp/system/etc/sysconfig/pix3lify-features.xml
++ local 'FILE=/data/adb/modules_update/Pix3lify/system/etc/sysconfig/pix3lify-features.xml'
++ false
++ install -D -m 0644 /dev/tmp/system/etc/sysconfig/pix3lify-features.xml /data/adb/modules_update/Pix3lify/system/etc/sysconfig/pix3lify-features.xml
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/etc/sysconfig/pix3lify-features.xml
++ true
++ basename /dev/tmp/system
++ basename /data/adb/modules_update/Pix3lify/system
++ '[' system '==' system ]
++ sed 's|/dev/tmp/system|/data/adb/modules_update/Pix3lify/system|'
++ echo /dev/tmp/system/etc/permissions/pix3lify-permissions.xml
++ local 'FILE=/data/adb/modules_update/Pix3lify/system/etc/permissions/pix3lify-permissions.xml'
++ false
++ install -D -m 0644 /dev/tmp/system/etc/permissions/pix3lify-permissions.xml /data/adb/modules_update/Pix3lify/system/etc/permissions/pix3lify-permissions.xml
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/etc/permissions/pix3lify-permissions.xml
++ true
++ basename /dev/tmp/system
++ basename /data/adb/modules_update/Pix3lify/system
++ '[' system '==' system ]
++ sed 's|/dev/tmp/system|/data/adb/modules_update/Pix3lify/system|'
++ echo /dev/tmp/system/etc/fonts_customization.xml
++ local 'FILE=/data/adb/modules_update/Pix3lify/system/etc/fonts_customization.xml'
++ false
++ install -D -m 0644 /dev/tmp/system/etc/fonts_customization.xml /data/adb/modules_update/Pix3lify/system/etc/fonts_customization.xml
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/etc/fonts_customization.xml
++ '[' /data/adb/modules_update/Pix3lify/Pix3lify-files '==' /system/addon.d/Pix3lify-files ]
++ cp_ch -n /dev/tmp/module.prop /sbin/.magisk/img/Pix3lify/module.prop
++ getopt -o inr -- -n /dev/tmp/module.prop /sbin/.magisk/img/Pix3lify/module.prop
++ local 'OPT= -n -- '"'"'/dev/tmp/module.prop'"'"' '"'"'/sbin/.magisk/img/Pix3lify/module.prop'"'" 'BAK=true' 'UBAK=true' 'REST=true' 'BAKFILE=/data/adb/modules_update/Pix3lify/Pix3lify-files' 'FOL=false'
++ eval set -- ' -n -- '"'"'/dev/tmp/module.prop'"'"' '"'"'/sbin/.magisk/img/Pix3lify/module.prop'"'"
++ set -- -n -- /dev/tmp/module.prop /sbin/.magisk/img/Pix3lify/module.prop
++ true
++ UBAK=false
++ shift
++ true
++ shift
++ break
++ local 'SRC=/dev/tmp/module.prop' 'DEST=/sbin/.magisk/img/Pix3lify/module.prop' 'OFILES=/dev/tmp/module.prop'
++ false
++ '[' -z ]
++ PERM=0644
++ BAK=false
++ false
++ '[' -d /sbin/.magisk/img/Pix3lify/module.prop ]
++ local 'FILE=/sbin/.magisk/img/Pix3lify/module.prop'
++ false
++ install -D -m 0644 /dev/tmp/module.prop /sbin/.magisk/img/Pix3lify/module.prop
++ true
++ '[' -d /data/adb/modules_update/Pix3lify/system ]
++ false
++ imageless_magisk
+/data/user/0/com.topjohnwu.magisk/cache/flash/update-binary: line 616: imageless_magisk: not found
++ false
++ touch /data/adb/modules_update/Pix3lify/auto_mount
++ cp -af /dev/tmp/module.prop /data/adb/modules_update/Pix3lify/module.prop
++ true
++ rm -f /sbin/.magisk/img/Pix3lify/remove
++ mktouch /sbin/.magisk/img/Pix3lify/update
++ mkdir -p /sbin/.magisk/img/Pix3lify
++ '[' -z ]
++ touch /sbin/.magisk/img/Pix3lify/update
++ chmod 644 /sbin/.magisk/img/Pix3lify/update
++ cp_ch -n /dev/tmp/module.prop /sbin/.magisk/img/Pix3lify/module.prop
++ getopt -o inr -- -n /dev/tmp/module.prop /sbin/.magisk/img/Pix3lify/module.prop
++ local 'OPT= -n -- '"'"'/dev/tmp/module.prop'"'"' '"'"'/sbin/.magisk/img/Pix3lify/module.prop'"'" 'BAK=true' 'UBAK=true' 'REST=true' 'BAKFILE=/data/adb/modules_update/Pix3lify/Pix3lify-files' 'FOL=false'
++ eval set -- ' -n -- '"'"'/dev/tmp/module.prop'"'"' '"'"'/sbin/.magisk/img/Pix3lify/module.prop'"'"
++ set -- -n -- /dev/tmp/module.prop /sbin/.magisk/img/Pix3lify/module.prop
++ true
++ UBAK=false
++ shift
++ true
++ shift
++ break
++ local 'SRC=/dev/tmp/module.prop' 'DEST=/sbin/.magisk/img/Pix3lify/module.prop' 'OFILES=/dev/tmp/module.prop'
++ false
++ '[' -z ]
++ PERM=0644
++ BAK=false
++ false
++ '[' -d /sbin/.magisk/img/Pix3lify/module.prop ]
++ local 'FILE=/sbin/.magisk/img/Pix3lify/module.prop'
++ false
++ install -D -m 0644 /dev/tmp/module.prop /sbin/.magisk/img/Pix3lify/module.prop
++ '[' -f /data/adb/modules_update/Pix3lify/post-fs-data.sh ]
++ tail -1 /data/adb/modules_update/Pix3lify/post-fs-data.sh
++ '[' ')&' ]
++ echo 
++ '[' -f /data/adb/modules_update/Pix3lify/service.sh ]
++ tail -1 /data/adb/modules_update/Pix3lify/service.sh
++ '[' 'am force-stop "com.google.android.dialer"' ]
++ echo 
++ '[' -f /data/adb/modules_update/Pix3lify/uninstall.sh ]
++ tail -1 /data/adb/modules_update/Pix3lify/uninstall.sh
++ '['  ]
++ '[' -f /data/adb/modules_update/Pix3lify/module.prop ]
++ tail -1 /data/adb/modules_update/Pix3lify/module.prop
++ '['  ]
++ '[' -f /data/adb/modules_update/Pix3lify/system.prop ]
++ tail -1 /data/adb/modules_update/Pix3lify/system.prop
++ '[' 'ro.com.google.ime.theme_id=5' ]
++ echo 
++ '[' -s /data/adb/modules_update/Pix3lify/Pix3lify-files ]
++ ui_print ' '
++ true
++ echo ' '
++ ui_print '- Setting Permissions'
++ true
++ echo '- Setting Permissions'
++ true
++ set_perm_recursive /data/adb/modules_update/Pix3lify 0 0 0755 0644
++ read+  dirfind
+ /data/adb/modules_update/Pix3lify -type d
++ set_perm /data/adb/modules_update/Pix3lify 0 0 0755
++ chown 0:0 /data/adb/modules_update/Pix3lify
++ chmod 0755 /data/adb/modules_update/Pix3lify
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify
++ read dir
++ set_perm /data/adb/modules_update/Pix3lify/system 0 0 0755
++ chown 0:0 /data/adb/modules_update/Pix3lify/system
++ chmod 0755 /data/adb/modules_update/Pix3lify/system
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system
++ read dir
++ set_perm /data/adb/modules_update/Pix3lify/system/bin 0 0 0755
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/bin
++ chmod 0755 /data/adb/modules_update/Pix3lify/system/bin
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/bin
++ read dir
++ set_perm /data/adb/modules_update/Pix3lify/system/vendor 0 0 0755
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/vendor
++ chmod 0755 /data/adb/modules_update/Pix3lify/system/vendor
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/vendor
++ read dir
++ set_perm /data/adb/modules_update/Pix3lify/system/vendor/etc 0 0 0755
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/vendor/etc
++ chmod 0755 /data/adb/modules_update/Pix3lify/system/vendor/etc
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc
++ read dir
++ set_perm /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions 0 0 0755
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions
++ chmod 0755 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions
++ read dir
++ set_perm /data/adb/modules_update/Pix3lify/system/vendor/etc/default-permissions 0 0 0755
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/vendor/etc/default-permissions
++ chmod 0755 /data/adb/modules_update/Pix3lify/system/vendor/etc/default-permissions
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/default-permissions
++ read dir
++ set_perm /data/adb/modules_update/Pix3lify/system/vendor/overlay 0 0 0755
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/vendor/overlay
++ chmod 0755 /data/adb/modules_update/Pix3lify/system/vendor/overlay
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/overlay
++ read dir
++ set_perm /data/adb/modules_update/Pix3lify/system/etc 0 0 0755
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/etc
++ chmod 0755 /data/adb/modules_update/Pix3lify/system/etc
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/etc
++ read dir
++ set_perm /data/adb/modules_update/Pix3lify/system/etc/permissions 0 0 0755
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/etc/permissions
++ chmod 0755 /data/adb/modules_update/Pix3lify/system/etc/permissions
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/etc/permissions
++ read dir
++ set_perm /data/adb/modules_update/Pix3lify/system/etc/sysconfig 0 0 0755
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/etc/sysconfig
++ chmod 0755 /data/adb/modules_update/Pix3lify/system/etc/sysconfig
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/etc/sysconfig
++ read dir
++ read file
++ find /data/adb/modules_update/Pix3lify -type f -o -type l
++ set_perm /data/adb/modules_update/Pix3lify/Pix3lify-install.log 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/Pix3lify-install.log
++ chmod 0644 /data/adb/modules_update/Pix3lify/Pix3lify-install.log
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/Pix3lify-install.log
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/system/bin/xmlstarlet 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/bin/xmlstarlet
++ chmod 0644 /data/adb/modules_update/Pix3lify/system/bin/xmlstarlet
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/bin/xmlstarlet
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/system/bin/pix3lify 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ chmod 0644 /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.front.xml 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.front.xml
++ chmod 0644 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.front.xml
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.front.xml
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.vr.high_performance.xml 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.vr.high_performance.xml
++ chmod 0644 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.vr.high_performance.xml
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.vr.high_performance.xml
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/handheld_core_hardware.xml 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/handheld_core_hardware.xml
++ chmod 0644 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/handheld_core_hardware.xml
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/handheld_core_hardware.xml
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.vr.headtracking.xml 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.vr.headtracking.xml
++ chmod 0644 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.vr.headtracking.xml
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.vr.headtracking.xml
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.nfc.hcef.xml 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.nfc.hcef.xml
++ chmod 0644 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.nfc.hcef.xml
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.nfc.hcef.xml
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.full.xml 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.full.xml
++ chmod 0644 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.full.xml
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.full.xml
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.raw.xml 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.raw.xml
++ chmod 0644 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.raw.xml
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.raw.xml
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.nfc.hce.xml 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.nfc.hce.xml
++ chmod 0644 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.nfc.hce.xml
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.nfc.hce.xml
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.flash-autofocus.xml 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.flash-autofocus.xml
++ chmod 0644 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.flash-autofocus.xml
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.camera.flash-autofocus.xml
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.nfc.xml 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.nfc.xml
++ chmod 0644 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.nfc.xml
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/permissions/android.hardware.nfc.xml
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/system/vendor/etc/default-permissions/default-permissions.xml 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/vendor/etc/default-permissions/default-permissions.xml
++ chmod 0644 /data/adb/modules_update/Pix3lify/system/vendor/etc/default-permissions/default-permissions.xml
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/etc/default-permissions/default-permissions.xml
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/system/vendor/overlay/Pix3lify.apk 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/vendor/overlay/Pix3lify.apk
++ chmod 0644 /data/adb/modules_update/Pix3lify/system/vendor/overlay/Pix3lify.apk
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/vendor/overlay/Pix3lify.apk
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/system/etc/permissions/pix3lify-permissions.xml 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/etc/permissions/pix3lify-permissions.xml
++ chmod 0644 /data/adb/modules_update/Pix3lify/system/etc/permissions/pix3lify-permissions.xml
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/etc/permissions/pix3lify-permissions.xml
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/system/etc/fonts.xml 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/etc/fonts.xml
++ chmod 0644 /data/adb/modules_update/Pix3lify/system/etc/fonts.xml
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/etc/fonts.xml
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/system/etc/fonts_customization.xml 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/etc/fonts_customization.xml
++ chmod 0644 /data/adb/modules_update/Pix3lify/system/etc/fonts_customization.xml
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/etc/fonts_customization.xml
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/system/etc/sysconfig/pix3lify-features.xml 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/system/etc/sysconfig/pix3lify-features.xml
++ chmod 0644 /data/adb/modules_update/Pix3lify/system/etc/sysconfig/pix3lify-features.xml
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/etc/sysconfig/pix3lify-features.xml
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/pix3lify 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/pix3lify
++ chmod 0644 /data/adb/modules_update/Pix3lify/pix3lify
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/pix3lify
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/auto_mount 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/auto_mount
++ chmod 0644 /data/adb/modules_update/Pix3lify/auto_mount
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/auto_mount
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/uninstall.sh 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/uninstall.sh
++ chmod 0644 /data/adb/modules_update/Pix3lify/uninstall.sh
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/uninstall.sh
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/module.prop 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/module.prop
++ chmod 0644 /data/adb/modules_update/Pix3lify/module.prop
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/module.prop
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/system.prop 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/system.prop
++ chmod 0644 /data/adb/modules_update/Pix3lify/system.prop
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system.prop
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/Pix3lify-files 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/Pix3lify-files
++ chmod 0644 /data/adb/modules_update/Pix3lify/Pix3lify-files
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/Pix3lify-files
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/service.sh 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/service.sh
++ chmod 0644 /data/adb/modules_update/Pix3lify/service.sh
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/service.sh
++ read file
++ set_perm /data/adb/modules_update/Pix3lify/post-fs-data.sh 0 0 0644
++ chown 0:0 /data/adb/modules_update/Pix3lify/post-fs-data.sh
++ chmod 0644 /data/adb/modules_update/Pix3lify/post-fs-data.sh
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/post-fs-data.sh
++ read file
++ set_permissions
++ set_perm /data/adb/modules_update/Pix3lify/system/bin/xmlstarlet 0 2000 0755
++ chown 0:2000 /data/adb/modules_update/Pix3lify/system/bin/xmlstarlet
++ chmod 0755 /data/adb/modules_update/Pix3lify/system/bin/xmlstarlet
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/bin/xmlstarlet
++ set_perm /data/adb/modules_update/Pix3lify/system/bin/pix3lify 0 2000 0755
++ chown 0:2000 /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ chmod 0755 /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ local 'CON='
++ '[' -z ]
++ local 'CON=u:object_r:system_file:s0'
++ chcon u:object_r:system_file:s0 /data/adb/modules_update/Pix3lify/system/bin/pix3lify
++ '[' -f /data/adb/modules_update/Pix3lify/system/bin/curl ]
++ cleanup
++ cd /
++ '[' -d /dev/tmp/common/unityfiles/boot/ramdisk ]
++ repack_ramdisk
++ ui_print '- Repacking ramdisk'
++ true
++ echo '- Repacking ramdisk'
++ cd /dev/tmp/common/unityfiles/boot/ramdisk
++ find .
++ cpio -H newc -o
++ cd ..
++ ui_print '- Repacking boot image'
++ true
++ echo '- Repacking boot image'
++ '[' 0 -ne 0 ]
++ magiskboot repack /dev/block/mmcblk0p21
+Parsing boot image: [/dev/block/mmcblk0p21]
+HEADER_VER      [0]
+KERNEL_SZ       [15958372]
+RAMDISK_SZ      [1103723]
+SECOND_SZ       [0]
+EXTRA_SZ        [0]
+RECOV_DTBO_SZ   [0]
+DTB             [0]
+OS_VERSION      [10.0.0]
+OS_PATCH_LEVEL  [2020-03]
+PAGESIZE        [2048]
+NAME            []
+CMDLINE         [androidboot.hardware=qcom msm_rtb.filter=0x237 ehci-hcd.park=3 lpm_levels.sleep_disabled=1 androidboot.bootdevice=7824900.sdhci earlycon=msm_hsl_uart,0x78B0000 androidboot.selinux=permissive loop.max_part=7 buildvariant=userdebug]
+CHECKSUM        [68128d28bf7749b854d62eb02e0936fabde02b48]
+KERNEL_DTB      [5093393]
+KERNEL_FMT      [gzip]
+RAMDISK_FMT     [gzip]
+Repack to boot image: [new-boot.img]
+HEADER_VER      [0]
+KERNEL_SZ       [15958372]
+RAMDISK_SZ      [1103815]
+SECOND_SZ       [0]
+EXTRA_SZ        [0]
+RECOV_DTBO_SZ   [0]
+DTB             [0]
+OS_VERSION      [10.0.0]
+OS_PATCH_LEVEL  [2020-03]
+PAGESIZE        [2048]
+NAME            []
+CMDLINE         [androidboot.hardware=qcom msm_rtb.filter=0x237 ehci-hcd.park=3 lpm_levels.sleep_disabled=1 androidboot.bootdevice=7824900.sdhci earlycon=msm_hsl_uart,0x78B0000 androidboot.selinux=permissive loop.max_part=7 buildvariant=userdebug]
+CHECKSUM        [38d6bf2dac7ef138030267a091c38e790f9ffb78]
++ false
++ flash_image new-boot.img /dev/block/mmcblk0p21
++ magisk --unlock-blocks
++ local 'COMMAND=cat '"'"'new-boot.img'"'"
++ '[' -b /dev/block/mmcblk0p21 ]
++ local 'BLOCK=true'
++ stat -c '%s' new-boot.img
++ local 'img_sz=17065984'
++ blockdev --getsize64 /dev/block/mmcblk0p21
++ local 'blk_sz=67108864'
++ '[' 17065984 -gt 67108864 ]
++ false
++ true
++ ui_print '- Flashing new boot image'
++ true
++ echo '- Flashing new boot image'
++ eval cat ''"'"'new-boot.img'"'"
++ cat new-boot.img
++ + ddcat 'of=/dev/block/mmcblk0p21' - 'bs=4096' /dev/zero
+
++ return 0
++ magiskboot cleanup
+Cleaning up...
++ rm -f new-boot.img
++ cd /
++ true
++ imageless_magisk
+/data/user/0/com.topjohnwu.magisk/cache/flash/update-binary: line 149: imageless_magisk: not found
++ unmount_magisk_img
+/data/user/0/com.topjohnwu.magisk/cache/flash/update-binary: line 149: unmount_magisk_img: not found
++ ui_print ' '
++ true
++ echo ' '
++ ui_print '    *******************************************'
++ true
++ echo '    *******************************************'
++ ui_print '    *      Powered by Magisk (@topjohnwu)     *'
++ true
++ echo '    *      Powered by Magisk (@topjohnwu)     *'
++ ui_print '    *******************************************'
++ true
++ echo '    *******************************************'
++ true
++ ui_print ' '
++ true
++ echo ' '
++ ui_print '    *******************************************'
++ true
++ echo '    *******************************************'
++ ui_print '    *    Unity by ahrion & zackptg5 @ XDA     *'
++ true
++ echo '    *    Unity by ahrion & zackptg5 @ XDA     *'
++ ui_print '    *******************************************'
++ true
++ echo '    *******************************************'
++ ui_print ' '
++ true
++ echo ' '
++ true
++ debug_log
++ set +x
+/data/user/0/com.topjohnwu.magisk/cache/flash/update-binary: line 125: imageless_magisk: not found
