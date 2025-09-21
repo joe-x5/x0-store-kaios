@@ -1,0 +1,22 @@
+[
+
+{
+  "name":"<var style='font-style:normal;font-size:18px;position:relative;top:-16px;'>X0 Store KaiOS</var><br><var style='font-style:normal;font-size:13px;position:relative;top:-16px;'>New Apps Store For KaiOS Devices</var>",
+  "ur":"https://x0storekaios.blogspot.com/",
+  "img":"https://x0storekaios.blogspot.com/favicon.ico"
+},
+
+{
+  "name":"<var style='font-style:normal;font-size:18px;position:relative;top:-16px;'>X0 All KaiOS</var><br><var style='font-style:normal;font-size:13px;position:relative;top:-16px;'>New Apps Store For KaiOS Devices</var>",
+  "ur":"https://x0allkaios.blogspot.com/",
+  "img":"https://x0allkaios.blogspot.com/favicon.ico"
+},
+
+
+
+{
+  "name":"<var style='font-style:normal;font-size:18px;position:relative;top:-16px;'>NCSOLVE</var><br><var style='font-style:normal;font-size:13px;position:relative;top:-16px;'>NCSOLVE Free Education Webapps.</var>",
+  "ur":"https://ncsolve.blogspot.com/",
+  "img":"https://ncsolve.blogspot.com/favicon.ico"
+}
+]
