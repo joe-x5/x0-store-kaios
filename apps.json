@@ -1,1 +1,38 @@
+[
+    {
+        "name": "Education",
+        "url": "https://x0.rf.gd/a/x0-all/education/",
+        "icon": "icon.png"
+    },
+    {
+        "name": "Social",
+        "url": "https://x0.rf.gd/a/x0-all/social/",
+        "icon": "icon.png"
+    },
+    {
+        "name": "Games",
+        "url": "https://x0.rf.gd/a/x0-all/games/",
+        "icon": "icon.png"
+    },
+    {
+        "name": "Tools",
+        "url": "https://x0.rf.gd/a/x0-all/tools/",
+        "icon": "icon.png"
+    },
+    {
+        "name": "Multimedia",
+        "url": "https://x0.rf.gd/a/x0-all/multimedia/",
+        "icon": "icon.png"
+    },
+    {
+        "name": "Ai",
+        "url": "https://x0.rf.gd/a/x0-all/ai/",
+        "icon": "icon.png"
+    },
+    {
+        "name": "Utility",
+        "url": "https://x0.rf.gd/a/x0-all/utility/",
+        "icon": "icon.png"
+    }
+]
 
