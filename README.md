@@ -138,6 +138,8 @@ Welcome to **X0 Store KaiOS**, a fully free web-based platform to host, create, 
 
 | http://x00.yzz.me |
 
+| https://x0storekaios.iblogger.org/ |
+
 --------
 ## X0 Store KaiOS - All Apps
 --------
