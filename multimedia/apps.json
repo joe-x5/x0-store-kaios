@@ -1,7 +1,22 @@
 [
     {
         "name": "NFWS HUB",
-        "url": "https://x0.rf.gd/a/x0-all/nfws/",
-        "icon": "https://x0.rf.gd/a/x0-all/nfws/icon.png"
+        "url": "\/a\/x0-all\/nfws\/",
+        "icon": "\/a\/x0-all\/nfws\/icon.png"
+    },
+    {
+        "name": "GenYouTUBE",
+        "url": "http:\/\/genyt.net",
+        "icon": "http:\/\/genyt.net\/favicon.ico"
+    },
+    {
+        "name": "YouTube",
+        "url": "http:\/\/m.youtube.com",
+        "icon": "https://image.pollinations.ai/prompt/YouTube.png?width=48&height=48"
+    },
+    {
+        "name": "Avairy Photo Editor",
+        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/avairy-photo-editor\/",
+        "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/avairy-photo-editor\/img\/aviary-90.png"
     }
 ]
