@@ -2,175 +2,167 @@
     {
         "name": "Facebook Chat",
         "url": "https:\/\/www.facebook.com",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=facebook-icon.png"
+        "icon": "https://image.pollinations.ai/prompt/facebook-icon.png?width=48&height=48"
     },
     {
         "name": "Twitter Connect",
         "url": "https:\/\/www.twitter.com",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=twitter-icon.png"
+        "icon": "https://image.pollinations.ai/prompt/twitter-icon.png?width=48&height=48"
     },
     {
         "name": "WhatsApp Web",
         "url": "https:\/\/web.whatsapp.com",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=whatsapp-icon.png"
+        "icon": "https://image.pollinations.ai/prompt/whatsapp-icon.png?width=48&height=48"
     },
     {
         "name": "Telegram Web",
         "url": "https:\/\/web.telegram.org",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=telegram-icon.png"
+        "icon": "https://image.pollinations.ai/prompt/telegram-icon.png?width=48&height=48"
     },
     {
         "name": "Chat MAX ALL",
         "url": "http:\/\/x0.rf.gd\/",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=chat_max_all-20250719063409.png"
+        "icon": "https://image.pollinations.ai/prompt/chat_max_all-20250719063409.png?width=48&height=48"
     },
     {
         "name": "Chatwave (All)",
         "url": "https:\/\/x00.yzz.me\/a\/chatwave-all\/",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=chatwave-all+icon.png"
+        "icon": "https://image.pollinations.ai/prompt/chatwave-all+icon.png?width=48&height=48"
     },
     {
         "name": "Global Chat",
         "url": "https:\/\/wxfire.yzz.me\/tools\/kaios\/apps\/global-chat\/",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=global-chat-icon"
+        "icon": "https://image.pollinations.ai/prompt/global-chat-icon?width=48&height=48"
     },
     {
         "name": "Chat Batasa",
         "url": "https:\/\/chat-max-all.blogspot.com\/2025\/04\/chat-batasa.html?m=1",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=chatbatasa-chat-app"
+        "icon": "https://image.pollinations.ai/prompt/chatbatasa-chat-app?width=48&height=48"
     },
     {
         "name": "Chat Max (WXFIRE)",
         "url": "https:\/\/wxfire.rf.gd\/tools\/kaios\/apps\/chat-max\/",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=chat-max-chatting-icon.png"
+        "icon": "https://image.pollinations.ai/prompt/chat-max-chatting-icon.png?width=48&height=48"
     },
     {
         "name": "Chit Chat (All)",
         "url": "https:\/\/x00.yzz.me\/a\/chit-chat-all\/",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=chit-chat-all-icon.png"
+        "icon": "https://image.pollinations.ai/prompt/chit-chat-all-icon.png?width=48&height=48"
     },
     {
         "name": "VCall",
         "url": "https:\/\/vivekgyan7.rf.gd\/vcall\/",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=vcall-videocall-icon.png"
+        "icon": "https://image.pollinations.ai/prompt/vcall-videocall-icon.png?width=48&height=48"
     },
-
-    {
-        "name": "VCALL S2",
-        "url": "https://joe-x5.github.io/x0allkaios/games/vcall/",
-        "icon": "https://joe-x5.github.io/x0allkaios/games/vcall/icon.png"
-    },
-        
-    
     {
         "name": "Chat Max All (Android)",
         "url": "https:\/\/chat-max-all.blogspot.com",
-        "icon": "https:\/\/chat-max-all.blogspot.com\/favicon.ico"
+        "icon": "https:\/\/chat-max-all.blogspot.com\/favicon.ico?width=48&height=48"
     },
     {
         "name": "T20 Cricket",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/t20cricket.jar&midlet=MBL_DEFAULT",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=T20+Cricket.png"
+        "icon": "https://image.pollinations.ai/prompt/T20+Cricket.png?width=48&height=48"
     },
     {
         "name": "FTU",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/ftu.jar&midlet=BookReaderMidlet",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=FTU.png"
+        "icon": "https://image.pollinations.ai/prompt/FTU.png?width=48&height=48"
     },
     {
         "name": "Discord",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Discord4KaiOS\/",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Discord.png"
+        "icon": "https://image.pollinations.ai/prompt/Discord.png?width=48&height=48"
     },
     {
         "name": "Threads",
         "url": "https:\/\/www.threads.com",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Threads.png"
+        "icon": "https://image.pollinations.ai/prompt/Threads.png?width=48&height=48"
     },
     {
         "name": "Meet Y99",
         "url": "https:\/\/meet.y99.in\/",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Meet+Y99.png"
+        "icon": "https://image.pollinations.ai/prompt/Meet+Y99.png?width=48&height=48"
     },
     {
         "name": "Teen Chat City",
         "url": "https:\/\/teenchatcity.com",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Teen+Chat+City.png"
+        "icon": "https://image.pollinations.ai/prompt/Teen+Chat+City.png?width=48&height=48"
     },
     {
         "name": "Super Teen Chat",
         "url": "https:\/\/superteenchat.com\/",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Super+Teen+Chat.png"
+        "icon": "https://image.pollinations.ai/prompt/Super+Teen+Chat.png?width=48&height=48"
     },
     {
         "name": "Kids Chat Net",
         "url": "https:\/\/www.kidschat.net\/kidschat\/",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Kids+Chat+Net.png"
+        "icon": "https://image.pollinations.ai/prompt/Kids+Chat+Net.png?width=48&height=48"
     },
     {
         "name": "Chatify",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/chat\/chatify\/",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Chatify.png"
+        "icon": "https://image.pollinations.ai/prompt/Chatify.png?width=48&height=48"
     },
     {
         "name": "Private Chat",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/chat\/private\/",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Private+Chat.png"
+        "icon": "https://image.pollinations.ai/prompt/Private+Chat.png?width=48&height=48"
     },
     {
         "name": "Chatwave",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/chatwave\/",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Chatwave.png"
+        "icon": "https://image.pollinations.ai/prompt/Chatwave.png?width=48&height=48"
     },
     {
         "name": "Cam Chat",
         "url": "https:\/\/cams.chat-avenue.com\/register",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Cam+Chat.png"
+        "icon": "https://image.pollinations.ai/prompt/Cam+Chat.png?width=48&height=48"
     },
     {
         "name": "Video Chat",
         "url": "https:\/\/www.chat-avenue.com\/video\/chat.php",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Video+Chat.png"
+        "icon": "https://image.pollinations.ai/prompt/Video+Chat.png?width=48&height=48"
     },
     {
         "name": "Adult Chat",
         "url": "https:\/\/adultmobile.chat-avenue.com\/",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Adult+Chat.png"
+        "icon": "https://image.pollinations.ai/prompt/Adult+Chat.png?width=48&height=48"
     },
     {
         "name": "Live Chat",
         "url": "https:\/\/www.chat-avenue.com\/live\/",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Live+Chat.png"
+        "icon": "https://image.pollinations.ai/prompt/Live+Chat.png?width=48&height=48"
     },
     {
         "name": "KaiCall",
         "url": "https:\/\/kaios-call.blogspot.com\/2025\/08\/vcall.html",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=KaiCall.png"
+        "icon": "https://image.pollinations.ai/prompt/KaiCall.png?width=48&height=48"
     },
     {
         "name": "KaiCall (VCall)",
         "url": "https:\/\/chat-max-all.blogspot.com\/2025\/08\/vcall-kaios.html",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=KaiCall+%28VCall%29.png"
+        "icon": "https://image.pollinations.ai/prompt/KaiCall+%28VCall%29.png?width=48&height=48"
     },
     {
         "name": "chitchat",
         "url": "https:\/\/x0.rf.gd\/a\/chitchat\/",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=chitchat.png"
+        "icon": "https://image.pollinations.ai/prompt/chitchat.png?width=48&height=48"
     },
     {
         "name": "chatwave",
         "url": "https:\/\/x0.rf.gd\/a\/chatwave\/",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=chatwave.png"
+        "icon": "https://image.pollinations.ai/prompt/chatwave.png?width=48&height=48"
     },
     {
         "name": "X0 CHAT5",
         "url": "https:\/\/x0.rf.gd\/a\/x0chat5\/",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=X0+CHAT5.png"
+        "icon": "https://image.pollinations.ai/prompt/X0+CHAT5.png?width=48&height=48"
     },
     {
         "name": "WX Gallery",
         "url": "https:\/\/wxfire.rf.gd\/kai\/",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=WX+Gallery.png"
+        "icon": "https://image.pollinations.ai/prompt/WX+Gallery.png?width=48&height=48"
     },
     {
         "name": "#1PixarGeek",
@@ -180,7 +172,7 @@
     {
         "name": "A Girl And A Cat",
         "url": "https:\/\/a-girl-and-a-cat.blogspot.com",
-        "icon": "https:\/\/a-girl-and-a-cat.blogspot.com\/favicon.ico"
+        "icon": "https:\/\/a-girl-and-a-cat.blogspot.com\/favicon.ico?width=48&height=48"
     },
     {
         "name": "Mad X0",
@@ -191,5 +183,25 @@
         "name": "Stupid TD",
         "url": "https:\/\/stupidtd.blogspot.com",
         "icon": "https:\/\/stupidtd.blogspot.com\/favicon.ico"
+    },
+    {
+        "name": "Pixnime",
+        "url": "https:\/\/pixnime.blogspot.com\/",
+        "icon": "https:\/\/pixnime.blogspot.com\/favicon.ico"
+    },
+    {
+        "name": "Watermelon KaiOS",
+        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/watermelon-kaios\/",
+        "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/watermelon-kaios\/assets\/icons\/icon-112-112.svg"
+    },
+    {
+        "name": "Flop Social",
+        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/flop%200.3297\/",
+        "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/flop%200.3297\/assets\/icons\/icon-112-112.png?width=48&height=48"
+    },
+    {
+        "name": "Chooj KaiOS",
+        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/chooj-kaios\/",
+        "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/chooj-kaios\/hash_icon.png?width=48&height=48"
     }
 ]
