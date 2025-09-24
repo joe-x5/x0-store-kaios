@@ -2,56 +2,61 @@
     {
         "name": "ChatGPT",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/chat-gpt-x\/",
-        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=chat-gpt-x"
+        "icon": "https://image.pollinations.ai/prompt/chat-gpt-x?width=48&height=48"
     },
     {
         "name": "Cat Pic Genrator",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/cats-pic-genrator\/",
-        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=cats-pic-genrator"
+        "icon": "https://image.pollinations.ai/prompt/cats-pic-genrator?width=48&height=48"
     },
     {
         "name": "Ai Image Generator",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/ai-image-genrator\/",
-        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=ai-image-genrator"
+        "icon": "https://image.pollinations.ai/prompt/ai-image-genrator?width=48&height=48"
     },
     {
         "name": "Ai Img",
         "url": "https:\/\/x0.rf.gd\/a\/ai-img\/",
-        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Ai+Img.png"
+        "icon": "https://image.pollinations.ai/prompt/Ai+Img.png?width=48&height=48"
     },
     {
         "name": "X0 GPT",
         "url": "https:\/\/x0.rf.gd\/a\/x0-gpt\/",
-        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=X0+GPT.png"
+        "icon": "https://image.pollinations.ai/prompt/X0+GPT.png?width=48&height=48"
     },
     {
         "name": "Invision X",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Invision%20X\/",
-        "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Invision%20X\/icons\/icon112x112.png"
+        "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Invision%20X\/icons\/icon112x112.png?width=48&height=48"
     },
     {
         "name": "X0 Flower",
         "url": "https:\/\/x0.rf.gd\/a\/x0flower\/",
-        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=X0+Flower.png"
+        "icon": "https://image.pollinations.ai/prompt/X0+Flower.png?width=48&height=48"
     },
     {
         "name": "X0 Car",
         "url": "https:\/\/x0.rf.gd\/a\/x0car\/",
-        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=X0+Car.png"
+        "icon": "https://image.pollinations.ai/prompt/X0+Car.png?width=48&height=48"
     },
     {
         "name": "X0 Bike",
         "url": "https:\/\/x0.rf.gd\/a\/x0bike\/",
-        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=X0+Bike.png"
+        "icon": "https://image.pollinations.ai/prompt/X0+Bike.png?width=48&height=48"
     },
     {
         "name": "X0 Love",
         "url": "https:\/\/x0.rf.gd\/a\/x0love\/",
-        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=X0+Love.png"
+        "icon": "https://image.pollinations.ai/prompt/X0+Love.png?width=48&height=48"
     },
     {
         "name": "X0 Heart",
         "url": "https:\/\/x0.rf.gd\/a\/x0heart\/",
-        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=X0+Heart.png"
+        "icon": "https://image.pollinations.ai/prompt/X0+Heart.png?width=48&height=48"
+    },
+    {
+        "name": "Chat GPT",
+        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Chat%20GPT%202.1.15\/",
+        "icon": "https://image.pollinations.ai/prompt/Chat+GPT.png?width=48&height=48"
     }
 ]
