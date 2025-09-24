@@ -1,23 +1,22 @@
-
 [
     {
         "name": "Sms Bomber",
         "url": "https:\/\/x0.rf.gd\/tools\/smsbomberbyshadow.php",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Sms+Bomber.png"
+        "icon": "https://image.pollinations.ai/prompt/Sms+Bomber.png?width=48&height=48"
     },
     {
         "name": "Sim Details",
         "url": "https:\/\/x0.rf.gd\/tools\/shadowsimdetails.php",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Sim+Details.png"
+        "icon": "https://image.pollinations.ai/prompt/Sim+Details.png?width=48&height=48"
     },
     {
         "name": "Whatsapp Unban",
         "url": "https:\/\/x0.rf.gd\/tools\/perma-unbanned.php",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Whatsapp+Unban.png"
+        "icon": "https://image.pollinations.ai/prompt/Whatsapp+Unban.png?width=48&height=48"
     },
     {
         "name": "CDR Database",
-        "url": "https:\/\/x0.rf.gd\/tools\/cdr-database.html",
-        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=CDR+Database.png"
+        "url": "https:\/\/x0.rf.gd\/tools\/cdr-database.html?width=48&height=48",
+        "icon": "https://image.pollinations.ai/prompt/CDR+Database.png?width=48&height=48"
     }
 ]
