@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Snake",
+        "url": "https:\/\/www.kaiosgames.com\/snake",
+        "icon": "games\/snake-icon.png"
+    },
+    {
+        "name": "2048",
+        "url": "https:\/\/www.kaiosgames.com\/2048",
+        "icon": "games\/2048-icon.png"
+    },
+    {
+        "name": "Tetris",
+        "url": "https:\/\/www.kaiosgames.com\/tetris",
+        "icon": "games\/tetris-icon.png"
+    },
+    {
+        "name": "Crossy Road",
+        "url": "https:\/\/www.kaiosgames.com\/crossyroad",
+        "icon": "games\/crossyroad-icon.png"
+    },
+    {
+        "name": "Pac-Man",
+        "url": "https:\/\/www.kaiosgames.com\/pacman",
+        "icon": "games\/pacman-icon.png"
+    }
+]
