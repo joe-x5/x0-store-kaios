@@ -2,17 +2,20 @@
     {
         "name": "NFWS HUB",
         "url": "\/a\/x0-all\/nfws\/",
-        "icon": "\/a\/x0-all\/nfws\/icon.png"
+        "icon": "\/a\/x0-all\/nfws\/icon.png",
+        "clicks": 22
     },
     {
         "name": "GenYouTUBE",
         "url": "http:\/\/genyt.net",
-        "icon": "http:\/\/genyt.net\/favicon.ico"
+        "icon": "http:\/\/genyt.net\/favicon.ico",
+        "clicks": 3
     },
     {
         "name": "YouTube",
         "url": "http:\/\/m.youtube.com",
-        "icon": "https://image.pollinations.ai/prompt/YouTube.png?width=48&height=48"
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/youtube?width=48&height=48",
+        "clicks": 6
     },
     {
         "name": "Avairy Photo Editor",
