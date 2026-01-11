@@ -1,77 +1,18 @@
 [
-   {
-        "name": "X0 Store KaiOS V2.2",
-        "url": "https://x0storekaios.blogspot.com/2025/09/x0-store-kaios-kaios-test.html?m=1",
-        "icon": "https://x0storekaios.blogspot.com/favicon.ico"
+    {
+        "name": "Chatwave Mod+",
+        "url": "https:\/\/love0.rf.gd\/tools\/kaios\/apps\/chatwave\/mod\/",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/Chatwave+Mod%2B.png?width=48&height=48"
     },
-   
-   {
-        "name": "KaiOS Call V1.4",
-        "url": "https://kaios-call.blogspot.com",
-        "icon": "https://kaios-call.blogspot.com/favicon.ico"
+    {
+        "name": "Premium",
+        "url": "\/\/x0.rf.gd\/a\/x0-all\/premium\/",
+        "icon": "\/\/x0.rf.gd\/a\/x0-all\/premium\/icon.png?width=48&height=48",
+        "clicks": 1
     },
-   
-   {
-        "name": "Chatwave Mod V1.2",
-        "url": "https://chatwavekaios.blogspot.com/2025/09/chatwave-mod-125.html?m=1",
-        "icon": "https://chatwavekaios.blogspot.com/favicon.ico"
-    },
-
-   
-   {
-        "name": "Tiki Game V1.2",
-        "url": "https://x0storekaios.blogspot.com/2025/09/tiki-game.html",
-        "icon": "https://x0allkaios.blogspot.com/favicon.ico"
-    },
-
-   
-   {
-        "name": "CloudWeb V1.2",
-        "url": "https://x0storekaios.blogspot.com/2025/09/cloudweb.html",
-        "icon": "https://x0allkaios.blogspot.com/favicon.ico"
-    },
-
-
-   
-   {
-        "name": "X0Love V1.1",
-        "url": "https://x0storekaios.blogspot.com/2025/09/x0love.html",
-        "icon": "https://x0allkaios.blogspot.com/favicon.ico"
-    },
-
-   
-   {
-        "name": "X0 GPT V1.2",
-        "url": "https://x0storekaios.blogspot.com/2025/09/x0-gpt-ai-chatbot-body-font-family.html",
-        "icon": "https://x0allkaios.blogspot.com/favicon.ico"
-    },
-
-   
-   {
-        "name": "X0CHAT5 V1.3",
-        "url": "https://x0storekaios.blogspot.com/2025/09/x0chat5.html",
-        "icon": "https://x0allkaios.blogspot.com/favicon.ico"
-    },
-
-      
-   {
-        "name": "Chit Chat V1.7",
-        "url": "https://x0storekaios.blogspot.com/2025/09/chit-chat-all.html",
-        "icon": "https://x0allkaios.blogspot.com/favicon.ico"
-    },
-
-   
-   {
-        "name": "ChatWave V1.7",
-        "url": "https://x0storekaios.blogspot.com/2025/09/chatwave-all.html",
-        "icon": "https://x0allkaios.blogspot.com/favicon.ico"
-    },
-
-
-   {
-        "name": "X0 Store KaiOS Test V2.4",
-        "url": "https://x0storekaios.blogspot.com/2025/09/x0-store-kaios-test-v24.html",
-        "icon": "https://x0allkaios.blogspot.com/favicon.ico"
+    {
+        "name": "X0 Store V2.0.104",
+        "url": "https:\/\/x0.rf.gd\/a\/x0-store-kaios-update\/",
+        "icon": "\/\/x0.rf.gd\/icon.png?width=48&height=48"
     }
-   
 ]
