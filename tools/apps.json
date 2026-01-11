@@ -2,26 +2,31 @@
     {
         "name": "Draw It",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Draw-IT\/",
-        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=draw-it-drawing-app"
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/draw-it-drawing-app?width=48&height=48",
+        "clicks": 8
     },
     {
         "name": "Google",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/google-micro4\/",
-        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=google-micro4-googlebrand"
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/google-micro4-googlebrand?width=48&height=48",
+        "clicks": 17
     },
     {
         "name": "Vibrator Max",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/vibrator-max\/",
-        "icon": "host\/vibrator-max-20250719082855.png"
+        "icon": "host\/vibrator-max-20250719082855.png?width=48&height=48",
+        "clicks": 16
     },
     {
         "name": "Cilia",
         "url": "http:\/\/anas6284.wapkizs.com",
-        "icon": "host\/cilia-20250720133046.png"
+        "icon": "host\/cilia-20250720133046.png",
+        "clicks": 18
     },
     {
         "name": "Cloud Web",
         "url": "https:\/\/x0.rf.gd\/a\/cloud-web\/",
-        "icon": "https:\/\/x0.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Cloud+Web.png"
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/Cloud+Web.png?width=48&height=48",
+        "clicks": 31
     }
 ]
