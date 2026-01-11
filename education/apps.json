@@ -1,12 +1,14 @@
 [
     {
         "name": "NCSOLVE",
-        "url": "https:\/\/ncsolve.blogspot.com",
-        "icon": "https:\/\/x0.rf.gd\/a\/x0-all\/education\/host\/ncsolve-20250719080010.png"
+        "url": "\/\/ncsolve.blogspot.com",
+        "icon": "\/\/x0.rf.gd\/a\/x0-all\/education\/host\/ncsolve-20250719080010.png",
+        "clicks": 25
     },
     {
-        "name": "Edu Ai",
-        "url": "https:\/\/edu-ai.blogspot.com",
-        "icon": "https:\/\/x0.rf.gd\/a\/x0-all\/education\/host\/edu_ai-20250719080543.png"
+        "name": "Edu Ai \ud83e\udd16",
+        "url": "\/\/edu-ai.blogspot.com",
+        "icon": "host\/edu_ai-20250719080543.png",
+        "clicks": 22
     }
 ]
