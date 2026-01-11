@@ -2,21 +2,45 @@
     {
         "name": "Sms Bomber",
         "url": "https:\/\/x0.rf.gd\/tools\/smsbomberbyshadow.php",
-        "icon": "https://image.pollinations.ai/prompt/Sms+Bomber.png?width=48&height=48"
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/Sms+Bomber.png?width=48&height=48",
+        "clicks": 13
     },
     {
         "name": "Sim Details",
         "url": "https:\/\/x0.rf.gd\/tools\/shadowsimdetails.php",
-        "icon": "https://image.pollinations.ai/prompt/Sim+Details.png?width=48&height=48"
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/Sim+Details.png?width=48&height=48",
+        "clicks": 11
     },
     {
         "name": "Whatsapp Unban",
         "url": "https:\/\/x0.rf.gd\/tools\/perma-unbanned.php",
-        "icon": "https://image.pollinations.ai/prompt/Whatsapp+Unban.png?width=48&height=48"
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/Whatsapp+Unban.png?width=48&height=48",
+        "clicks": 7
     },
     {
         "name": "CDR Database",
         "url": "https:\/\/x0.rf.gd\/tools\/cdr-database.html?width=48&height=48",
-        "icon": "https://image.pollinations.ai/prompt/CDR+Database.png?width=48&height=48"
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/CDR+Database.png?width=48&height=48",
+        "clicks": 5
+    },
+    {
+        "name": "Sms Bomber",
+        "url": "https:\/\/x0.rf.gd\/tools\/smsbomberbyshadow.php",
+        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Sms+Bomber.png"
+    },
+    {
+        "name": "Sim Details",
+        "url": "https:\/\/x0.rf.gd\/tools\/shadowsimdetails.php",
+        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Sim+Details.png"
+    },
+    {
+        "name": "Whatsapp Unban",
+        "url": "https:\/\/x0.rf.gd\/tools\/perma-unbanned.php",
+        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=Whatsapp+Unban.png"
+    },
+    {
+        "name": "CDR Database",
+        "url": "https:\/\/x0.rf.gd\/tools\/cdr-database.html",
+        "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=CDR+Database.png"
     }
 ]
