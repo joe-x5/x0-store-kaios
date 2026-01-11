@@ -27,7 +27,7 @@
         "name": "Global Chat",
         "url": "https:\/\/wxfire.yzz.me\/tools\/kaios\/apps\/global-chat\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/global-chat-icon?width=48&height=48",
-        "clicks": 40
+        "clicks": 41
     },
     {
         "name": "Chat Batasa",
@@ -75,7 +75,7 @@
         "name": "Super Teen Chat",
         "url": "https:\/\/superteenchat.com\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Super+Teen+Chat.png?width=48&height=48",
-        "clicks": 21
+        "clicks": 22
     },
     {
         "name": "Kids Chat Net",
@@ -220,10 +220,5 @@
         "url": "https:\/\/x00.yzz.me\/a\/chit-chat-all\/",
         "icon": "https:\/\/x00.yzz.me\/a\/chit-chat-all\/icon.png",
         "clicks": 2
-    },
-    {
-        "name": "NCSOLVE KaiOS",
-        "url": "https:\/\/ncsolve.blogspot.com",
-        "icon": "https:\/\/ncsolve.blogspot.com\/favicon.ico"
     }
 ]
