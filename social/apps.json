@@ -15,25 +15,25 @@
         "name": "WhatsApp Web",
         "url": "https:\/\/web.whatsapp.com",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/whatsapp?width=48&height=48",
-        "clicks": 69
+        "clicks": 71
     },
     {
         "name": "Telegram Web",
         "url": "https:\/\/web.telegram.org",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/telegram?width=48&height=48",
-        "clicks": 75
+        "clicks": 79
     },
     {
         "name": "Global Chat",
         "url": "https:\/\/wxfire.yzz.me\/tools\/kaios\/apps\/global-chat\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/global-chat-icon?width=48&height=48",
-        "clicks": 43
+        "clicks": 45
     },
     {
         "name": "Chat Batasa",
         "url": "https:\/\/chat-max-all.blogspot.com\/2025\/04\/chat-batasa.html",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/chatbatasa-chat-app?width=48&height=48",
-        "clicks": 9
+        "clicks": 10
     },
     {
         "name": "Chat Max (WXFIRE)",
@@ -111,7 +111,7 @@
         "name": "Video Chat",
         "url": "https:\/\/www.chat-avenue.com\/video\/chat.php",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Video+Chat.png?width=48&height=48",
-        "clicks": 13
+        "clicks": 15
     },
     {
         "name": "Adult Chat",
@@ -135,7 +135,7 @@
         "name": "ChitChat",
         "url": "https:\/\/x0.rf.gd\/a\/chitchat\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/chat%20?width=48&height=48",
-        "clicks": 34
+        "clicks": 35
     },
     {
         "name": "X0 CHAT5",
@@ -219,6 +219,6 @@
         "name": "Chit Chat (All)",
         "url": "https:\/\/x00.yzz.me\/a\/chit-chat-all\/",
         "icon": "https:\/\/x00.yzz.me\/a\/chit-chat-all\/icon.png",
-        "clicks": 2
+        "clicks": 7
     }
 ]
