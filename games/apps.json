@@ -27,7 +27,7 @@
         "name": "Spider Man",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/The%20Amazing%20Spider%20Man.jar&midlet=GloftTASM",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/spiderman?width=48&height=48",
-        "clicks": 34
+        "clicks": 36
     },
     {
         "name": "King Kong",
@@ -56,7 +56,7 @@
         "name": "Asphalt 6",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Asphalt%206%20Adrenaline.jar&midlet=GloftASP6",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Asphalt+6.png?width=48&height=48",
-        "clicks": 17
+        "clicks": 19
     },
     {
         "name": "Asphalt 2 UrBan GT",
@@ -68,7 +68,7 @@
         "name": "Asphalt UrBan GT",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Asphalt%20Urban%20GT.jar&midlet=cMIDlet",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Asphalt+UrBan+GT.png?width=48&height=48",
-        "clicks": 7
+        "clicks": 9
     },
     {
         "name": "Bounce Tales",
@@ -142,7 +142,7 @@
         "name": "Tempe Run",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/teh2_nok_6280.jar&midlet=XX",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Tempe+Run.png?width=48&height=48",
-        "clicks": 4
+        "clicks": 6
     },
     {
         "name": "Skate Hooligans",
