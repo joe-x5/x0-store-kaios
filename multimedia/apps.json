@@ -3,7 +3,7 @@
         "name": "NFWS HUB",
         "url": "\/a\/x0-all\/nfws\/",
         "icon": "\/a\/x0-all\/nfws\/icon.png",
-        "clicks": 22
+        "clicks": 24
     },
     {
         "name": "GenYouTUBE",
@@ -15,7 +15,7 @@
         "name": "YouTube",
         "url": "http:\/\/m.youtube.com",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/youtube?width=48&height=48",
-        "clicks": 6
+        "clicks": 8
     },
     {
         "name": "Avairy Photo Editor",
