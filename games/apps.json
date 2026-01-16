@@ -15,19 +15,19 @@
         "name": "The Averagers",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/The%20Avengers.jar&midlet=GloftAVEN",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/avengers?width=48&height=48",
-        "clicks": 3
+        "clicks": 4
     },
     {
         "name": "Prince Of Porn",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Prince-Of-Porn-Awesome-Java-Game-2024-(mdurbain.wapaxo.com).jar&midlet=MainMIDlet",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/PrinceofPorn+game?width=48&height=48",
-        "clicks": 7
+        "clicks": 12
     },
     {
         "name": "Spider Man",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/The%20Amazing%20Spider%20Man.jar&midlet=GloftTASM",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/spiderman?width=48&height=48",
-        "clicks": 36
+        "clicks": 37
     },
     {
         "name": "King Kong",
@@ -44,7 +44,8 @@
     {
         "name": "Shrek The Third",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Shrek-TheThird_s40v3a.jar&midlet=GloftSTTH",
-        "icon": "https:\/\/image.pollinations.ai\/prompt\/Shrek+The+Third.png?width=48&height=48"
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/Shrek+The+Third.png?width=48&height=48",
+        "clicks": 1
     },
     {
         "name": "Contra 4",
@@ -68,7 +69,7 @@
         "name": "Asphalt UrBan GT",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Asphalt%20Urban%20GT.jar&midlet=cMIDlet",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Asphalt+UrBan+GT.png?width=48&height=48",
-        "clicks": 9
+        "clicks": 11
     },
     {
         "name": "Bounce Tales",
@@ -86,7 +87,7 @@
         "name": "Thor Dark World",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Thor%20Dark%20World.jar&midlet=GloftTR2M",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Thor+Dark+World.png?width=48&height=48",
-        "clicks": 17
+        "clicks": 22
     },
     {
         "name": "Virtual Villagers",
@@ -136,7 +137,7 @@
         "name": "OPT WhatsApp",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/OptWhatsApp.jar&midlet=com.whatsapp.client.test.WhatsAppBG",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/OPT+WhatsApp.png?width=48&height=48",
-        "clicks": 26
+        "clicks": 33
     },
     {
         "name": "Tempe Run",
@@ -172,19 +173,19 @@
         "name": "Girl Doll Hand Care",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Girl%20Doll%20Hand%20Care%203.0.2\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Girl%20Doll%20Hand%20Care%203.0.2\/112.png?width=48&height=48",
-        "clicks": 6
+        "clicks": 8
     },
     {
         "name": "Girl Doll Dress Up",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Girl%20Doll%20Dress%20Up%203.0.2\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Girl%20Doll%20Dress%20Up%203.0.2\/112.png?width=48&height=48",
-        "clicks": 10
+        "clicks": 12
     },
     {
         "name": "Talking Bot",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Talking_bot\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Talking_bot\/icon.svg?width=48&height=48",
-        "clicks": 10
+        "clicks": 12
     },
     {
         "name": "DoctorBaby Hospital",
@@ -206,13 +207,13 @@
     {
         "name": "Talking Boy",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Talking%20Boy\/",
-        "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Talking%20Boy\/",
+        "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Talking%20Boy\/icon.png",
         "clicks": 2
     },
     {
         "name": "Kart Hooligans",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Kart%20Hooligans\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Kart%20Hooligans\/icon.png",
-        "clicks": 4
+        "clicks": 6
     }
 ]
