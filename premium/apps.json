@@ -22,6 +22,7 @@
     {
         "name": "Pac-Man",
         "url": "https:\/\/www.kaiosgames.com\/pacman",
-        "icon": "games\/pacman-icon.png"
+        "icon": "games\/pacman-icon.png",
+        "clicks": 2
     }
 ]
