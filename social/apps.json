@@ -3,7 +3,7 @@
         "name": "Facebook",
         "url": "https:\/\/www.facebook.com",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/facebook?width=48&height=48",
-        "clicks": 49
+        "clicks": 52
     },
     {
         "name": "X",
@@ -15,19 +15,19 @@
         "name": "WhatsApp Web",
         "url": "https:\/\/web.whatsapp.com",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/whatsapp?width=48&height=48",
-        "clicks": 87
+        "clicks": 92
     },
     {
         "name": "Telegram Web",
         "url": "https:\/\/web.telegram.org",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/telegram?width=48&height=48",
-        "clicks": 92
+        "clicks": 142
     },
     {
         "name": "Global Chat",
         "url": "https:\/\/wxfire.yzz.me\/tools\/kaios\/apps\/global-chat\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/global-chat-icon?width=48&height=48",
-        "clicks": 50
+        "clicks": 52
     },
     {
         "name": "Chat Batasa",
@@ -63,13 +63,13 @@
         "name": "Meet Y99",
         "url": "https:\/\/meet.y99.in\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Meet+Y99.png?width=48&height=48",
-        "clicks": 15
+        "clicks": 21
     },
     {
         "name": "Teen Chat City",
         "url": "https:\/\/teenchatcity.com",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Teen+Chat+City.png?width=48&height=48",
-        "clicks": 97
+        "clicks": 104
     },
     {
         "name": "Super Teen Chat",
@@ -105,31 +105,31 @@
         "name": "Cam Chat",
         "url": "https:\/\/cams.chat-avenue.com\/register",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Cam+Chat.png?width=48&height=48",
-        "clicks": 15
+        "clicks": 21
     },
     {
         "name": "Video Chat",
         "url": "https:\/\/www.chat-avenue.com\/video\/chat.php",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Video+Chat.png?width=48&height=48",
-        "clicks": 34
+        "clicks": 39
     },
     {
         "name": "Adult Chat",
         "url": "https:\/\/adultmobile.chat-avenue.com\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Adult+Chat.png?width=48&height=48",
-        "clicks": 28
+        "clicks": 29
     },
     {
         "name": "Live Chat",
         "url": "https:\/\/www.chat-avenue.com\/live\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Live+Chat.png?width=48&height=48",
-        "clicks": 7
+        "clicks": 10
     },
     {
         "name": "KaiCall (VCALL) Global",
         "url": "\/\/x0storekaios.blogspot.com\/vcall",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Video Call+%28VCall%29.png?width=48&height=48",
-        "clicks": 55
+        "clicks": 64
     },
     {
         "name": "ChitChat",
@@ -147,7 +147,7 @@
         "name": "WX Gallery",
         "url": "https:\/\/wxfire.rf.gd\/kai\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Gallery?width=48&height=48",
-        "clicks": 59
+        "clicks": 60
     },
     {
         "name": "#1PixarGeek",
@@ -159,7 +159,7 @@
         "name": "A Girl And A Cat",
         "url": "https:\/\/a-girl-and-a-cat.blogspot.com",
         "icon": "https:\/\/a-girl-and-a-cat.blogspot.com\/favicon.ico?width=48&height=48",
-        "clicks": 11
+        "clicks": 12
     },
     {
         "name": "Mad X0",
@@ -201,24 +201,29 @@
         "name": "VCall (KaiCall) 2.0",
         "url": "http:\/\/x0.rf.gd\/vcall\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/VCall+%28KaiCall%29+2.0.png?width=48&height=48",
-        "clicks": 67
+        "clicks": 74
     },
     {
         "name": "Chat V2",
         "url": "https:\/\/x00.yzz.me\/a\/chat-v2\/",
         "icon": "https:\/\/x00.yzz.me\/a\/chat-v2\/icon.png",
-        "clicks": 38
+        "clicks": 39
     },
     {
         "name": "Chatwave (All)",
         "url": "https:\/\/x00.yzz.me\/a\/chatwave-all\/",
         "icon": "https:\/\/x00.yzz.me\/a\/chatwave-all\/icon.png",
-        "clicks": 109
+        "clicks": 116
     },
     {
         "name": "Chit Chat (All)",
         "url": "https:\/\/x00.yzz.me\/a\/chit-chat-all\/",
         "icon": "https:\/\/x00.yzz.me\/a\/chit-chat-all\/icon.png",
-        "clicks": 15
+        "clicks": 18
+    },
+    {
+        "name": "Thards KaiOS",
+        "url": "https:\/\/thards.wapkizs.com\/",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/Thards+KaiOS.png?width=48&height=48"
     }
 ]
