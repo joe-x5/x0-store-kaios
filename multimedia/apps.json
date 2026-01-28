@@ -3,24 +3,24 @@
         "name": "NFWS HUB",
         "url": "\/a\/x0-all\/nfws\/",
         "icon": "\/a\/x0-all\/nfws\/icon.png",
-        "clicks": 54
+        "clicks": 160
     },
     {
         "name": "GenYouTUBE",
         "url": "http:\/\/genyt.net",
         "icon": "http:\/\/genyt.net\/favicon.ico",
-        "clicks": 15
+        "clicks": 50
     },
     {
         "name": "YouTube",
         "url": "http:\/\/m.youtube.com",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/youtube?width=48&height=48",
-        "clicks": 13
+        "clicks": 41
     },
     {
         "name": "Avairy Photo Editor",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/avairy-photo-editor\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/avairy-photo-editor\/img\/aviary-90.png",
-        "clicks": 5
+        "clicks": 25
     }
 ]
