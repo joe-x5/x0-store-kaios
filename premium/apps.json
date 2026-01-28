@@ -2,7 +2,8 @@
     {
         "name": "Snake",
         "url": "https:\/\/www.kaiosgames.com\/snake",
-        "icon": "games\/snake-icon.png"
+        "icon": "games\/snake-icon.png",
+        "clicks": 2
     },
     {
         "name": "2048",
@@ -12,12 +13,14 @@
     {
         "name": "Tetris",
         "url": "https:\/\/www.kaiosgames.com\/tetris",
-        "icon": "games\/tetris-icon.png"
+        "icon": "games\/tetris-icon.png",
+        "clicks": 2
     },
     {
         "name": "Crossy Road",
         "url": "https:\/\/www.kaiosgames.com\/crossyroad",
-        "icon": "games\/crossyroad-icon.png"
+        "icon": "games\/crossyroad-icon.png",
+        "clicks": 2
     },
     {
         "name": "Pac-Man",
