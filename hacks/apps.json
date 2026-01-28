@@ -3,25 +3,25 @@
         "name": "Sms Bomber",
         "url": "https:\/\/x0.rf.gd\/tools\/smsbomberbyshadow.php",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Sms+Bomber.png?width=48&height=48",
-        "clicks": 21
+        "clicks": 41
     },
     {
         "name": "Sim Details",
         "url": "https:\/\/x0.rf.gd\/tools\/shadowsimdetails.php",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Sim+Details.png?width=48&height=48",
-        "clicks": 16
+        "clicks": 21
     },
     {
         "name": "Whatsapp Unban",
         "url": "https:\/\/x0.rf.gd\/tools\/perma-unbanned.php",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Whatsapp+Unban.png?width=48&height=48",
-        "clicks": 12
+        "clicks": 25
     },
     {
         "name": "CDR Database",
         "url": "https:\/\/x0.rf.gd\/tools\/cdr-database.html?width=48&height=48",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/CDR+Database.png?width=48&height=48",
-        "clicks": 13
+        "clicks": 21
     },
     {
         "name": "Sms Bomber",
@@ -42,5 +42,11 @@
         "name": "CDR Database",
         "url": "https:\/\/x0.rf.gd\/tools\/cdr-database.html",
         "icon": "https:\/\/wxfire.rf.gd\/a\/ai-image-genrator\/g.php?prompt=CDR+Database.png"
+    },
+    {
+        "name": "Shadow Spy",
+        "url": "https:\/\/shadowspy.site\/tools.php",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/Shadow+Spy.png?width=48&height=48",
+        "clicks": 6
     }
 ]
