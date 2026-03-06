@@ -3,138 +3,162 @@
         "name": "Tools",
         "url": "\/\/x0.rf.gd\/a\/x0-all\/tools\/",
         "icon": "\/\/x0.rf.gd\/a\/x0-all\/tools\/icon.png?width=48&height=48",
-        "clicks": 30
+        "clicks": 64
     },
     {
         "name": "Hacking Tools",
         "url": "\/\/x0.rf.gd\/a\/x0-all\/hacks\/",
         "icon": "\/\/x0.rf.gd\/a\/x0-all\/hacks\/icon.png?width=48&height=48",
-        "clicks": 67
+        "clicks": 94
     },
     {
         "name": "Nokia Emulator",
         "url": "\/\/x0.rf.gd\/a\/x0-all\/Nokia%20Emulator%20(KaiOS)\/",
         "icon": "\/\/x0.rf.gd\/a\/x0-all\/Nokia%20Emulator%20(KaiOS)\/icon.png?width=48&height=48",
-        "clicks": 69
+        "clicks": 118
     },
     {
         "name": "Soft Key",
         "url": "https:\/\/x0.rf.gd\/host\/apps\/DiElahi\/Soft%20Key\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Soft%20Key-112.png?width=48&height=48",
-        "clicks": 23
+        "clicks": 31
     },
     {
         "name": "X Browser",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/tools-new-apps\/cloudfone\/x-browser\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/xbrowser?width=48&height=48",
-        "clicks": 46
+        "clicks": 91
     },
     {
         "name": "Movies Downloader",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/tools-new-apps\/movie%20downloader\/index.html",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/tools-new-apps\/movie%20downloader\/icons\/ic-128.png?width=48&height=48",
-        "clicks": 32
+        "clicks": 41
     },
     {
         "name": "Opera Mini 4.2",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Opera-Mini-4-21-New-Update-Java-App-2025-(mastermind.wapaxo.com).jar&midlet=Browser",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/opera-mini-4.2-20250723221028.png?width=48&height=48",
-        "clicks": 130
+        "clicks": 171
     },
     {
         "name": "WebCam Toy",
         "url": "https:\/\/wx-fire.rf.gd\/wct\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/WebCam+Toy.png?width=48&height=48",
-        "clicks": 6
+        "clicks": 15
     },
     {
         "name": "TranslatorByJoy",
         "url": "https:\/\/translate.google.com",
         "icon": "host\/translatorbyjoy-20250729110219.png?width=48&height=48",
-        "clicks": 10
+        "clicks": 30
     },
     {
         "name": "BoomPlay",
         "url": "https:\/\/www.boomplay.com\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/BoomPlay.png?width=48&height=48",
-        "clicks": 5
+        "clicks": 13
     },
     {
         "name": "TrueCALL",
         "url": "https:\/\/x0.rf.gd\/a\/truecall\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/TrueCALL.png?width=48&height=48",
-        "clicks": 9
+        "clicks": 21
     },
     {
         "name": "Coolapk KaiOS",
         "url": "https:\/\/coolapk-kaios.vercel.app\/#\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Coolapk+KaiOS.png?width=48&height=48",
-        "clicks": 14
+        "clicks": 22
     },
     {
         "name": "PWA KaiOS",
         "url": "https:\/\/wp-manager.blogspot.com\/",
         "icon": "https:\/\/wp-manager.blogspot.com\/favicon.ico",
-        "clicks": 13
+        "clicks": 17
     },
     {
         "name": "Movie Downloader",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Movie_Downloader\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Movie_Downloader\/icons\/ic-128.png?width=48&height=48",
-        "clicks": 9
+        "clicks": 20
     },
     {
         "name": "Password Generator",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Password_Generator\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Password_Generator\/icons\/icon112x112.png?width=48&height=48",
-        "clicks": 14
+        "clicks": 20
     },
     {
         "name": "RoyalBrowser Lite",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/RoyalBrowser_Lite\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/RoyalBrowser_Lite\/icons\/icon112.png?width=48&height=48",
-        "clicks": 27
+        "clicks": 47
     },
     {
         "name": "Super Downloader",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Super_Downloader\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Super_Downloader\/icons\/icon_128.png?width=48&height=48",
-        "clicks": 10
+        "clicks": 26
     },
     {
         "name": "Video Downloader",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Video_Downloader\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Video_Downloader\/icons\/128.png?width=48&height=48",
-        "clicks": 44
+        "clicks": 74
     },
     {
         "name": "Feedolin",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Feedolin%201.8.110\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Feedolin%201.8.110\/icon-56-56.e7bf946f.png?width=48&height=48",
-        "clicks": 9
+        "clicks": 11
     },
     {
         "name": "X0 Proxy Browser",
         "url": "http:\/\/x0.rf.gd\/tools\/X0%20Proxy\/",
         "icon": "http:\/\/x0.rf.gd\/tools\/X0%20Proxy\/icon.png",
-        "clicks": 21
+        "clicks": 36
     },
     {
         "name": "Web Cloner (VPN)",
         "url": "https:\/\/x00.yzz.me\/a\/cloner\/",
         "icon": "https:\/\/x00.yzz.me\/a\/cloner\/icon.png",
-        "clicks": 26
+        "clicks": 47
     },
     {
         "name": "Shadow Tools",
         "url": "https:\/\/shadowtools.site\/",
         "icon": "https:\/\/shadowtools.site\/favicon.ico",
-        "clicks": 2
+        "clicks": 10
     },
     {
         "name": "IMEI Details",
         "url": "https:\/\/shadowtools.site\/imeitodetails.php",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/IMEI+Details.png?width=48&height=48",
-        "clicks": 9
+        "clicks": 16
+    },
+    {
+        "name": "Online Image Editor",
+        "url": "https:\/\/www.online-image-editor.com\/",
+        "icon": "https:\/\/www.online-image-editor.com\/favicon.ico",
+        "clicks": 13
+    },
+    {
+        "name": "Ai Img gen",
+        "url": "https:\/\/shadowtools.site\/imagegen.php",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/Ai+Img+gen.png?width=48&height=48",
+        "clicks": 11
+    },
+    {
+        "name": "X0 DevPortal",
+        "url": "http:\/\/x0.rf.gd\/devportal\/",
+        "icon": "http:\/\/x0.rf.gd\/devportal\/icon.png",
+        "clicks": 30
+    },
+    {
+        "name": "CLOUD-WEB",
+        "url": "http:\/\/Cloudphonebd.github.io\/Browser",
+        "icon": "host\/cloud-web-20260224190623.png",
+        "clicks": 18
     }
 ]
