@@ -3,7 +3,7 @@
         "name": "Tiki Game",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/tiki-game\/",
         "icon": "host\/tiki-game-20250719082052.png?width=48&height=48",
-        "clicks": 11
+        "clicks": 41
     },
     {
         "name": "Ralic Runway",
@@ -15,84 +15,85 @@
         "name": "The Averagers",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/The%20Avengers.jar&midlet=GloftAVEN",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/avengers?width=48&height=48",
-        "clicks": 5
+        "clicks": 15
     },
     {
         "name": "Prince Of Porn",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Prince-Of-Porn-Awesome-Java-Game-2024-(mdurbain.wapaxo.com).jar&midlet=MainMIDlet",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/PrinceofPorn+game?width=48&height=48",
-        "clicks": 48
+        "clicks": 107
     },
     {
         "name": "Spider Man",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/The%20Amazing%20Spider%20Man.jar&midlet=GloftTASM",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/spiderman?width=48&height=48",
-        "clicks": 63
+        "clicks": 150
     },
     {
         "name": "King Kong",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/King%20Kong%20The%20Official%20Game.jar&midlet=GloftKIKO",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/King+Kong.png?width=48&height=48",
-        "clicks": 4
+        "clicks": 21
     },
     {
         "name": "Rayman 3",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Rayman%203.jar&midlet=GameMidlet",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Rayman+3.png?width=48&height=48",
-        "clicks": 4
+        "clicks": 14
     },
     {
         "name": "Shrek The Third",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Shrek-TheThird_s40v3a.jar&midlet=GloftSTTH",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Shrek+The+Third.png?width=48&height=48",
-        "clicks": 3
+        "clicks": 6
     },
     {
         "name": "Contra 4",
         "url": "https:\/\/assets-prd.ignimgs.com\/2022\/05\/03\/contra4-1651608798640.jpg?crop=1%3A1%2Csmart&format=jpg&auto=webp&quality=80",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/contra4?width=48&height=48",
-        "clicks": 14
+        "clicks": 35
     },
     {
         "name": "Asphalt 6",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Asphalt%206%20Adrenaline.jar&midlet=GloftASP6",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Asphalt+6.png?width=48&height=48",
-        "clicks": 34
+        "clicks": 101
     },
     {
         "name": "Asphalt 2 UrBan GT",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Asphalt%202%20Urban%20GT.jar&midlet=GloftASP2",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Asphalt+2+UrBan+GT.png?width=48&height=48",
-        "clicks": 6
+        "clicks": 59
     },
     {
         "name": "Asphalt UrBan GT",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Asphalt%20Urban%20GT.jar&midlet=cMIDlet",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Asphalt+UrBan+GT.png?width=48&height=48",
-        "clicks": 18
+        "clicks": 33
     },
     {
         "name": "Bounce Tales",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Bounce%20Tales.jar&midlet=RMIDlet",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Bounce+Tales.png?width=48&height=48",
-        "clicks": 10
+        "clicks": 28
     },
     {
         "name": "Cricket T20",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Cricket%20T20%20World%20Championship.jar&midlet=CricketMIDlet",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Cricket+T20.png?width=48&height=48",
-        "clicks": 42
+        "clicks": 189
     },
     {
         "name": "Thor Dark World",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Thor%20Dark%20World.jar&midlet=GloftTR2M",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Thor+Dark+World.png?width=48&height=48",
-        "clicks": 32
+        "clicks": 67
     },
     {
         "name": "Virtual Villagers",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/virtual_villagers_240x320-270325.jar&midlet=MV",
-        "icon": "host\/virtual-villagers-20250724050909.png?width=48&height=48"
+        "icon": "host\/virtual-villagers-20250724050909.png?width=48&height=48",
+        "clicks": 10
     },
     {
         "name": "Titan's War",
@@ -103,97 +104,97 @@
         "name": "Avengers",
         "url": "https:\/\/mrush.net\/welcome?PHPSESSID=477e5319b68616395410496e440cd70f.1753369532.6969974",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/avengers+game?width=48&height=48",
-        "clicks": 10
+        "clicks": 38
     },
     {
         "name": "Magic World",
         "url": "https:\/\/en.mworld.mobi\/?channelId=35",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/magic%20world%20game?width=48&height=48",
-        "clicks": 6
+        "clicks": 12
     },
     {
         "name": "Happy Tower",
         "url": "https:\/\/happytower.mobi\/welcome?channelId=35",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/gamehappytower?width=48&height=48",
-        "clicks": 2
+        "clicks": 12
     },
     {
         "name": "War Tank",
         "url": "https:\/\/wartank.net\/?channelId=35",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/gamewartank?width=48&height=48",
-        "clicks": 9
+        "clicks": 26
     },
     {
         "name": "Masters of Eleme",
         "url": "https:\/\/elem.cards\/start\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/master%20of%20eleme%20game?width=48&height=48",
-        "clicks": 3
+        "clicks": 11
     },
     {
         "name": "Castle wars",
         "url": "https:\/\/overmobile.net\/go\/game\/16\/",
         "icon": "https:\/\/overmobile.net\/images\/game16.jpg?width=48&height=48",
-        "clicks": 6
+        "clicks": 13
     },
     {
         "name": "OPT WhatsApp",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/OptWhatsApp.jar&midlet=com.whatsapp.client.test.WhatsAppBG",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/OPT+WhatsApp.png?width=48&height=48",
-        "clicks": 62
+        "clicks": 97
     },
     {
         "name": "Tempe Run",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/teh2_nok_6280.jar&midlet=XX",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Tempe+Run.png?width=48&height=48",
-        "clicks": 25
+        "clicks": 128
     },
     {
         "name": "Skate Hooligans",
         "url": "http:\/\/gemioli.com\/hooligans\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Skate+Hooligans.png?width=48&height=48",
-        "clicks": 11
+        "clicks": 45
     },
     {
         "name": "Ludo PHP",
         "url": "https:\/\/wx-fire.rf.gd\/games\/ludo\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Ludo+PHP.png?width=48&height=48",
-        "clicks": 4
+        "clicks": 51
     },
     {
         "name": "Girl Fashion Match",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Girl%20Fashion%20Match%203%203.0.1\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Girl%20Fashion%20Match%203%203.0.1\/112.png?width=48&height=48",
-        "clicks": 2
+        "clicks": 4
     },
     {
         "name": "Girl Doll Makeup",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Girl%20Doll%20Makeup%203.0.2\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Girl%20Doll%20Makeup%203.0.2\/112.png?width=48&height=48",
-        "clicks": 4
+        "clicks": 10
     },
     {
         "name": "Girl Doll Hand Care",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Girl%20Doll%20Hand%20Care%203.0.2\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Girl%20Doll%20Hand%20Care%203.0.2\/112.png?width=48&height=48",
-        "clicks": 10
+        "clicks": 22
     },
     {
         "name": "Girl Doll Dress Up",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Girl%20Doll%20Dress%20Up%203.0.2\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Girl%20Doll%20Dress%20Up%203.0.2\/112.png?width=48&height=48",
-        "clicks": 15
+        "clicks": 29
     },
     {
         "name": "Talking Bot",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Talking_bot\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Talking_bot\/icon.svg?width=48&height=48",
-        "clicks": 19
+        "clicks": 25
     },
     {
         "name": "DoctorBaby Hospital",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Doctor%20Baby%20Hospital%203.0.2\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Doctor%20Baby%20Hospital%203.0.2\/112.png?width=48&height=48",
-        "clicks": 4
+        "clicks": 6
     },
     {
         "name": "Gemini Block Match",
@@ -210,12 +211,24 @@
         "name": "Talking Boy",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Talking%20Boy\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Talking%20Boy\/icon.png",
-        "clicks": 3
+        "clicks": 24
     },
     {
         "name": "Kart Hooligans",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Kart%20Hooligans\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/games\/Kart%20Hooligans\/icon.png",
-        "clicks": 8
+        "clicks": 21
+    },
+    {
+        "name": "Bouncy Balls",
+        "url": "https:\/\/webstore.kaiostech.com\/apps?manifest_url=https:\/\/api.kaiostech.com\/apps\/manifest\/9yR-cFzgl5cRJiRvve0T",
+        "icon": "https:\/\/storage.kaiostech.com\/v3.0\/files\/app\/U\/9DW-_7SmJfrjvtrGfiWH2hB7uhCgMtJZ423_v6\/ICON_IMAGE.png",
+        "clicks": 15
+    },
+    {
+        "name": "J2ME",
+        "url": "Http:\/\/Cloudphonebd.github.io\/freej2me-web",
+        "icon": "host\/j2me-20260225045255.png",
+        "clicks": 12
     }
 ]
