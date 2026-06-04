@@ -15,7 +15,7 @@
         "name": "Nokia Emulator",
         "url": "\/\/x0.rf.gd\/a\/x0-all\/Nokia%20Emulator%20(KaiOS)\/",
         "icon": "\/\/x0.rf.gd\/a\/x0-all\/Nokia%20Emulator%20(KaiOS)\/icon.png?width=48&height=48",
-        "clicks": 345
+        "clicks": 346
     },
     {
         "name": "Soft Key",
@@ -27,7 +27,7 @@
         "name": "X Browser",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/tools-new-apps\/cloudfone\/x-browser\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/xbrowser?width=48&height=48",
-        "clicks": 213
+        "clicks": 219
     },
     {
         "name": "Movies Downloader",
@@ -69,13 +69,13 @@
         "name": "Coolapk KaiOS",
         "url": "https:\/\/coolapk-kaios.vercel.app\/#\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Coolapk+KaiOS.png?width=48&height=48",
-        "clicks": 28
+        "clicks": 29
     },
     {
         "name": "PWA KaiOS",
         "url": "https:\/\/wp-manager.blogspot.com\/",
         "icon": "https:\/\/wp-manager.blogspot.com\/favicon.ico",
-        "clicks": 46
+        "clicks": 47
     },
     {
         "name": "Movie Downloader",
@@ -99,7 +99,7 @@
         "name": "Super Downloader",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Super_Downloader\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Super_Downloader\/icons\/icon_128.png?width=48&height=48",
-        "clicks": 55
+        "clicks": 56
     },
     {
         "name": "Video Downloader",
@@ -147,7 +147,7 @@
         "name": "Ai Img gen",
         "url": "https:\/\/shadowtools.site\/imagegen.php",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Ai+Img+gen.png?width=48&height=48",
-        "clicks": 52
+        "clicks": 53
     },
     {
         "name": "X0 DevPortal",
@@ -159,7 +159,7 @@
         "name": "CLOUD-WEB",
         "url": "http:\/\/Cloudphonebd.github.io\/Browser",
         "icon": "host\/cloud-web-20260224190623.png",
-        "clicks": 61
+        "clicks": 62
     },
     {
         "name": "Ip Info",
