@@ -39,7 +39,7 @@
         "name": "ChitChat",
         "url": "https:\/\/regal-naiad-17d6ad.netlify.app\/main.html",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/chat%20?width=48&height=48",
-        "clicks": 407
+        "clicks": 414
     },
     {
         "name": "X0 CHAT5",
@@ -123,7 +123,7 @@
         "name": "Chit Chat (All)",
         "url": "https:\/\/x00.yzz.me\/a\/chit-chat-all\/",
         "icon": "https:\/\/x00.yzz.me\/a\/chit-chat-all\/icon.png",
-        "clicks": 103
+        "clicks": 105
     },
     {
         "name": "VCall V1.1",
@@ -135,7 +135,7 @@
         "name": "VCall V1.2",
         "url": "https:\/\/kaios-call.blogspot.com\/2026\/01\/vcall-v12.html",
         "icon": "https:\/\/kaios-call.blogspot.com\/favicon.ico",
-        "clicks": 242
+        "clicks": 244
     },
     {
         "name": "14FEB",
@@ -159,7 +159,7 @@
         "name": "PVT Chat",
         "url": "https:\/\/x0.rf.gd\/a\/pvtchat\/",
         "icon": "https:\/\/x0.rf.gd\/a\/pvtchat\/icon.png",
-        "clicks": 560
+        "clicks": 565
     },
     {
         "name": "Kai Dating",
@@ -201,7 +201,7 @@
         "name": "Chat Max \ud83d\udcac",
         "url": "https:\/\/chat-max-all.blogspot.com\/chatmax222",
         "icon": "https:\/\/chat-max-all.blogspot.com\/favicon.ico",
-        "clicks": 49
+        "clicks": 50
     },
     {
         "name": "CloudChat",
@@ -212,7 +212,8 @@
     {
         "name": "Chat Max ( Private )",
         "url": "https:\/\/chat-max-all.blogspot.com\/chatmaxpvt222",
-        "icon": "https:\/\/chat-max-all.blogspot.com\/favicon.ico"
+        "icon": "https:\/\/chat-max-all.blogspot.com\/favicon.ico",
+        "clicks": 1
     },
     {
         "name": "We are Teens",
