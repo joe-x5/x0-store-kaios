@@ -3,7 +3,7 @@
         "name": "ChatGPT",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/chat-gpt-x\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/chat-gpt-x?width=48&height=48",
-        "clicks": 61
+        "clicks": 63
     },
     {
         "name": "Cat Pic Genrator",
@@ -21,7 +21,7 @@
         "name": "Ai Img",
         "url": "https:\/\/x0.rf.gd\/a\/ai-img\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Ai+Img.png?width=48&height=48",
-        "clicks": 114
+        "clicks": 118
     },
     {
         "name": "X0 GPT",
@@ -33,13 +33,13 @@
         "name": "Invision X",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Invision%20X\/",
         "icon": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Invision%20X\/icons\/icon112x112.png?width=48&height=48",
-        "clicks": 32
+        "clicks": 38
     },
     {
         "name": "X0 Flower",
         "url": "https:\/\/x0.rf.gd\/a\/x0flower\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/X0+Flower.png?width=48&height=48",
-        "clicks": 17
+        "clicks": 19
     },
     {
         "name": "X0 Car",
@@ -57,7 +57,7 @@
         "name": "X0 Love",
         "url": "https:\/\/x0.rf.gd\/a\/x0love\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/X0+Love.png?width=48&height=48",
-        "clicks": 20
+        "clicks": 26
     },
     {
         "name": "X0 Heart",
@@ -69,6 +69,6 @@
         "name": "Chat GPT",
         "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/Chat%20GPT%202.1.15\/",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Chat+GPT.png?width=48&height=48",
-        "clicks": 27
+        "clicks": 29
     }
 ]
