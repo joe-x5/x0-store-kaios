@@ -1,9 +1,33 @@
 [
     {
         "name": "Tiki Game",
-        "url": "https:\/\/vivekgyan7.rf.gd\/tools\/kaios\/apps\/tiki-game\/",
-        "icon": "host\/tiki-game-20250719082052.png?width=48&height=48",
+        "url": "https:\/\/chat-max-all.blogspot.com\/2026\/04\/tiki-game-10.html?m=1",
+        "icon": "https:\/\/tikigamekaios.blogspot.com\/favicon.ico?width=48&height=48",
         "clicks": 109
+    },
+    {
+        "name": "Kitty Game \ud83d\udc3e",
+        "url": "https:\/\/chat-max-all.blogspot.com\/2026\/07\/kitty-game-multiplayer-v10.html?m=1",
+        "icon": "https:\/\/cdn-icons-png.flaticon.com\/32\/15609\/15609003.png?width=48&height=48",
+        "clicks": 0
+    },
+    {
+        "name": "Checkers Game \ud83d\udd18",
+        "url": "https:\/\/chat-max-all.blogspot.com\/2026\/09\/checkers-game.html?m=1",
+        "icon": "https:\/\/cdn-icons-png.flaticon.com\/32\/11103\/11103655.png?width=48&height=48",
+        "clicks": 0
+    },
+    {
+        "name": "Minecraft KaiOS \ud83d\udfe9",
+        "url": "https:\/\/www.classicube.net\/server\/play\/?warned=true",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/Minecraft?width=48&height=48",
+        "clicks": 0
+    },
+    {
+        "name": "Chess Game \u265f\ufe0f",
+        "url": "https:\/\/chat-max-all.blogspot.com\/2026\/09\/chess-game.html?m=1",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/chess?width=48&height=48",
+        "clicks": 0
     },
     {
         "name": "Ralic Runway",
@@ -22,6 +46,36 @@
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Prince-Of-Porn-Awesome-Java-Game-2024-(mdurbain.wapaxo.com).jar&midlet=MainMIDlet",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/PrinceofPorn+game?width=48&height=48",
         "clicks": 261
+    },
+    {
+        "name": "Super Model",
+        "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/supermodel_5zix2xcq.jar&midlet=FashionWeek",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/super+model+game?width=48&height=48",
+        "clicks": 0
+    },
+    {
+        "name": "Dinner Dash 2",
+        "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/diner_dash_2_restau_240x320_190579.jar&midlet=Game_DINER2_1P",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/dinner+dash2+game?width=48&height=48",
+        "clicks": 0
+    },
+    {
+        "name": "Medal of Honor",
+        "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Medal_of_Honor_240x320.jar&midlet=EA_MoHA_MIDlet",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/Medal_of_Honor+game?width=48&height=48",
+        "clicks": 0
+    },
+    {
+        "name": "Kaorus Cake House",
+        "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/kaorus_cake_house_240x320-325401.jar&midlet=com.macera.j2megames.GameMidlet",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/kaorus_cake_house+game?width=48&height=48",
+        "clicks": 0
+    },
+    {
+        "name": "Auto Rickshaw Dash",
+        "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/auto_rickshaw_dash_128898.jar&midlet=com.P4.essentials.Midl",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/auto_rickshaw_dash+game?width=48&height=48",
+        "clicks": 0
     },
     {
         "name": "Spider Man",
@@ -224,12 +278,6 @@
         "url": "https:\/\/webstore.kaiostech.com\/apps?manifest_url=https:\/\/api.kaiostech.com\/apps\/manifest\/9yR-cFzgl5cRJiRvve0T",
         "icon": "https:\/\/storage.kaiostech.com\/v3.0\/files\/app\/U\/9DW-_7SmJfrjvtrGfiWH2hB7uhCgMtJZ423_v6\/ICON_IMAGE.png",
         "clicks": 28
-    },
-    {
-        "name": "J2ME",
-        "url": "Http:\/\/Cloudphonebd.github.io\/freej2me-web",
-        "icon": "host\/j2me-20260225045255.png",
-        "clicks": 106
     },
     {
         "name": "WormZilla",
