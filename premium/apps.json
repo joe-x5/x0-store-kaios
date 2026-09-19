@@ -3,7 +3,7 @@
         "name": "Snake",
         "url": "https:\/\/www.kaiosgames.com\/snake",
         "icon": "games\/snake-icon.png",
-        "clicks": 10
+        "clicks": 13
     },
     {
         "name": "2048",
@@ -21,12 +21,12 @@
         "name": "Crossy Road",
         "url": "https:\/\/www.kaiosgames.com\/crossyroad",
         "icon": "games\/crossyroad-icon.png",
-        "clicks": 5
+        "clicks": 7
     },
     {
         "name": "Pac-Man",
         "url": "https:\/\/www.kaiosgames.com\/pacman",
         "icon": "games\/pacman-icon.png",
-        "clicks": 3
+        "clicks": 7
     }
 ]
