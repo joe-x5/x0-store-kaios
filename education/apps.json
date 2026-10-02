@@ -2,13 +2,25 @@
     {
         "name": "NCSOLVE",
         "url": "\/\/ncsolve.blogspot.com",
-        "icon": "\/\/x0.rf.gd\/a\/x0-all\/education\/host\/ncsolve-20250719080010.png",
+        "icon": "\/\/ncsolve.blogspot.com\/favicon.ico",
         "clicks": 167
     },
     {
         "name": "Edu Ai \ud83e\udd16",
         "url": "\/\/edu-ai.blogspot.com",
-        "icon": "host\/edu_ai-20250719080543.png",
+        "icon": "\/\/edu-ai.blogspot.com\/favicon.ico",
         "clicks": 133
+    },
+    {
+        "name": "Math Challenge \ud83c\udfb2",
+        "url": "https:\/\/tool-max.blogspot.com\/2026\/10\/math-challenge.html?m=1",
+        "icon": "\/\/cdn-icons-png.flaticon.com\/64\/12471\/12471848.png",
+        "clicks": 0
+    },
+    {
+        "name": "Drawing Pad \ud83d\udd8c\ufe0f",
+        "url": "https:\/\/tool-max.blogspot.com\/2026\/10\/drawing-pad.html?m=1",
+        "icon": "\/\/cdn-icons-png.flaticon.com\/64\/11751\/11751874.png",
+        "clicks": 0
     }
 ]
