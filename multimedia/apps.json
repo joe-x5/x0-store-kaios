@@ -1,9 +1,9 @@
 [
     {
         "name": "NFWS HUB",
-        "url": "\/a\/x0-all\/nfws\/",
-        "icon": "\/a\/x0-all\/nfws\/icon.png",
-        "clicks": 983
+        "url": "http:\/\/x0.rf.gd\/a\/x0-all\/nfws\/",
+        "icon": "http:\/\/x0.rf.gd\/a\/x0-all\/nfws\/icon.png",
+        "clicks": 990
     },
     {
         "name": "GenYouTUBE",
@@ -27,13 +27,13 @@
         "name": "Spotify",
         "url": "https:\/\/x0.rf.gd\/host\/apps\/Jack\/Spotify\/",
         "icon": "https:\/\/x0.rf.gd\/host\/apps\/Jack\/Spotify\/icon.png",
-        "clicks": 170
+        "clicks": 171
     },
     {
         "name": "Cloud-Browser",
         "url": "Http:\/\/Cloudphonebd.github.io\/Browser",
         "icon": "host\/cloud-browser-20260224185143.png",
-        "clicks": 161
+        "clicks": 163
     },
     {
         "name": "Cloud-Browser",
