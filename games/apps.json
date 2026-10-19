@@ -3,7 +3,7 @@
         "name": "Tiki Game",
         "url": "https:\/\/chat-max-all.blogspot.com\/2026\/04\/tiki-game-10.html?m=1",
         "icon": "https:\/\/tikigamekaios.blogspot.com\/favicon.ico?width=48&height=48",
-        "clicks": 109
+        "clicks": 110
     },
     {
         "name": "Kitty Game \ud83d\udc3e",
@@ -46,6 +46,24 @@
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Prince-Of-Porn-Awesome-Java-Game-2024-(mdurbain.wapaxo.com).jar&midlet=MainMIDlet",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/PrinceofPorn+game?width=48&height=48",
         "clicks": 261
+    },
+    {
+        "name": "Dragon Island",
+        "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Dragon_Island_240x320-169741-mobiles24.jar&midlet=b",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/Dragon_Island?width=48&height=48",
+        "clicks": 0
+    },
+    {
+        "name": "FreeFlight_3D",
+        "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/FreeFlight_3D_Flight_Simulator_240x320-139953-mobiles24.jar&midlet=FreeFlight",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/FreeFlight_3D?width=48&height=48",
+        "clicks": 0
+    },
+    {
+        "name": "FreeFlight_3D",
+        "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/FreeFlight_3D_Flight_Simulator_240x320-139953-mobiles24.jar&midlet=FreeFlight",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/FreeFlight_3D?width=48&height=48",
+        "clicks": 0
     },
     {
         "name": "Super Model",
@@ -111,7 +129,7 @@
         "name": "Asphalt 6",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Asphalt%206%20Adrenaline.jar&midlet=GloftASP6",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Asphalt+6.png?width=48&height=48",
-        "clicks": 195
+        "clicks": 196
     },
     {
         "name": "Asphalt 2 UrBan GT",
@@ -155,52 +173,16 @@
         "icon": "https:\/\/tiwar.net\/favicon.ico"
     },
     {
-        "name": "Avengers",
-        "url": "https:\/\/mrush.net\/welcome?PHPSESSID=477e5319b68616395410496e440cd70f.1753369532.6969974",
-        "icon": "https:\/\/image.pollinations.ai\/prompt\/avengers+game?width=48&height=48",
-        "clicks": 83
-    },
-    {
-        "name": "Magic World",
-        "url": "https:\/\/en.mworld.mobi\/?channelId=35",
-        "icon": "https:\/\/image.pollinations.ai\/prompt\/magic%20world%20game?width=48&height=48",
-        "clicks": 27
-    },
-    {
-        "name": "Happy Tower",
-        "url": "https:\/\/happytower.mobi\/welcome?channelId=35",
-        "icon": "https:\/\/image.pollinations.ai\/prompt\/gamehappytower?width=48&height=48",
-        "clicks": 384
-    },
-    {
-        "name": "War Tank",
-        "url": "https:\/\/wartank.net\/?channelId=35",
-        "icon": "https:\/\/image.pollinations.ai\/prompt\/gamewartank?width=48&height=48",
-        "clicks": 65
-    },
-    {
-        "name": "Masters of Eleme",
-        "url": "https:\/\/elem.cards\/start\/",
-        "icon": "https:\/\/image.pollinations.ai\/prompt\/master%20of%20eleme%20game?width=48&height=48",
-        "clicks": 18
-    },
-    {
-        "name": "Castle wars",
-        "url": "https:\/\/overmobile.net\/go\/game\/16\/",
-        "icon": "https:\/\/overmobile.net\/images\/game16.jpg?width=48&height=48",
-        "clicks": 23
-    },
-    {
         "name": "OPT WhatsApp",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/OptWhatsApp.jar&midlet=com.whatsapp.client.test.WhatsAppBG",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/OPT+WhatsApp.png?width=48&height=48",
-        "clicks": 204
+        "clicks": 205
     },
     {
         "name": "Tempe Run",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/teh2_nok_6280.jar&midlet=XX",
         "icon": "https:\/\/image.pollinations.ai\/prompt\/Tempe+Run.png?width=48&height=48",
-        "clicks": 226
+        "clicks": 228
     },
     {
         "name": "Skate Hooligans",
@@ -275,14 +257,8 @@
     },
     {
         "name": "Bouncy Balls",
-        "url": "https:\/\/webstore.kaiostech.com\/apps?manifest_url=https:\/\/api.kaiostech.com\/apps\/manifest\/9yR-cFzgl5cRJiRvve0T",
-        "icon": "https:\/\/storage.kaiostech.com\/v3.0\/files\/app\/U\/9DW-_7SmJfrjvtrGfiWH2hB7uhCgMtJZ423_v6\/ICON_IMAGE.png",
+        "url": "https:\/\/bouncy-balls.blogspot.com\/",
+        "icon": "https:\/\/bouncy-balls.blogspot.com\/favicon.ico",
         "clicks": 28
-    },
-    {
-        "name": "WormZilla",
-        "url": "https:\/\/wormzilla.xi0.in\/",
-        "icon": "https:\/\/wormzilla.xi0.in\/favicon.ico",
-        "clicks": 9
     }
 ]
