@@ -60,9 +60,45 @@
         "clicks": 0
     },
     {
-        "name": "FreeFlight_3D",
-        "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/FreeFlight_3D_Flight_Simulator_240x320-139953-mobiles24.jar&midlet=FreeFlight",
-        "icon": "https:\/\/image.pollinations.ai\/prompt\/FreeFlight_3D?width=48&height=48",
+        "name": "Plants_vs_Zombies",
+        "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars%2FPlants_vs_Zombies_240x320-4.3.22-651742-mobiles24.jar&midlet=Game",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/Plants_vs_Zombies?width=48&height=48",
+        "clicks": 0
+    },
+    {
+        "name": "Milk_Empire_2",
+        "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars%2FMilk_Empire_2_240x320_Nokia_N95-452921-mobiles24.jar&midlet=Zzayo2",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/Milk_Empire_2?width=48&height=48",
+        "clicks": 0
+    },
+    {
+        "name": "Jcc2_v1",
+        "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars%2FJcc2_v1.jar&midlet=jcc2.application.Main",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/Jcc2_v1?width=48&height=48",
+        "clicks": 0
+    },
+    {
+        "name": "Mind_Games",
+        "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars%2FMind_Games_240x320-56112-mobiles24.jar&midlet=CobraMidlet",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/Mind_Games?width=48&height=48",
+        "clicks": 0
+    },
+    {
+        "name": "Real Football",
+        "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars%2FReal%20Football%202010.jar&midlet=GloftRF10",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/Real%20Football?width=48&height=48",
+        "clicks": 0
+    },
+    {
+        "name": "prince_of_persia",
+        "url": "http:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars%2Fprince_of_persia_sa_240x320_186822.jar&midlet=cMIDlet",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/prince_of_persia?width=48&height=48",
+        "clicks": 0
+    },
+    {
+        "name": "GP_Bikes_Challenge_3D",
+        "url": "http:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars%2Fkungupanda_9okw7dky.jar&midlet=com.ea.kungfupanda.MonkeyApp",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/GP_Bikes_Challenge_3D?width=48&height=48",
         "clicks": 0
     },
     {
@@ -134,13 +170,13 @@
     {
         "name": "Asphalt 2 UrBan GT",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Asphalt%202%20Urban%20GT.jar&midlet=GloftASP2",
-        "icon": "https:\/\/image.pollinations.ai\/prompt\/Asphalt+2+UrBan+GT.png?width=48&height=48",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/Asphalt+2+UrBan+GT?width=48&height=48",
         "clicks": 117
     },
     {
         "name": "Asphalt UrBan GT",
         "url": "https:\/\/x0.rf.gd\/a\/j2me\/main.html?jarlink=jars\/Asphalt%20Urban%20GT.jar&midlet=cMIDlet",
-        "icon": "https:\/\/image.pollinations.ai\/prompt\/Asphalt+UrBan+GT.png?width=48&height=48",
+        "icon": "https:\/\/image.pollinations.ai\/prompt\/Asphalt+UrBan+GT?width=48&height=48",
         "clicks": 51
     },
     {
